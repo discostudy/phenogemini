@@ -1,2 +1,2 @@
 # phenogemini
-PhenoGemeni - Identify Twins, Uncover Molecular Diagnosis
+PhenoGemini - Identify Twins, Uncover Molecular Diagnosis
