@@ -1,0 +1,33 @@
+{
+  "document_info": {
+    "pmid": "12345678",
+    "title": "Sample Mendelian Case Report",
+    "journal": "Example Journal",
+    "year": 2023,
+    "total_patients_found": 1
+  },
+  "patients": [
+    {
+      "patient_id": "P1",
+      "demographics": {
+        "sex": "female",
+        "age": 7
+      },
+      "phenotype": {
+        "description": "Progressive ataxia and developmental delay",
+        "hpo_terms": ["HP:0001251", "HP:0000717"]
+      },
+      "genotype": {
+        "variants": [
+          {
+            "gene": "ABC1",
+            "zygosity": "compound_heterozygous",
+            "hgvs_cdna": "c.123A>G",
+            "hgvs_protein": "p.Lys41Arg",
+            "testing_method": "WES"
+          }
+        ]
+      }
+    }
+  ]
+}

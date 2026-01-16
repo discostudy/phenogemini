@@ -1,0 +1,12 @@
+#  Copyright (c) 2018-2023 Beijing Ekitech Co., Ltd.
+#  All rights reserved.
+
+BUSINESS_VERSION = '1.0.0'
+
+# -- BEGIN: AUTOMATED VERSIONING -- #
+BUILD_COMMIT = 'workingcopy'
+BUILD_NUMBER = '0+workingcopy'
+BUILD_DATE = 'workingcopy'
+# -- END: AUTOMATED VERSIONING -- #
+
+FULL_VERSION = f'{BUSINESS_VERSION}.{BUILD_NUMBER}' if BUSINESS_VERSION else BUILD_NUMBER

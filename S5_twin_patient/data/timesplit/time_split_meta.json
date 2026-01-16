@@ -1,0 +1,14 @@
+{
+  "mapped": "/nvme/phenogemini/version_3/source_files/PhenoGemini_g2p_20251014_conversion_all_gene_normalized_with_valid_gene_confirmed_phenotypes_filtered.pkl",
+  "cutoff_year": 2023,
+  "year_column": "pub_year",
+  "gene_column": "entrez_gene_id",
+  "index_rows": 333690,
+  "query_rows": 13356,
+  "out": {
+    "index_uids": "/nvme/phenogemini/version_3/6.evaluation/data/time_split.index_uids.txt",
+    "query_uids": "/nvme/phenogemini/version_3/6.evaluation/data/time_split.query_uids.txt",
+    "queries_tsv": "/nvme/phenogemini/version_3/6.evaluation/data/queries_time.tsv",
+    "labels_tsv": "/nvme/phenogemini/version_3/6.evaluation/data/labels_time.tsv"
+  }
+}

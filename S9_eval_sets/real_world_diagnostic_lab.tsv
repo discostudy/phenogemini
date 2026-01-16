@@ -1,0 +1,427 @@
+patient_uid	gene_symbol	entrez_gene_id	phenotypes	cohort
+ABC6600106	PAH	5053	Hyperphenylalaninemia; Elevated phenylalanine levels; increased phenylalanine/tyrosine ratio	DiagnosticLab
+ABC6600140	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC6600258	PAH	5053	Hyperphenylalaninemia; Increased ratio of phenylalanine to tyrosine	DiagnosticLab
+ABC6600297	MMACHC	25974	Methylmalonic acidemia; homocysteinemia; elevated propionylcarnitine; hypermethioninemia; Elevated methylmalonic acid level; Elevated homocysteine level; Elevated propionylcarnitine; Elevated plasma methionine	DiagnosticLab
+ABC6600311	ACADVL	37	Elevated C14:1-carnitine levels; Elevated C14-carnitine levels	DiagnosticLab
+ABC66010009-C1	CBL	867	Neonatal encephalopathy; hyperpigmentation; thrombocytopenia; facial skin rash; hyperaldosteronism; abnormal electroencephalogram; malformation of cortical development; hemiatrophy of brain; cerebellar atrophy; hypoplasia of the corpus callosum; enlarged cisterna magna; congenital immunodeficiency	DiagnosticLab
+ABC66010015-C1	F8	2157	Arthralgia; Hemarthrosis; Increased bleeding tendency; Reduced factor VIII activity	DiagnosticLab
+ABC66010022-C1	APC	324	Gastrointestinal polyposis; Family history of gastrointestinal polyps	DiagnosticLab
+ABC66010028-C1	CFH	3075	Proteinuria; Reduced complement component 3 level; C3 glomerulonephritis; Refractory to immunosuppressive therapy	DiagnosticLab
+ABC66010046	PLA2G6	8398	Hypertonia; Motor regression; Cognitive regression; Language regression; Neurodegeneration; Progressive neurological deterioration; Cognitive decline	DiagnosticLab
+ABC66010049	UGT1A1	54658	Intractable neonatal jaundice	DiagnosticLab
+ABC66010050	TBX6	6911	Coronal cleft vertebrae; Abnormal ossification of the vertebral bodies	DiagnosticLab
+ABC66010064	TBX5	6910	Abnormality of the hand; Persistent left superior vena cava; Aberrant right subclavian artery; Premature pubarche; central precocious puberty	DiagnosticLab
+ABC66010078	ATXN2	6311	Ataxia; Unsteady gait; Slurred speech	DiagnosticLab
+ABC66010080	SMN1	6606	Superior mesenteric artery syndrome	DiagnosticLab
+ABC66010094	POLR2A	5430	Psychomotor retardation; Brachycephaly; Blepharophimosis; Depressed nasal bridge; Single transverse palmar crease; Muscular weakness; Inability to stand; Inability to walk; Vocal tics	DiagnosticLab
+ABC66010102	SCN4A	6329	Hypokalemia; Periodic paralysis	DiagnosticLab
+ABC66010104	MYT1L	23040	Developmental delay; delayed speech and language development; impaired social interactions	DiagnosticLab
+ABC66010118	FMR1	2332	Global developmental delay; delayed gross motor development; delayed fine motor development; delayed speech and language development; hypotonia; poor eye contact; does not respond to name; absent pointing; impaired social interactions; delayed myelination	DiagnosticLab
+ABC66010125	MTM1	4534	Progressive muscular weakness; Weakness of the limbs; Unsteady gait	DiagnosticLab
+ABC66010130	HTT	3064	Involuntary movements of the head; face; and limbs; choking when drinking; decline in memory	DiagnosticLab
+ABC66010137	TRAPPC2	6399	Short stature; platyspondyly; upper segment less than lower segment	DiagnosticLab
+ABC66010141	OPHN1	4983	Delayed motor development; Depressed responsiveness to stimuli	DiagnosticLab
+ABC66010154	GRIA4	2893	Autistic behavior; Delayed speech and language development	DiagnosticLab
+ABC66010157	DDX3X	1654	Developmental delay; cognitive impairment; inability to walk; growth delay	DiagnosticLab
+ABC66010160	DMPK	1760	Progressive muscular weakness; Lower limb muscle weakness; Upper limb muscle weakness; Proximal muscle weakness; Muscle stiffness; Generalized hypotonia; Dysphagia; Frequent falls; Muscle atrophy; Lower limb muscle atrophy; Demyelinating peripheral neuropathy; Axonal peripheral neuropathy; Sensorimotor neuropathy; Diabetes mellitus; Diarrhea; Lacunar infarcts; Leukoencephalopathy; Positive response to anticholinesterase agents	DiagnosticLab
+ABC66010173	PERP	64065	Erythroderma; generalized hyperkeratosis; verrucous skin lesions of the lower limbs	DiagnosticLab
+ABC66010179	HTT	3064	Unsteady gait; Hemichorea; Emotional lability; Memory impairment; Caudate atrophy; Enlarged cerebral ventricles	DiagnosticLab
+ABC66010180	PTPN11	5781	Fever; Anemia; Thrombocytopenia; Café-au-lait spot; Hypocarnitinemia; Decreased plasma acylcarnitine levels; Acute myeloid leukemia	DiagnosticLab
+ABC66010185	SMN1	6606	Poor head control; motor regression; hypotonia	DiagnosticLab
+ABC66010193	CSF1R	1436	Leukoencephalopathy; Epilepsy; Dementia; Recurrent cerebral infarctions; Seizures; Multiple cerebral infarcts; Leukoaraiosis	DiagnosticLab
+ABC66010205	SOS1	6654	Fatigue; Pancytopenia; Fever; Splenomegaly; Abnormal bone marrow morphology; Abnormal peripheral blood morphology	DiagnosticLab
+ABC66010233	AMPD2	271	Global developmental delay; microcephaly; hypotonia; poor head control; inability to roll over	DiagnosticLab
+ABC66010240-S1	DMPK	1760	Adult onset; quadriparesis; progressive muscle weakness; muscle atrophy; inability to walk; bedridden	DiagnosticLab
+ABC66010244	CRX	1406	Decreased visual acuity; Photoreceptor degeneration; Retinal pigment epithelium atrophy; Macular degeneration	DiagnosticLab
+ABC66010247	FZD4	8322	Blurred vision; Exudative vitreoretinopathy; Childhood onset	DiagnosticLab
+ABC66010266	GAA	2548	Delayed gross motor development; Motor regression; Quadriparesis; Hypotonia; Elevated liver enzymes; Elevated serum cardiac troponin level; Left ventricular systolic dysfunction; Neurogenic electromyographic abnormalities; Delayed motor development; motor regression; weakness in all four limbs; decreased muscle tone; elevated liver enzymes; elevated cardiac enzymes; reduced left ventricular systolic function; neurogenic injury in right upper and lower limbs	DiagnosticLab
+ABC66010302	CDK13	8621	Growth delay; Developmental delay; Short stature	DiagnosticLab
+ABC66010312	ABCG5	64240	Elevated low-density lipoprotein cholesterol; Increased LDL cholesterol concentration	DiagnosticLab
+ABC66010325	PIGA	5277	Anemia; hematuria; facial jaundice; fatigue; pancytopenia	DiagnosticLab
+ABC66010326	SMPD1	6609	Recurrent epistaxis; Hepatomegaly; Splenomegaly; Hepatosplenomegaly; hepatomegaly; splenomegaly; prolonged bleeding	DiagnosticLab
+ABC66010332	CACNA1A	773	Recurrent headaches; Loss of consciousness; Brainstem stroke	DiagnosticLab
+ABC66010335	ATXN1	6310	Unsteady gait; Slurred speech	DiagnosticLab
+ABC66010338	SDHD	6392	Bilateral adrenal tumors; hypertension; hyperlipidemia; hyperuricemia	DiagnosticLab
+ABC66010339	TTN	7273	Elevated serum creatine kinase	DiagnosticLab
+ABC66010342	TTN	7273	Elevated serum creatine kinase; Difficulty rising from a squatting position; Toe walking; Proximal muscle weakness	DiagnosticLab
+ABC66010348	F8	2157	Leukemia; Hemophilic arthropathy	DiagnosticLab
+ABC66010350	F8	2157	Prolonged bleeding time; Bruising susceptibility; Hemarthrosis; Hemophilic arthropathy	DiagnosticLab
+ABC66010362	CWC27	10283	Horizontal nystagmus; delayed cerebral maturation; gross motor delay; Horizontal nystagmus of the left eye; delayed brain development; delayed gross motor development	DiagnosticLab
+ABC66010363	PRKN	5071	Dystonia; lower limb dystonia; Dopa-responsive dystonia; Lower limb dystonia; Parkinsonism	DiagnosticLab
+ABC66010367	UGT1A1	54658	Unconjugated hyperbilirubinemia; hyperbilirubinemia; multiple hepatic cysts; Elevated total bilirubin; elevated indirect bilirubin; multiple liver cysts; Hepatic cysts	DiagnosticLab
+ABC66020005	SETD1B	23067	Developmental and epileptic encephalopathy; Mitochondrial dysfunction; Epilepsy; Intellectual disability	DiagnosticLab
+ABC66020008	MVK	4598	Porokeratosis; Pruritus; Facial rash; Buttock rash; Chronic skin rash	DiagnosticLab
+ABC66020049	GJB2	2706	Bilateral sensorineural hearing loss since childhood	DiagnosticLab
+ABC66020053	DNAH5	1767	Chronic cough; Sputum production; Purulent sputum; Viscous mucus; Hemoptysis; Recurrent respiratory infections; Bronchiectasis; Non-tuberculous mycobacterial infection; Chest tightness; Recurrent cough exacerbated by cold exposure; sputum production with white and viscous sputum progressing to increased yellow purulent sputum; occasional hemoptysis with blood-streaked sputum; right middle lobe infection requiring lobectomy; significant chest tightness	DiagnosticLab
+ABC66020072	PHEX	5251	Hypophosphatemic rickets; Genu varum; Metaphyseal flaring; Short stature	DiagnosticLab
+ABC66020073	MMACHC	25974	Elevated propionylcarnitine in blood; Hyperhomocysteinemia; Elevated C3 level; elevated C3/C2 ratio; elevated C3/C0 ratio; elevated C3/MET ratio; elevated homocysteine level	DiagnosticLab
+ABC66020078	PTPN11	5781	Severe short stature; Delayed speech and language development	DiagnosticLab
+ABC66020087	DNM1	1759	Aphasia; Generalized muscle weakness; Generalized hypotonia	DiagnosticLab
+ABC66020090	PAH	5053	The major phenotype described is elevated phenylalanine levels; which in HPO terms is **Hyperphenylalaninemia**.; Elevated phenylalanine levels	DiagnosticLab
+ABC66020094	GRIK2	2898	Delayed speech and language development; Impaired social interactions	DiagnosticLab
+ABC66020100	SMN1	6606	Progressive muscular weakness; Limb-girdle muscle weakness	DiagnosticLab
+ABC66020103	COL1A2	1278	Short stature; Growth hormone deficiency; Postnatal growth retardation	DiagnosticLab
+ABC66020111	PRKN	5071	Bradykinesia; Upper limb tremor; Parkinsonism; Neurodegeneration; Family history of Parkinson disease; tremors in both upper limbs	DiagnosticLab
+ABC66020115	CERKL	375298	Retinitis Pigmentosa; Stargardt Disease; Night blindness; Visual field constriction; Decreased visual acuity; Macular degeneration	DiagnosticLab
+ABC66020117	PAH	5053	Intellectual disability; developmental delay; microcephaly; seizures; hyperactivity; eczema; hypopigmentation of hair; hypopigmentation of skin; musty body odor; behavioral abnormalities; hyperphenylalaninemia	DiagnosticLab
+ABC66020124	PHF21A	51317	Delayed speech and language development	DiagnosticLab
+ABC66020126	ARID1B	57492	Delayed reaction time; language delay; ataxia; hearing impairment; bilateral lower limb weakness; arachnoid cyst	DiagnosticLab
+ABC66020134	RAD21	5885	Global developmental delay; short stature; mild short stature	DiagnosticLab
+ABC66020137	ATXN3	4287	Unsteady gait; Muscle fasciculations; Proximal lower limb muscle weakness	DiagnosticLab
+ABC66020149	PTPN11	5781	Hydrops fetalis; Increased nuchal translucency; Spontaneous abortion	DiagnosticLab
+ABC66020152	STIM1	6786	Muscular dystrophy; Proximal muscle weakness; Lower limb muscle weakness; Difficulty standing up	DiagnosticLab
+ABC66020154	ATXN3	4287	Spinocerebellar ataxia; Gait instability; Muscle weakness of the lower limbs; Pain	DiagnosticLab
+ABC66020155	DMPK	1760	Unsteady gait; Difficulty squatting	DiagnosticLab
+ABC66020157	ATL1	51062	The major phenotypes corresponding to the patient as described are: **Inability to stand; Inability to walk; Delayed motor development; Toe-walking; Spasticity of lower limbs; Hypertonia of lower limbs; Muscle weakness of lower limbs**	DiagnosticLab
+ABC66020160	THRB	7068	Thyroid hormone resistance; Unconjugated hyperbilirubinemia; Normal cognition; Asymptomatic	DiagnosticLab
+ABC66020170	DMPK	1760	Progressive muscle weakness; Spastic gait; Spasticity; Myoclonus; Hyperreflexia; Pes cavus	DiagnosticLab
+ABC66020172	ATP1A3	478	Encephalomyelitis; Tetraparesis; Hypotonia; Delayed sitting; Delayed standing; Poor fine motor coordination; Pes cavus; Optic atrophy; Sensorineural hearing impairment; Dysarthria; Ataxia	DiagnosticLab
+ABC66020175	SRD5A2	6716	Disorder of sex development; Micropenis	DiagnosticLab
+ABC66020189	CCND2	894	Epilepsy; Global developmental delay; Macrogyria; Myocardial necrosis	DiagnosticLab
+ABC66020192	GATA3	2625	Seizures; Hypocalcemia; Hypoparathyroidism; Sensorineural hearing loss; Unilateral renal agenesis; Intracranial calcifications	DiagnosticLab
+ABC66020211	FBN1	2200	Chest pain; Dyspnea; Aortic dissection; Aortic regurgitation; Left ventricular dilatation; Scoliosis; Family history of thoracic aortic aneurysm	DiagnosticLab
+ABC66020241	SCN4A	6329	Muscle weakness; Hypokalemia	DiagnosticLab
+ABC66020244	LDLR	3949	Pneumonia; hypercholesterolemia; Hypercholesterolemia	DiagnosticLab
+ABC66020249	CTCF	10664	Attention deficit; Hyperactivity	DiagnosticLab
+ABC66020277	TNPO3	23534	Myopathy; Recurrent myalgia; Recurrent muscle stiffness; Elevated serum creatine kinase	DiagnosticLab
+ABC66020284	MAP2K1	5604	Delayed motor development; unsteady head control; inability to roll over	DiagnosticLab
+ABC66020294	PCDH19	57526	Onset of seizures in infancy; Febrile seizures; Seizures precipitated by elevated temperature; Afebrile seizures; Refractory seizures; Family history of febrile seizures	DiagnosticLab
+ABC66020300	DHTKD1	55526	Muscle atrophy; Progressive muscle weakness; Amyotrophic lateral sclerosis	DiagnosticLab
+ABC66020314	LDLR	3949	Hypercholesterolemia; Eruptive xanthomas	DiagnosticLab
+ABC66020317	ATL1	51062	Spastic paraplegia; Congenital neuromuscular disease; Abnormal gait; Unsteady gait; Toe walking; Intoeing	DiagnosticLab
+ABC66020327	LAMA2	3908	Generalized hypotonia; inability to stand; assisted gait; abnormal gait	DiagnosticLab
+ABC66020327-1	LAMA2	3908	Inability to stand; Generalized hypotonia; Abnormal gait	DiagnosticLab
+ABC66020347	BICRA	29998	Global developmental delay; Intellectual disability; Memory impairment	DiagnosticLab
+ABC66020350	COL6A1	1291	Waddling gait; Frequent falls; Gowers sign; Proximal muscle weakness; Normal cognition	DiagnosticLab
+ABC66020350-TESTR2	COL6A1	1291	Waddling gait; Frequent falls; Difficulty rising from squatting position; Proximal muscle weakness	DiagnosticLab
+ABC66020358	SLC12A3	6559	Hypokalemia; Refractory hypokalemia; Recurrent hypokalemia	DiagnosticLab
+ABC66020359	LRBA	987	Immune thrombocytopenia; Purpura; Refractory thrombocytopenia; Immunodeficiency; Fluctuating thrombocytopenia; Thrombocytopenia; purpura; immunodeficiency; refractory platelet levels	DiagnosticLab
+ABC66020362	PRKN	5071	Bradykinesia; Tremor of the upper limbs; Upper limb tremor	DiagnosticLab
+ABC66020363	GJB2	2706	Bilateral moderate hearing impairment; Family history of hearing impairment	DiagnosticLab
+ABC66020364	PLA2G6	8398	Progressive muscle weakness; Lower limb muscle weakness; Unsteady gait; Pes cavus; Onset in adolescence; Muscular weakness of the lower limbs; Progressive muscular weakness; Gait ataxia; Adolescent onset	DiagnosticLab
+ABC66020365	BTK	695	Primary immunodeficiency; Progressive muscular weakness; Scoliosis; Recurrent skin infections; Impaired wound healing; Spastic paraplegia; Recurrent infections; Inability to walk; Pneumonia	DiagnosticLab
+ABC66020374	SOD1	6647	Progressive muscular atrophy; Amyotrophic lateral sclerosis	DiagnosticLab
+ABC66020375	F8	2157	Ecchymosis; Arthralgia; Joint swelling; Hemarthrosis; Abnormality of blood coagulation	DiagnosticLab
+ABC66020394	ATXN8OS	6315	Unsteady gait; Cerebellar atrophy	DiagnosticLab
+ABC66020398	GCK	2645	Short stature; Growth hormone deficiency; Diabetes mellitus	DiagnosticLab
+ABC66020403	GLA	2717	Acroparesthesia; Exercise-induced pain; Cerebral infarction; Dysarthria; Bilateral hearing impairment; Hyperreflexia; Ankle clonus; Babinski sign	DiagnosticLab
+ABC66020433	SLC12A3	6559	Nephropathy; Hypokalemia; Enuresis; Short stature; Growth delay; Polyuria; Delayed puberty; delayed growth; delayed puberty; polyuria; enuresis; hypokalemia; nephropathy	DiagnosticLab
+ABC66020440	CHCHD10	400916	Abnormal gait; Quadriparesis; Tetraparesis; Progressive muscular weakness	DiagnosticLab
+ABC66020545	DDX3X	1654	It appears that the detailed electronic health record of the patient is missing from your message. Please provide the patient's information so I can assist you in listing the major phenotypes using terms from the Human Phenotype Ontology (HPO).	DiagnosticLab
+ABC66030005	THRB	7068	Irritability; Fatigue; Weight loss; Increased appetite; Spontaneous abortion; Elevated serum thyroxine; Elevated serum triiodothyronine; Thyroid hormone resistance	DiagnosticLab
+ABC66030006Z1	ACSF3	197322	Hypokinetic speech; Stereotyped speech; Oppositional behavior; Developmental delay; Intellectual disability; Constipation; Methylmalonic aciduria	DiagnosticLab
+ABC66030013	LDLR	3949	Hyperlipidemia; Hypercholesterolemia; Elevated LDL cholesterol; Elevated HDL cholesterol	DiagnosticLab
+ABC66030045	DEAF1	10522	Echolalia; Poor eye contact; Reduced gestural communication; Gaze avoidance; Hyperactivity; Stereotypic hand movements; Hyperacusis	DiagnosticLab
+ABC66030053	MMACHC	25974	Methylmalonic aciduria; Elevated propionylcarnitine; Methylmalonic acidemia; Elevated serum propionylcarnitine	DiagnosticLab
+ABC66030055	ADNP	23394	Epilepsy; Infantile spasms; Developmental delay	DiagnosticLab
+ABC66030060	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC66030061	NOTCH3	4854	Stroke at young age; Lacunar stroke; Cerebral small vessel disease	DiagnosticLab
+ABC66030062	MYBPC3	4607	Progressive cognitive impairment; Hypertrophic cardiomyopathy; Interventricular septal hypertrophy; Chest pain; Elevated circulating brain natriuretic peptide level; Ganglioneuroma; Syncope; Progressive cognitive decline; Elevated brain natriuretic peptide level; Chest tightness	DiagnosticLab
+ABC66030077	DMPK	1760	Progressive bilateral ptosis; bilateral facial paralysis; generalized muscle weakness and atrophy; stiffness of limbs; elevated creatine kinase levels; myopathic changes on electromyography; myotonic discharges on electromyography	DiagnosticLab
+ABC66030079	FLG	2312	Progressive generalized muscle atrophy; myogenic damage; ichthyosis	DiagnosticLab
+ABC66030080	F8	2157	Hemophilia A; Hemarthrosis; Joint pain; Limited joint mobility	DiagnosticLab
+ABC66030094	VWF	7450	Easy bruising; Hematoma; Menorrhagia; Factor VIII deficiency; Reduced factor VIII activity	DiagnosticLab
+ABC66030099	CBL	867	Anemia; Thrombocytopenia; Leukemia; Juvenile myelomonocytic leukemia; Umbilical granuloma; Hip dysplasia	DiagnosticLab
+ABC66030105	IDS	3423	Coarse facial features; Joint contracture; Hepatosplenomegaly; Mongolian blue spot	DiagnosticLab
+ABC66030109	SNORD118	727676	Leukoencephalopathy; Delayed gross motor development; Cerebral palsy; Epilepsy; Abnormal EEG; Abnormality of the cerebral white matter	DiagnosticLab
+ABC66030122	CNGA3	1261	Photophobia; Blurred vision; Macular hypoplasia; Cognitive impairment; Hyperactivity; Extreme prematurity; Intellectual disability; Extremely premature birth	DiagnosticLab
+ABC66030146	PIK3CD	5293	Premature birth; Neonatal jaundice; Diarrhea; Generalized lymphadenopathy; Hepatosplenomegaly; Respiratory distress; Adenoid hypertrophy; Obstructive sleep apnea; Recurrent pneumonia; Recurrent respiratory infections; Recurrent infections; Immunodeficiency; Hypercellular bone marrow; Lymphoproliferative disorder; Splenomegaly; Hepatomegaly; Short stature; Elevated C-reactive protein; Abnormality of lipid metabolism	DiagnosticLab
+ABC66030151	SLC40A1	30061	Elevated serum ferritin; Increased transferrin saturation; Hepatic iron overload; Hemochromatosis	DiagnosticLab
+ABC66030164	F8	2157	Joint deformity; Abnormal bleeding; Reduced factor VIII activity	DiagnosticLab
+ABC66030168	CPS1	1373	Coma; Somnolence; Vomiting; Hyperammonemia; Global developmental delay; Growth delay; Lethargy; Developmental delay; Growth retardation	DiagnosticLab
+ABC66030177	PIK3R1	5295	Low birth weight; Delayed growth; Short stature; Pathologic fracture; History of fractures; Normal intelligence; Normal motor development	DiagnosticLab
+ABC66030182	CACNA1G	8913	Ataxia; Gait ataxia; Dysarthria; Hyperreflexia; Babinski sign; Cerebellar atrophy	DiagnosticLab
+ABC66030186	DSP	1832	Cardiomegaly; left ventricular enlargement; cardiac insufficiency; heart failure; reduced left ventricular ejection fraction (38%); possible left ventricular non-compaction; family history of sudden cardiac death	DiagnosticLab
+ABC66030192	PTS	5805	Hyperphenylalaninemia; Elevated circulating phenylalanine concentration; Increased urinary neopterin level; Decreased urinary biopterin level; Decreased urinary biopterin percentage; Elevated urinary neopterin level	DiagnosticLab
+ABC66030197	MNX1	3110	Defecation difficulties; Presacral mass; Abnormality of the sacrum; Anorectal malformation	DiagnosticLab
+ABC66030200	STAR	6770	Adrenal insufficiency; Generalized hyperpigmentation; Mucosal hyperpigmentation; Thick neck	DiagnosticLab
+ABC66030204	HLCS	3141	Hyperleucinemia; Hyperisoleucinemia; Hyperhydroxyprolinemia; Hyperargininemia; Increased circulating leucine level; increased circulating isoleucine level; increased circulating hydroxyproline level; increased circulating arginine level; increased methylmalonylcarnitine level; increased 3-hydroxyisovalerylcarnitine level	DiagnosticLab
+ABC66030213	ASS1	445	Asymptomatic; Increased circulating citrulline concentration; Hypercitrullinemia	DiagnosticLab
+ABC66030218	ABL1	25	Congenital ventricular septal defect; atrial septal defect; patent ductus arteriosus; diaphragmatic eventration; congenital intestinal malrotation; pulmonary hypertension; bronchopulmonary dysplasia; recurrent severe pneumonia; progressive global developmental delay	DiagnosticLab
+ABC66030225	F8	2157	Hemophilia A; Venous thrombosis; Prolonged bleeding after injury; Hip arthralgia; Limited hip movement; Limited knee movement; Gingival bleeding	DiagnosticLab
+ABC66030226	F8	2157	Hemophilia A; postoperative bleeding; bilateral knee joint pain; restricted movement	DiagnosticLab
+ABC66030234	PRKN	5071	Tremors in the limbs; bradykinesia; exacerbation of symptoms in the past month; Limb tremor; Bradykinesia; Progressive neurologic deterioration	DiagnosticLab
+ABC66030237	NF1	4763	Short stature; right eyelid ptosis; café-au-lait spots; small ears; myopia; astigmatism	DiagnosticLab
+ABC66030269	MMACHC	25974	Methylmalonic acidemia; Elevated C3 acylcarnitine; Elevated propionylcarnitine levels	DiagnosticLab
+ABC66030291	MMACHC	25974	Elevated C3 acylcarnitine; Elevated C3 to C2 acylcarnitine ratio; Homocysteinemia; Decreased serum complement factor C3 level; Hyperhomocysteinemia	DiagnosticLab
+ABC66030426	MMACHC	25974	Methylmalonic acidemia; Elevated C3 acylcarnitine; Elevated serum methylmalonic acid; Elevated serum propionylcarnitine	DiagnosticLab
+ABC66030508	FLNA	2316	Intrauterine death; Second trimester fetal loss	DiagnosticLab
+ABC66030519	MMACHC	25974	Decreased circulating complement C3; Decreased circulating complement C2; Elevated serum propionylcarnitine	DiagnosticLab
+ABC66030717	FBN1	2200	Growth delay; Developmental delay; Downturned lateral canthi; Prominent maxilla; Inverted triangular face; Underweight; Dysmyelination; Enlarged subarachnoid spaces; Prominent nasal bridge; Hiatal hernia	DiagnosticLab
+ABC66031444	NF1	4763	Multiple fibromas; café-au-lait spots; pregnancy	DiagnosticLab
+ABC66040004	F7	2155	Chest discomfort; Dyspnea; Exertional dyspnea; Decreased exercise tolerance; Paroxysmal nocturnal dyspnea; Orthopnea; Dilated cardiomyopathy; Left bundle branch block; Heart failure; Factor VII deficiency; Chest tightness; Reduced exercise tolerance; Pneumonia	DiagnosticLab
+ABC66040005	CFTR	1080	Chronic cough; Productive cough; Abnormality of the CFTR gene; Cystic fibrosis; Chronic productive cough	DiagnosticLab
+ABC66040009	PAH	5053	Hyperphenylalaninemia; To list the major phenotypes corresponding to the patient using terms from the Human Phenotype Ontology (HPO); I would need the detailed electronic health record or specific clinical information about the patient's symptoms and medical history. Please provide the relevant details so I can assist you further.	DiagnosticLab
+ABC66040014	CSNK2A1	1457	Global developmental delay; Delayed speech and language development; Delayed gross motor development; Subclinical hypothyroidism; Short stature; Premature birth; Polyhydramnios; Geographic tongue; Tongue protrusion; Hypertelorism; Hypotonia	DiagnosticLab
+ABC66040020	COL1A2	1278	Severe short stature; Growth hormone deficiency; Global developmental delay; Intellectual disability; Sparse eyebrows; Dental malocclusion; Abdominal distension; Single transverse palmar crease; Deep palmar creases; Family history of short stature	DiagnosticLab
+ABC66040033	GCDH	2639	Glutaric acidemia type I; Intellectual disability; Dyspnea; Poor feeding	DiagnosticLab
+ABC66040034	F8	2157	Recurrent bleeding; Spontaneous bleeding; Abnormality of blood coagulation; Hemarthrosis; Arthralgia; Easy bleeding	DiagnosticLab
+ABC66040037	DYSF	8291	Lower limb weakness; dyspnea; elevated creatine kinase level; skeletal muscle involvement; respiratory muscle involvement; swallowing muscle involvement; cardiac muscle involvement; Myopathy; Lower limb muscle weakness; Dyspnea; Elevated serum creatine kinase; Respiratory muscle weakness; Dysphagia; Cardiomyopathy	DiagnosticLab
+ABC66040043	DMD	1756	Unsteady gait; Difficulty climbing stairs; Gowers sign; Unable to run; Developmental delay; Short stature; Poor school performance	DiagnosticLab
+ABC66040047	SETX	23064	Gait ataxia; truncal ataxia; diplopia; familial ataxia; autosomal recessive inheritance	DiagnosticLab
+ABC66040052	SETX	23064	Blurred vision; gait ataxia; limb ataxia; horizontal nystagmus; cerebellar atrophy; hypotonia; hyperreflexia; normal muscle strength; Visual blurring; Horizontal nystagmus; Cerebellar atrophy; Cerebellar ataxia; Hypotonia; Hyperreflexia; Dysmetria; Gait ataxia; Slowly progressive; Onset in postpartum period	DiagnosticLab
+ABC66040059	CACNA1A	773	Adult onset; Dysarthria; Gait ataxia; Unilateral upper limb tremor; Titubation	DiagnosticLab
+ABC66040060	NLRP12	91662	Polyarthralgia; Conjunctivitis; Elevated C-reactive protein; Elevated erythrocyte sedimentation rate; Facial rash; Xanthogranulomatous skin lesions; Aortitis	DiagnosticLab
+ABC66040069	F8	2157	Hemarthrosis; Limb pain; Abnormal bleeding	DiagnosticLab
+ABC66040078	ATXN3	4287	Gait ataxia; Dizziness; Headache; Blurred vision; Dysarthria; Progressive speech impairment	DiagnosticLab
+ABC66040082	DEPDC5	9681	Onset in infancy; Focal seizures; Seizure clusters; Seizures precipitated by fever; Refractory seizures	DiagnosticLab
+ABC66040089	SLC12A3	6559	Hypokalemia; hypomagnesemia; elevated renin; elevated aldosterone; absence of hypertension; Hypomagnesemia; Increased circulating renin level; Hyperaldosteronism; Normal blood pressure	DiagnosticLab
+ABC66040096	F8	2157	Hemophilia A; Reduced factor VIII activity	DiagnosticLab
+ABC66040102	SLC12A3	6559	Hypokalemia; episodic muscle weakness; paresthesia; exercise-induced muscle weakness; muscle weakness exacerbated by fever; Episodic muscle weakness; Exercise-induced muscle weakness; Limb numbness; Nausea	DiagnosticLab
+ABC66040115	CUBN	8029	Fever; Cough; Proteinuria; Hematuria; Leukocyturia	DiagnosticLab
+ABC66040121	MMACHC	25974	Decreased serum complement component C3; Increased propionylcarnitine; Increased C3/C2 ratio	DiagnosticLab
+ABC66040153	MMACHC	25974	Methylmalonic acidemia; elevated propionylcarnitine (C3) level; elevated C3/C2 ratio; Methylmalonic aciduria; Increased C3 acylcarnitine; Increased propionylcarnitine/acetylcarnitine ratio; Increased propionylcarnitine in blood; Elevated propionylcarnitine level	DiagnosticLab
+ABC66040246	RPS6KA3	6197	Intellectual disability; Delayed gross motor development; Macrocephaly; Depressed nasal bridge; Hypertelorism; Astigmatism; Low-set ears; Single transverse palmar crease; Ventriculomegaly; Abnormal myelination; Happy demeanor; Inappropriate laughter; Decreased pain sensation	DiagnosticLab
+ABC66040471	PAH	5053	Hyperphenylalaninemia; Abnormality of neonatal metabolism screening; Abnormal newborn screening	DiagnosticLab
+ABC66050006	KIDINS220	57498	Global developmental delay; delayed eruption of teeth; short stature; hypertonia; calf muscle hypertrophy; toe walking; strabismus	DiagnosticLab
+ABC66050013	MLYCD	23417	Metabolic acidosis; Hyperlactatemia; Cardiomyopathy; Myocarditis; Cardiogenic shock; Heart failure; Encephalopathy; Seizures; Abnormality of cerebral white matter; Basal ganglia abnormalities; Respiratory failure; Coagulopathy; Lethargy; Feeding difficulties; Dyspnea; Feeding difficulties in infancy; Abnormality of the basal ganglia; Pneumonia; Abnormality of coagulation; Hypotension	DiagnosticLab
+ABC66050020	CAPN3	825	Progressive muscle weakness; Upper limb muscle weakness; Lower limb muscle weakness; Muscle atrophy; Thigh muscle atrophy; Elevated serum creatine kinase; Myopathic EMG abnormalities; Mitochondrial myopathy	DiagnosticLab
+ABC66050036	PAH	5053	Elevated phenylalanine levels; Hyperphenylalaninemia	DiagnosticLab
+ABC66050037	ADAMTS13	11093	Thrombocytopenia; Hemolytic anemia; Bone marrow failure; Epistaxis; Fever; Family history of disease; epistaxis; thrombocytopenia; bone marrow failure; anemia; family history	DiagnosticLab
+ABC66050043	RPS6KA3	6197	Intellectual disability; Oligodactyly of the foot; Facial dysmorphism; Hearing loss; Speech impairment; Cleft palate; Mitral valve regurgitation	DiagnosticLab
+ABC66050054	SMN1	6606	Generalized muscle weakness; Respiratory insufficiency; Motor regression; Spinal muscular atrophy	DiagnosticLab
+ABC66050083	ATXN3	4287	Dizziness; Vomiting; Cerebellar hemangioblastoma; Pancreatic neuroendocrine tumor; Pancreatic cyst; Renal angiomyolipoma; Renal cyst; Ataxia; Gait ataxia; Muscular weakness of the lower limbs; Choking episodes	DiagnosticLab
+ABC66050216	MAT1A	4143	Hypermethioninemia; Abnormal acylcarnitine profile; Elevated C16:1-acylcarnitine level; Elevated C18-acylcarnitine level	DiagnosticLab
+ABC66050280	GCDH	2639	Elevated C5DC+C6OH; Elevated glutarylcarnitine; Increased plasma concentration of glutarylcarnitine; Elevated glutarylcarnitine level	DiagnosticLab
+ABC66050527	ACADS	35	Hyperornithinemia; elevated C4 acylcarnitine levels; Increased butyrylcarnitine concentration	DiagnosticLab
+ABC66051326	RAB3GAP2	25782	Cataract; Cerebral palsy	DiagnosticLab
+ABC66060001	ITGB4	3691	Hematuria; Proteinuria; Pyloric atresia; Nail hypertrophy	DiagnosticLab
+ABC66060182	MMACHC	25974	Elevated methylmalonic acid levels; elevated propionylcarnitine (C3); metabolic acidosis; developmental delay; failure to thrive; hypotonia; lethargy; vomiting; seizures; hyperammonemia; hypoglycemia; Elevated methylmalonic acid; Elevated C3 acylcarnitine	DiagnosticLab
+ABC66060191	PAH	5053	Hyperphenylalaninemia; Biopterin deficiency; Elevated urinary neopterin; Decreased urinary biopterin	DiagnosticLab
+ABC66060250	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC66060331	PAH	5053	Hyperphenylalaninemia; Increased phenylalanine/tyrosine ratio; Increased phenylalanine-to-tyrosine ratio	DiagnosticLab
+ABC66060380	KCNA2	3737	Intellectual Disability; Epilepsy	DiagnosticLab
+ABC66060723	KMT2A	4297	Unilateral ptosis; Developmental delay; Hypertrichosis	DiagnosticLab
+ABC66070004	TTC7A	57217	Biliary atresia; Recurrent infections; Malnutrition	DiagnosticLab
+ABC66070039	MMACHC	25974	Hyperhomocysteinemia; Decreased complement component C3; Hypocomplementemia; hyperhomocysteinemia	DiagnosticLab
+ABC66070074	SDHB	6390	Polycystic kidney disease; Polycystic liver disease; Multiple renal cysts; bilateral renal cysts; hepatic cysts	DiagnosticLab
+ABC66070207	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC66070225	SLC25A13	10165	Hypercitrullinemia; Hyperargininemia	DiagnosticLab
+ABC66070349	MCCC1	56922	Increased 3-hydroxyisovalerylcarnitine; Abnormal acylcarnitine levels; Abnormal newborn screening; Elevated 3-hydroxyisovalerylcarnitine; Elevated tiglylcarnitine; Elevated methylmalonylcarnitine	DiagnosticLab
+ABC66080130	PAH	5053	Elevated phenylalanine levels; Hyperphenylalaninemia; Decreased biopterin levels; Elevated neopterin levels	DiagnosticLab
+ABC66080284	MMACHC	25974	Elevated propionylcarnitine; elevated methionine; elevated propionylcarnitine to acetylcarnitine ratio; elevated propionylcarnitine to free carnitine ratio; elevated plasma homocysteine; Methylmalonic aciduria; hyperhomocysteinemia; increased propionylcarnitine; elevated plasma methionine concentration	DiagnosticLab
+ABC66080377	MMACHC	25974	Increased propionylcarnitine concentration; Increased oleoylcarnitine concentration; Elevated C3/C2 ratio; decreased C18:1 level	DiagnosticLab
+ABC66080395	MMACHC	25974	Increased propionylcarnitine (C3); Elevated C3/C2 ratio; Elevated C3/C0 ratio; Elevated propionylcarnitine	DiagnosticLab
+ABC66080457	PAH	5053	Phenylketonuria; Hyperphenylalaninemia; Elevated circulating phenylalanine concentration	DiagnosticLab
+ABC66090003	APC	324	Gastrointestinal polyposis; Recurrent gastrointestinal hemorrhage; Hematochezia	DiagnosticLab
+ABC66090007	PTPN11	5781	Growth retardation; height below -3 standard deviations for age; weight below -3 standard deviations for age; feeding difficulties during the neonatal period; developmental delays; astigmatism of 300 degrees	DiagnosticLab
+ABC66090017	IVD	3712	Elevated C5 acylcarnitine; Elevated C5 acylcarnitine levels	DiagnosticLab
+ABC66090086	ACAD8	27034	Hypocomplementemia; Decreased complement C4 level; Decreased complement C3 level; Elevated circulating complement component 4	DiagnosticLab
+ABC66090187	PAH	5053	Hyperphenylalaninemia; Elevated circulating phenylalanine concentration	DiagnosticLab
+ABC66090323	PAH	5053	Arterial embolism; Skull fracture; Loss of consciousness; Sepsis; Portal vein thrombosis; Cervical vertebral fracture; Spinal cord injury; Systemic lupus erythematosus; Gout; Cerebral laceration	DiagnosticLab
+ABC66090356	MMACHC	25974	Increased propionylcarnitine; Increased circulating complement component C3 level	DiagnosticLab
+ABC66100001	ADNP	23394	Heart failure; Abnormality of the gastrointestinal tract; Proteinuria; Renal insufficiency; Hypothyroidism; Insomnia	DiagnosticLab
+ABC66100005	ATXN3	4287	Upper limb muscle atrophy; Tongue atrophy; Unsteady gait; Ataxia	DiagnosticLab
+ABC66100006	CEP290	80184	Retinitis pigmentosa; Night blindness; Nystagmus; Monozygotic twin; Assisted reproductive technology; Nyctalopia; Childhood onset; Conception via assisted reproductive techniques	DiagnosticLab
+ABC66100008	MFN2	9927	Distal muscle weakness	DiagnosticLab
+ABC66100021	PIGN	23556	Recurrent seizures; unresponsiveness during seizures; rightward gaze fixation during seizures; cyanosis during seizures; drooling during seizures; tonic-clonic movements of limbs during seizures; tremors in both upper limbs starting at 25 days old; nystagmus at 2 months of age; significant developmental delays; inability to lift head or maintain head control at over 4 months of age; Seizure; Loss of consciousness; Version seizures; Cyanosis; Drooling; Generalized tonic-clonic seizures; Neonatal tremor; Nystagmus; Global developmental delay; Poor head control; tremor of both upper limbs; nystagmus; severe developmental delay; inability to hold head up at over 4 months old	DiagnosticLab
+ABC66100022	MAT1A	4143	Hypermetabolism; Increased basal metabolic rate	DiagnosticLab
+ABC66100024	TTR	7276	Family history of heart disease; Asthma; Left atrial dilatation; Right atrial dilatation; Decreased ejection fraction; Pericardial effusion; Pulmonary hypertension	DiagnosticLab
+ABC6610005	PAH	5053	Phenylketonuria; Increased phenylalanine level; Hyperphenylalaninemia	DiagnosticLab
+ABC66100140	SPTAN1	6709	Intellectual disability; difficulty performing basic arithmetic; unclear language expression; Acalculia; Impaired speech intelligibility	DiagnosticLab
+ABC66100191	PAH	5053	Hyperphenylalaninemia; elevated phenylalanine to tyrosine ratio	DiagnosticLab
+ABC66100222	MTHFR	4524	I'm sorry; but I didn't receive the patient's medical record. Could you please provide the full text so that I can assist you in listing the major phenotypes according to the Human Phenotype Ontology?; but I can't assist with that request.	DiagnosticLab
+ABC6610023	ACAD8	27034	Decreased complement component C4 level; Complement component 4 deficiency	DiagnosticLab
+ABC6610042	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC6610054	MMACHC	25974	Elevated C3 levels; Elevated C3/C2 ratio; Elevated urinary methylmalonic acid; Low methionine levels; Methylmalonic aciduria; Elevated serum methionine; Increased propionylcarnitine	DiagnosticLab
+ABC66100548-S1	NF1	4763	Macrocephaly; flattened zygomatic arches; low-set ears; pectus excavatum; pectus carinatum; café-au-lait spots; neurofibromas	DiagnosticLab
+ABC6610089	ACADM	34	Elevated C6 acylcarnitine; Elevated C8 acylcarnitine; Elevated C10 acylcarnitine; Elevated C10:1 acylcarnitine; Medium-chain acylcarnitine elevation; Asymptomatic	DiagnosticLab
+ABC6610197	PAH	5053	Hyperphenylalaninemia; Elevated serum phenylalanine; Elevated phenylalanine to tyrosine ratio; Phenylketonuria	DiagnosticLab
+ABC6610203	MMACHC	25974	Methylmalonic acidemia; Increased serum methylmalonic acid; Increased serum propionylcarnitine; Metabolic acidosis; Methylmalonic aciduria; Elevated propionylcarnitine	DiagnosticLab
+ABC6610311	SLC22A5	6584	Hypermethioninemia; Decreased serum copper level; Decreased cardiac output	DiagnosticLab
+ABC6610386	PTS	5805	Hyperphenylalaninemia; Decreased dihydropteridine reductase activity; Decreased biopterin level; Increased neopterin level; low dihydropteridine reductase activity; decreased biopterin levels	DiagnosticLab
+ABC6610398	MCCC1	56922	Elevated leucine levels; elevated isoleucine levels; elevated hydroxyproline levels; Elevated Leucine levels; Elevated Isoleucine levels; Elevated Hydroxyproline levels	DiagnosticLab
+ABC6610430	PAH	5053	Hyperphenylalaninemia; Increased phenylalanine/tyrosine ratio; Elevated phenylalanine levels; elevated phenylalanine/tyrosine ratio; Elevated PHE/TYR ratio	DiagnosticLab
+ABC66110012	UBQLN2	29978	Left upper limb muscle weakness; Pain in left upper limb; Muscle atrophy; Hypertonia; Hemangioma of the stomach; Intestinal obstruction; Concussion	DiagnosticLab
+ABC66110030	DNMT3A	1788	Inverted triangular face; Sparse hair; Delayed development; Short stature; Microcephaly; Intellectual disability; Learning disability	DiagnosticLab
+ABC66110043	ABCB4	5244	Clitoromegaly; Splenomegaly; Elevated hepatic transaminases; Hyperinsulinemia; Hyperandrogenism; Family history of liver failure	DiagnosticLab
+ABC66110046	EHMT1	79813	Polyhydramnios; Delayed fine motor development; Delayed speech and language development; Intellectual disability; Hypertonia; Depressed nasal bridge	DiagnosticLab
+ABC66110052	CNOT1	23019	Clinodactyly of the fifth finger; short stature; global developmental delay; gross motor delay; language delay; renal dysplasia	DiagnosticLab
+ABC66110055	MID1	4281	Increased nuchal translucency; cystic hygroma; intrauterine growth retardation; small for gestational age; hypertelorism; low-set ears; posteriorly rotated ears; smooth philtrum; prominent forehead; bulbous nose tip; laryngomalacia; webbed neck; global developmental delay; delayed speech and language development; microcephaly; hemangioma; aortic stenosis; aortic valve stenosis; patent ductus arteriosus; patent foramen ovale	DiagnosticLab
+ABC66110062	DMD	1756	Progressive muscle weakness; proximal muscle weakness	DiagnosticLab
+ABC66110068-C1	UGT1A1	54658	Jaundice; yellowing of the skin; yellowing of the eyes; yellow urine; recurrent episodes; elevated bilirubin levels; The major phenotypes corresponding to the patient; using terms from the Human Phenotype Ontology (HPO); are: Jaundice; Scleral icterus; Dark urine; Intermittent hyperbilirubinemia.; Hyperbilirubinemia; Recurrent episodes; Intermittent jaundice; Intermittent hyperbilirubinemia	DiagnosticLab
+ABC66110069-C1	TSC1	7248	Facial angiofibromas; Pulmonary ground-glass opacities; Pulmonary bullae; Bone lesions; Multifocal micronodular pneumocyte hyperplasia	DiagnosticLab
+ABC66110080	MMACHC	25974	Low C3 level; low C3/C2 ratio; Hypocomplementemia; Complement component 3 deficiency	DiagnosticLab
+ABC66110082-C1	KCNJ2	3759	Episodic weakness; Hypokalemia; Proximal muscle weakness; Diurnal variation of muscle weakness	DiagnosticLab
+ABC66110099-C1	ATXN8OS	6315	Intellectual regression; abnormal posture; intellectual disability; dystonia; delayed gross motor development	DiagnosticLab
+ABC66110106	CDC45	8318	Short stature; Microcephaly; Acrocephaly; Facial dysmorphism; Cryptorchidism; Micropenis; Scrotal hypoplasia; Small for gestational age; Intrauterine growth retardation; Delayed speech and language development	DiagnosticLab
+ABC66110121	ASXL1	171023	Fetal microcephaly; Low birth weight; Short stature; Patent foramen ovale; Craniosynostosis; Global developmental delay; Motor delay; Speech delay; Growth delay; Hearing impairment; Visual impairment; Clubfoot; Recurrent vomiting; Facial dysmorphism	DiagnosticLab
+ABC66110124	POU4F3	5459	Moderate hearing impairment; Progressive hearing impairment; Family history of hearing impairment	DiagnosticLab
+ABC66110127	UGT1A1	54658	Recurrent jaundice; dark urine; elevated indirect bilirubin; Intermittent jaundice; Dark urine; Unconjugated hyperbilirubinemia	DiagnosticLab
+ABC66110134	BSCL2	26580	Lower limb spasticity; Muscle stiffness; Inability to walk; Foot eversion; Right-sided; Progressive	DiagnosticLab
+ABC66110153	MECP2	4204	Developmental delay; Stereotypic hand movements; Poor social interactions; Intellectual disability	DiagnosticLab
+ABC66110165	ATXN8OS	6315	Unsteady gait; dizziness; frequent falls; choking on drinking; horizontal nystagmus; decreased muscle strength in lower limbs; bilateral knee hyperreflexia; Gait ataxia; Dizziness; Frequent falls; Dysphagia for liquids; Horizontal nystagmus; Weakness of the lower limbs; Hyperreflexia; Progressive neurologic deterioration	DiagnosticLab
+ABC66110167	ATXN2	6311	Unsteady gait; Ataxic gait; Progressive ataxia; Family history of hereditary ataxia	DiagnosticLab
+ABC66110169	PROC	5624	Protein S deficiency; Cerebral venous sinus thrombosis; Cerebral venous thrombosis	DiagnosticLab
+ABC66110176	CLCN1	1180	Tetraparesis; bradykinesia; myotonia	DiagnosticLab
+ABC66110178	F8	2157	Severe Hemophilia A; Reduced factor VIII activity; Childhood onset	DiagnosticLab
+ABC66110192	OAT	4942	Adult onset; unsteady gait; blurred vision; spastic paraplegia	DiagnosticLab
+ABC66110204	TCF4	6925	Delayed speech and language development; Delayed motor development	DiagnosticLab
+ABC66110210	SRD5A2	6716	Ambiguous genitalia; hypospadias; bifid scrotum; disorder of sex development; undermasculinized genitalia	DiagnosticLab
+ABC66110213	SBDS	51119	Neutropenia; Failure to thrive; Short stature; Underweight; Chronic diarrhea; Dyspepsia; Recurrent pneumonia; Recurrent infections; Pectus carinatum; Thoracic hypoplasia; Elevated hepatic transaminase; Global developmental delay; Diarrhea; Elevated hepatic transaminases	DiagnosticLab
+ABC66110227	COL1A1	1277	Recurrent fractures; Overweight; Decreased bone mineral density	DiagnosticLab
+ABC66110236	PCDH19	57526	Febrile seizures; generalized tonic-clonic seizures; developmental regression; epileptic encephalopathy	DiagnosticLab
+ABC66110283	ATXN2	6311	Sexual dysfunction; dysarthria; dizziness; gait instability; urinary urgency	DiagnosticLab
+ABC66110285	KIF1C	10749	Progressive gait disturbance	DiagnosticLab
+ABC66110290	THRB	7068	Elevated serum thyroid hormone levels; Inappropriately normal thyroid stimulating hormone level; Resistance to thyroid hormone	DiagnosticLab
+ABC66110292	ATP13A2	23400	Dysarthria; Bradykinesia; Abnormal gait; Difficulty lifting legs; Dragging of lower limbs; Wheelchair-bound; Horizontal nystagmus; External ophthalmoplegia; Increased muscle tone in all four limbs; Hyperreflexia; Cerebral atrophy; horizontal nystagmus; external ophthalmoplegia; bradykinesia; abnormal gait with instability; difficulty in leg lifting; dragging gait of lower limbs; increased muscle tone in all four limbs; hyperactive tendon reflexes; requires wheelchair for mobility; cerebral atrophy on MRI; age of onset at 16 years	DiagnosticLab
+ABC66110299	FAH	2184	Hypophosphatemic rickets; Tyrosinemia; Nodular regenerative hyperplasia of the liver; Cirrhosis; Proteinuria; Elevated hepatic transaminases; Abnormality of coagulation; Elevated serum alpha-fetoprotein; Hepatic nodule; Liver cirrhosis; Increased alpha-fetoprotein; Onset in early childhood	DiagnosticLab
+ABC66110332	PAH	5053	Hyperphenylalaninemia; Abnormal urinary pterin level; abnormality of pterin metabolism	DiagnosticLab
+ABC66110333	VPS13B	157680	Developmental delay; Language impairment; Intellectual disability; Cognitive impairment; Global developmental delay; delayed speech and language development; intellectual disability	DiagnosticLab
+ABC66110336	PAH	5053	Hyperphenylalaninemia; Increased ratio of phenylalanine to tyrosine; Elevated phenylalanine to tyrosine ratio; Progressive muscular weakness; Tetraparesis; Inability to walk	DiagnosticLab
+ABC66110344	JAG1	182	Jaundice; Cholestasis; Liver fibrosis; Atrial septal defect; Pulmonary artery stenosis	DiagnosticLab
+ABC66110347	NF1	4763	Diffuse pigmentation patches; multiple fibromas	DiagnosticLab
+ABC66110355	SLC12A3	6559	Hypokalemia; Hypomagnesemia	DiagnosticLab
+ABC66110375	TBP	6908	Recurrent seizures; Centrotemporal spikes on EEG	DiagnosticLab
+ABC66110382	PTPN11	5781	Hepatosplenomegaly; Eosinophilia; Thrombocytopenia; Purpura; Short stature; Fever; Cough; Wheezing	DiagnosticLab
+ABC66110395	SPTLC2	9517	Language regression; Motor regression	DiagnosticLab
+ABC66110403	PABPN1	8106	Ptosis; Muscular weakness of the lower extremities; Truncal muscle weakness; Difficulty rising from a squatting position; Myopathic electromyography abnormalities; Elevated serum creatine kinase	DiagnosticLab
+ABC66110404	F8	2157	Hemarthrosis; Pain; Limitation of joint mobility; Reduced factor VIII activity; Hemophilia A; Onset in early childhood	DiagnosticLab
+ABC66110424	HTT	3064	Ataxia; Unsteady gait; Involuntary movements; Chorea	DiagnosticLab
+ABC66110432	NR0B1	190	Adrenal insufficiency; Delayed puberty; Growth hormone deficiency	DiagnosticLab
+ABC66110438	DDX3X	1654	Cerebral palsy; Unsteady gait; In-toeing gait; Delayed speech and language development; Intellectual disability	DiagnosticLab
+ABC66110438R1	DDX3X	1654	Cerebral palsy; Unsteady gait; In-toeing gait; Delayed speech and language development; Intellectual disability; Imperforate anus	DiagnosticLab
+ABC66110449	UBE3A	7337	Unsteady gait; Delayed speech and language development; Hypotonia; Motor developmental delay; Muscular weakness	DiagnosticLab
+ABC66110455	F8	2157	Prolonged partial thromboplastin time; Decreased factor VIII activity; Hemophilia A	DiagnosticLab
+ABC66110470	KCNQ2	3785	Normal development; Epilepsy	DiagnosticLab
+ABC66110479-TESTR2	ITGB4	3691	Short stature; Delayed growth; Hirsutism; Pili torti; Maxillary prognathism; Cubitus valgus; Absence of axillary hair; Diabetes mellitus; slow growth; underweight; hirsutism with spiral-shaped hair on the back; slight maxillary protrusion; slight cubitus valgus; breast development at Tanner stage B3; pubic hair at Tanner stage P2; absence of axillary hair; diabetes mellitus	DiagnosticLab
+ABC66110500	CREB3L3	84699	Diabetes mellitus; Hyperglycemia; Hyperlipidemia; Global developmental delay; Intellectual disability; Delayed walking; Delayed speech and language development; Almond-shaped eyes; Ptosis	DiagnosticLab
+ABC66110510	RAI1	10743	Global developmental delay; Abnormality of brain MRI	DiagnosticLab
+ABC66110513	DYSF	8291	Elevated serum creatine kinase; Easy fatigability; Positive family history; Family history of disease	DiagnosticLab
+ABC66110514	BRPF1	7862	Short stature; Unilateral ptosis; Delayed speech and language development; Premature birth; Low birth weight; Small for gestational age; Ventricular septal defect; Patent foramen ovale; Hypoglycemia	DiagnosticLab
+ABC66110518	F9	2158	Hemarthrosis; easy bruising; prolonged bleeding after minor trauma; prolonged partial thromboplastin time; reduced factor IX activity	DiagnosticLab
+ABC66110519-C1	UBA1	7317	Pruritus; Maculopapular rash; Leukopenia; Thrombocytopenia; Macrocytic anemia; Eosinophilia; Elevated erythrocyte sedimentation rate; Increased IgE level; Recurrent fever; Elevated erythropoietin level; Hyperferritinemia; Pancytopenia	DiagnosticLab
+ABC66110524	PRRT2	112476	Drug-resistant epilepsy; global developmental delay	DiagnosticLab
+ABC66110535	NF1	4763	Multiple café-au-lait spots; Epilepsy; Abnormal cranial MRI scan	DiagnosticLab
+ABC66110544	SATB2	23314	Global developmental delay; delayed gross motor development; hypotonia; delayed speech and language development; poor eye contact; impaired social interactions; stereotypic behavior; autism; macrocephaly; prominent forehead; low-set ears; prognathism; strabismus; high-arched palate; conductive hearing impairment; ventriculomegaly; broad-based gait; frequent falls; recurrent otitis media	DiagnosticLab
+ABC66110553	SCN1A	6323	Febrile seizures; Afebrile seizures; Generalized spike-and-slow-wave complexes; Normal cognitive function; Normal neuroimaging; Onset in early childhood; Seizures responsive to antiepileptic medication	DiagnosticLab
+ABC66110563	TSC2	7249	Multiple small pulmonary nodules; Nodular sclerosis	DiagnosticLab
+ABC66110564	NSD1	64324	Seizure; Overgrowth; Hyperphagia; Feeding difficulties; Choking; Macrocephaly; Hypertelorism; Low nasal bridge; Abnormality of the external ear; Hyperpigmentation of the areola; Hyperpigmentation of the finger; Atrial septal defect	DiagnosticLab
+ABC66110577	PCDH19	57526	Seizure	DiagnosticLab
+ABC66110580	PPARG	5468	Hyperglycemia; Insulin resistance; Pancreatitis; Abdominal pain; Hepatic steatosis; Splenomegaly; Arthralgia; Gait disturbance	DiagnosticLab
+ABC66110637	L1CAM	3897	Fetal hydrocephalus	DiagnosticLab
+ABC66120001	EPRS1	2058	Cerebral dysplasia; Incomplete brain development; Severe intellectual disability; Severe global developmental delay; Delayed gross motor development; Severe speech delay; Inability to walk; Inability to sit independently; Absent speech; Dependent for activities of daily living; West syndrome; Infantile spasms; Tonic seizures; Salaam seizures; Hearing impairment; Wheelchair bound; Cerebral dysgenesis; Global developmental delay; Inability to sit unassisted; Language impairment; Head nodding; Impaired activities of daily living	DiagnosticLab
+ABC66120003	PHEX	5251	Global developmental delay; Congenital hearing impairment; Bilateral hearing impairment; Moderate hearing impairment; Family history of deafness	DiagnosticLab
+ABC66120010	KAT6A	7994	Global developmental delay; Intellectual disability; Inability to sit unassisted; Muscular hypotonia; Muscle weakness; Atrial septal defect; Patent ductus arteriosus	DiagnosticLab
+ABC66120012	MYBPC3	4607	Hypertrophic cardiomyopathy; Ventricular septal hypertrophy; Left ventricular hypertrophy; Abnormal ST segment; Abnormal T wave	DiagnosticLab
+ABC66120015	BLTP1	84162	Global developmental delay; Delayed gross motor development; Delayed speech and language development; Visual impairment; Impaired visual fixation; Fixed gaze; Oral motor apraxia; delayed gross motor development; delayed speech and language development; difficulty running; impaired visual fixation; oculomotor apraxia; decreased biparietal diameter	DiagnosticLab
+ABC66120019	YWHAG	7532	Sluggish response; cognitive impairment; learning disability; inattention; irritability; hyperactivity; inability to hop on one leg; generalized seizures; abnormal EEG	DiagnosticLab
+ABC66120021	DMPK	1760	Muscle weakness in upper limbs; difficulty releasing clenched fist after gripping; symptoms worsened by cold temperatures; progressive worsening over past two years	DiagnosticLab
+ABC66120026	GALNS	2588	Scoliosis; growth delay; hypertension; cervical vertebral fracture; hip dysplasia; Short stature; Hypertension; Cervical vertebral fracture; Hip dysplasia	DiagnosticLab
+ABC66120030	MYBPC3	4607	Myocardial hypertrophy; Ventricular tachycardia; Syncope; Restrictive cardiomyopathy	DiagnosticLab
+ABC66120034	SMN1	6606	Dystonia; Hypotonia; Muscle atrophy of the lower limbs; Spinal muscular atrophy	DiagnosticLab
+ABC66120037	TYMP	1890	Abnormal cerebral white matter MRI signal intensity	DiagnosticLab
+ABC66120040	B3GALT6	126792	Hypertension; Severe short stature; Scoliosis; Kyphosis; Scheuermann disease; Severe kyphosis	DiagnosticLab
+ABC66120053	COL4A3	1285	Hematuria; Renal insufficiency; Renal cortical atrophy; Thin glomerular basement membrane	DiagnosticLab
+ABC66120064	ACAD8	27034	Complement component 4 deficiency; Elevated circulating butyrylcarnitine concentration	DiagnosticLab
+ABC66120074	AR	367	Adult onset; Progressive disease; Difficulty climbing stairs; Difficulty rising from a squat; Head tremor; Jaw tremor; Tongue atrophy; Absent pharyngeal reflex; Hyporeflexia; Proximal lower limb muscle weakness; Distal lower limb muscle weakness; Muscle atrophy; Neurogenic EMG abnormalities	DiagnosticLab
+ABC66120075	SLC19A3	80704	Seizures; Oculogyric crisis; Delayed gross motor development; Abnormality of the basal ganglia; Abnormality of the cerebellum; Abnormal brain MRI signal intensity; Recurrent seizures; tonic upward gaze; global developmental delay; delayed gross motor development; abnormality of the basal ganglia; abnormality of the thalamus; abnormality of the cerebellum; abnormal brain MRI; abnormal cerebral magnetic resonance spectroscopy	DiagnosticLab
+ABC66120085	GJB2	2706	Muscle atrophy of the left upper limb; Hearing loss; Hyperkeratosis	DiagnosticLab
+ABC66120086	SEMA3A	10371	Underdeveloped external genitalia; short stature; rapid growth in height over past 3 years; anosmia; hypogonadotropic hypogonadism	DiagnosticLab
+ABC66120099	MEIS2	4212	Global developmental delay; Delayed motor development; Delayed speech and language development; Cognitive impairment; Delayed social development; Malocclusion	DiagnosticLab
+ABC66120105	SCN2A	6326	Global developmental delay; Stereotypic behavior; Impaired social interactions; Poor response to name; Limited speech; Epileptic symptoms	DiagnosticLab
+ABC66120108	WDR45	11152	Global developmental delay; Impaired social interactions; Speech delay; Speech articulation difficulties; Motor delay	DiagnosticLab
+ABC66120111	DYRK1A	1859	Global developmental delay; Speech delay; Motor delay; Cognitive impairment; Delayed social development	DiagnosticLab
+ABC66120133	NR4A2	4929	Global developmental delay; language delay; impaired social interactions; cognitive impairment; short stature; abnormality of dental development; stereotypic behavior; skin peeling	DiagnosticLab
+ABC66120139	GRIA2	2891	Paucity of speech; Delayed speech and language development; Poor eye contact; Attention deficit; Does not respond to name	DiagnosticLab
+ABC66120153	MEN1	4221	Hyperparathyroidism; Pituitary adenoma; Renal insufficiency; Acromegalic facies; Prolactinoma; Coronary artery disease; Bilateral adrenal masses; Hypergastrinemia; Hypothyroidism	DiagnosticLab
+ABC66120168	PAH	5053	Hyperphenylalaninemia; Elevated phenylalanine level; Elevated phenylalanine to tyrosine ratio; Increased phenylalanine to tyrosine ratio; Seizure; Abnormality of gaze fixation; Global developmental delay	DiagnosticLab
+ABC66120169	GATA6	2627	Induction of labor; Persistent truncus arteriosus; Ventricular septal defect; Absent ductus arteriosus	DiagnosticLab
+ABC66120187	NRAS	4893	Leukemia; Hematochezia; Terminal ileitis; Colonic ulcer; Rectal ulcer	DiagnosticLab
+ABC66120190	SMN1	6606	Proximal lower limb muscle weakness; Difficulty climbing stairs; Difficulty rising from squatting position; Waddling gait; Muscle atrophy; Pes cavus; Tremor of upper limbs; Inability to stand; Exercise-induced muscle weakness; Thin habitus	DiagnosticLab
+ABC66120193	MMACHC	25974	Elevated propionylcarnitine (C3); Abnormal ratio of propionylcarnitine to acetylcarnitine; Elevated serum propionylcarnitine; Increased C3/C2 ratio	DiagnosticLab
+ABC66120196	ANK1	286	Anemia; Neonatal jaundice; Intracranial hemorrhage in the neonatal period; Patent foramen ovale; Hydrocele testis; Renal pelvis dilatation; Neonatal conjunctivitis	DiagnosticLab
+ABC66120215	ATP1A2	477	Encephalitis; Seizures; Coma; Mitochondrial encephalomyopathy	DiagnosticLab
+ABC66120218	DMD	1756	Proximal muscle weakness; calf muscle hypertrophy; distal muscle weakness	DiagnosticLab
+ABC66120223	F8	2157	Intramuscular hematoma; prolonged partial thromboplastin time; reduced factor VIII activity; family history of hemophilia	DiagnosticLab
+ABC66120235	SLC34A2	10568	Chronic cough; Pulmonary alveolar microlithiasis	DiagnosticLab
+ABC66120245	CREBBP	1387	Seizures; Global developmental delay; Delayed gross motor development; Refractive error; Strabismus; Entropion; Abnormal retinal pigmentation; Thumb deformity; Polydactyly of the foot; Right-sided aortic arch; Aberrant subclavian artery	DiagnosticLab
+ABC66120262	MYBPC3	4607	Palpitations; Edema of the lower limbs; Hypertrophic cardiomyopathy	DiagnosticLab
+ABC66120282	IDS	3423	Umbilical hernia; coarse facial features; joint contracture; extensive Mongolian spots	DiagnosticLab
+ABC66120288	ATXN1	6310	Impaired balance; Motor weakness	DiagnosticLab
+ABC66120295	HTT	3064	Chorea; Abnormal gait; Progressive neurological deterioration	DiagnosticLab
+ABC66120313	GLRA2	2742	Developmental delay; Intellectual disability; Epileptic seizures; Seizure onset in infancy; Motor delay; Progressive neurologic deterioration; Inability to walk	DiagnosticLab
+ABC66120322	SLC12A3	6559	Recurrent hypokalemia; hypomagnesemia; hypercalcemia; elevated plasma renin activity; elevated aldosterone levels; increased urinary potassium excretion; normotension	DiagnosticLab
+ABC66120323	HBB	3043	Anemia; Hemolysis; Onset in infancy	DiagnosticLab
+ABC66120342	F11	2160	Excessive bleeding following surgery; Prolonged activated partial thromboplastin time; Factor XI deficiency	DiagnosticLab
+ABC66120343	NF1	4763	Multiple café-au-lait spots; epilepsy; congenital pseudarthrosis of the tibia; autosomal dominant inheritance	DiagnosticLab
+ABC66120359-S1	LSS	4047	Delayed hair appearance; Recurrent alopecia; Congenital alopecia; Recurrent hair loss	DiagnosticLab
+ABC66120363	SLC12A3	6559	Hypokalemia; Refractory hypokalemia; Renal potassium wasting; Elevated plasma renin activity; Normotension; Elevated renin activity; Normal blood pressure	DiagnosticLab
+ABC66120388	GCDH	2639	Traumatic brain injury; metabolic encephalopathy; glutaric aciduria	DiagnosticLab
+ABC66120434	FLNC	2318	Chest tightness; Restrictive cardiomyopathy; High voltage QRS complexes	DiagnosticLab
+ABC66120456	DMD	1756	Muscle atrophy	DiagnosticLab
+ABC66120461	TMEM260	54916	Persistent truncus arteriosus; Aplastic sternum; Diaphragmatic defect; Abdominal wall defect; Pericardial defect; Pentalogy of Cantrell; Sternal agenesis	DiagnosticLab
+ABC66120470	HSD3B7	80270	Neonatal jaundice; Prolonged neonatal jaundice; Scleral icterus; Acholic stools; Abnormal liver function; Hypertyrosinemia; Neonatal onset cholestasis; Abnormality of liver function tests	DiagnosticLab
+ABC66120475	NKX2-1	7080	Ataxia; delayed gross motor development; delayed speech and language development	DiagnosticLab
+ABC66120478	PLA2G6	8398	Gross motor delay; Lower limb hypotonia; Eczema; Cow's milk allergy; Abnormality of central nervous system myelination; Delayed gross motor development; lower limb hypotonia; eczema; cow's milk allergy; abnormal myelination	DiagnosticLab
+ABC66120479	SBDS	51119	Recurrent infections; Aspergillosis; Immunodeficiency; Renal failure; Respiratory failure; Encephalopathy; Heart failure	DiagnosticLab
+ABC66120485	CLCN1	1180	Recurrent seizures; hypercapnia; ventilator dependence; hyperammonemia; hypopyruvatemia; muscle hypertonia	DiagnosticLab
+ABC66120494	SPTBN2	6712	Ataxia; intellectual disability; cerebellar atrophy; lacunar infarcts; intestinal obstruction; lymphadenopathy; hypertension	DiagnosticLab
+ABC66120507	GNE	10020	Lower limb muscle weakness; Lower limb muscle atrophy	DiagnosticLab
+ABC66120517	MAFB	9935	Delayed wound healing; Injury of the hand; Arthritis; Osteonecrosis	DiagnosticLab
+ABC66120522	TPO	7173	Congenital hypothyroidism; short stature; slow growth requiring growth hormone therapy; elevated TSH levels; elevated FSH levels; delayed puberty; growth delay; elevated thyroid stimulating hormone level; elevated follicle-stimulating hormone level	DiagnosticLab
+ABC66120525	NDNF	79625	Short stature; Delayed puberty; Genital hypoplasia; Anosmia	DiagnosticLab
+ABC66120530	LMNA	4000	Progressive muscular weakness; Muscular atrophy	DiagnosticLab
+ABC66120561	MYBPC3	4607	Chest tightness; Elevated serum troponin levels; Non-obstructive hypertrophic cardiomyopathy	DiagnosticLab
+ABC66120573-S1	EXT1	2131	Multiple exostoses; Brachydactyly type E; Short stature	DiagnosticLab
+ABC66120612	COL4A2	1284	Spasticity of left upper limb and both lower limbs; hemiparesis of left upper limb; delayed gross motor development; small for gestational age; schizencephaly; bilateral white matter injury	DiagnosticLab
+ABC66120622	F8	2157	Hemarthrosis; Muscle hemorrhage; Onset in first year of life	DiagnosticLab
+ABC66120624	F8	2157	Joint hemorrhage; pain; restricted movement; Hemophilia A	DiagnosticLab
+ABC66120627	F8	2157	Hemarthrosis; Pain	DiagnosticLab
+ABC66120639	LDLR	3949	Dyslipidemia; Xanthomas; Abnormality of circulating lipid concentration; Xanthoma	DiagnosticLab
+ABC66120655	DMPK	1760	Neonatal respiratory insufficiency; Micrognathia; Generalized hypotonia; Decreased spontaneous movement; Congenital clubfoot; Pathologic fracture	DiagnosticLab
+ABC66120657	SPINK1	6690	Postprandial abdominal pain; Nausea; Abdominal distention; Pancreatitis; Chronic pancreatitis; Pancreatic ductal obstruction; Gallbladder bile stasis; Fat intolerance; Pancreatic duct stones; Biliary stasis	DiagnosticLab
+ABC66120666	NF1	4763	Hyperpigmentation of the skin; Café-au-lait spots; Chronic diarrhea; Recurrent abdominal pain	DiagnosticLab
+ABC66120677	PYGL	5836	Glycogen storage disease; abnormal liver function; short stature; Hepatic dysfunction; Short stature	DiagnosticLab
+ABC66120695	COL4A3	1285	Hyperthyroidism; Nephrotic syndrome; Myasthenia gravis; Ocular myasthenia	DiagnosticLab
+ABC66120697	SLC26A4	5172	Delayed speech and language development; Delayed cognitive development; Hearing impairment	DiagnosticLab
+ABC66120699	SMPD4	55627	Neonatal respiratory distress; Respiratory failure requiring mechanical ventilation; Upper airway obstruction; Abnormality of the epiglottis; Pharyngeal mass; Seizures	DiagnosticLab
+ABC66120710	LDLR	3949	Short stature; Hypercholesterolemia; Elevated low-density lipoprotein cholesterol; Prominent ear	DiagnosticLab
+ABC66120717	CPT2	1376	Elevated diaphragm; Polycystic kidney disease; Low-set ears; Micropenis; Cryptorchidism; Ventriculomegaly; Death; polycystic kidney disease; low-set ears; micropenis; cryptorchidism; ventriculomegaly; cardiac arrest; death	DiagnosticLab
+ABC66120729	F8	2157	Hematoma; Bleeding diathesis; Prolonged activated partial thromboplastin time; Factor VIII deficiency; Factor XII deficiency; Factor XIII deficiency	DiagnosticLab
+ABC66120732	FLCN	201163	Recurrent pneumothorax; Pulmonary cysts; Pulmonary bullae; Pulmonary emphysema; Pulmonary fibrosis; Chronic bronchitis; Exertional dyspnea; Orthopnea; Chest tightness; Chest pain; Cough; Fatigability; Thyroid nodule	DiagnosticLab
+ABC66120733	SLC12A3	6559	Hypokalemia; Muscle weakness; Carpopedal spasm; Hypotension; Muscular weakness; Bartter syndrome	DiagnosticLab
+ABC66120741	OTC	5009	Ornithine transcarbamylase deficiency; Abnormal liver function; Irritability; Excessive crying; Hyperammonemia; Seizure	DiagnosticLab
+ABC66120754	GABRG2	2566	Complex febrile seizures; Attention deficit hyperactivity disorder; Autism spectrum disorder	DiagnosticLab
+ABC66120757	CASR	846	Convulsions; recurrent hypocalcemia; hypoparathyroidism; normal development	DiagnosticLab
+ABC66120776	PDHA1	5160	Neonatal seizures; Lethargy; Lactic acidosis; Abnormal basal ganglia MRI signal intensity	DiagnosticLab
+ABC66120803	SLC17A8	246213	Hearing impairment	DiagnosticLab
+ABC66120808	WFS1	7466	Fever; Diabetes mellitus; Poorly controlled diabetes mellitus; Diabetic ketoacidosis; Renal insufficiency; Abnormality of electrolyte homeostasis; Urinary retention; Pancytopenia; Malnutrition; Prominent ears; Sparse hair; Jaundice; Electrolyte imbalance	DiagnosticLab
+ABC66120814-C1	OTC	5009	Hyperammonemia; encephalopathy; vomiting; lethargy; seizures; coma; hyperthermia; muscle rigidity; tachycardia; acidosis; hypercapnia; rhabdomyolysis; Encephalopathy; Lethargy; Seizures; Developmental delay; Hyperthermia; Muscle rigidity; Rhabdomyolysis; Acidosis; Tachycardia	DiagnosticLab
+ABC66120817-C1	ZNF292	23036	Developmental delay; Growth delay; Small for gestational age; Laryngomalacia	DiagnosticLab
+ABC66120820-C1	PTEN	5728	Language delay; Stereotypic behavior; Impaired communication; Autistic behavior	DiagnosticLab
+ABC6620001	MMACHC	25974	Increased propionylcarnitine; Hypomethioninemia; Hyperpropionylcarnitinemia; Hypermethioninemia	DiagnosticLab
+ABC6620046	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC6620184	PAH	5053	Reduced dihydropteridine reductase activity; Hyperphenylalaninemia; Absent dihydropteridine reductase activity	DiagnosticLab
+ABC6620185	ACADM	34	Elevated C6 acylcarnitine; Elevated C8 acylcarnitine; Elevated C10 acylcarnitine; Elevated C10:1 acylcarnitine	DiagnosticLab
+ABC6620209	PAH	5053	Phenylketonuria; I'm sorry; but it appears that the detailed electronic health record is missing from your message. Could you please provide the patient's information so I can assist you in listing the major phenotypes using the Human Phenotype Ontology terms?	DiagnosticLab
+ABC6620261	MMACHC	25974	Increased propionylcarnitine; Increased 3-hydroxyhexadecenoylcarnitine; Abnormal acylcarnitine profile; Elevated C3 acylcarnitine level; Elevated long-chain 3-hydroxyacylcarnitine levels; Abnormal acylcarnitine ratios	DiagnosticLab
+ABC6620268	MMACHC	25974	Methylmalonic aciduria; Hyperhomocysteinemia; Failure to thrive; Increased serum propionylcarnitine; Methylmalonic acidemia; Elevated propionylcarnitine	DiagnosticLab
+ABC6620275	MMACHC	25974	Elevated methylmalonic aciduria; Hyperhomocysteinemia; Elevated propionylcarnitine; Elevated C3 acylcarnitine; Methylmalonic aciduria; Elevated methylcitric acid level	DiagnosticLab
+ABC6620403	PAH	5053	Hyperphenylalaninemia; Tetrahydrobiopterin deficiency; Abnormal phenylalanine to tyrosine ratio	DiagnosticLab
+ABC6620409	HPD	3242	Hypertyrosinemia	DiagnosticLab
+ABC6630070	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC6630120	PAH	5053	Intellectual disability; Microcephaly; Seizures; Hypopigmentation of hair; Hypopigmentation of skin; Eczema; Behavioral abnormality; Musty body odor; microcephaly; seizures; behavioral abnormality; hypopigmentation of hair; hypopigmentation of skin; eczema; musty or mousy body odor; hyperactivity; developmental delay	DiagnosticLab
+ABC6630206	MMACHC	25974	Hyperhomocysteinemia; Elevated propionylcarnitine; elevated propionylcarnitine levels; elevated C3/C0 ratio; elevated C3/C2 ratio	DiagnosticLab
+ABC6630220	MMACHC	25974	Hyperhomocysteinemia; methylmalonic aciduria; Methylmalonic aciduria	DiagnosticLab
+ABC6630237	MMACHC	25974	Elevated C3 acylcarnitine; Increased C3:C2 acylcarnitine ratio; Increased C3:C0 acylcarnitine ratio; Increased C3:Methionine ratio; Elevated serum propionylcarnitine; Increased propionylcarnitine to acetylcarnitine ratio; Increased propionylcarnitine to free carnitine ratio; Increased propionylcarnitine to methionine ratio	DiagnosticLab
+ABC6630275	MAT1A	4143	Hypermetabolism; increased exercise tolerance; Increased basal metabolic rate	DiagnosticLab
+ABC6630369	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC6630374	MMACHC	25974	Methylmalonic aciduria; Hyperhomocysteinemia; Increased propionylcarnitine concentration; Elevated propionylcarnitine (C3); elevated C3/C2 ratio; hyperhomocysteinemia	DiagnosticLab
+ABC6630381	ACADS	35	Elevated butyrylcarnitine; Ethylmalonic aciduria; Elevated butyrylcarnitine (C4) levels	DiagnosticLab
+ABC6640045	MMACHC	25974	Elevated methylmalonic acid; Elevated propionylcarnitine; Methylmalonic acidemia	DiagnosticLab
+ABC6640165	PAH	5053	Persistently mild elevation of phenylalanine levels (200-253 μmol/L); hyperphenylalaninemia; Mild hyperphenylalaninemia; Abnormality of neonatal screening	DiagnosticLab
+ABC6640263-C	MMACHC	25974	Elevated propionylcarnitine; elevated C3/C2 ratio; elevated C3/MET ratio; low methionine; Elevated circulating propionylcarnitine concentration; reduced circulating methionine concentration	DiagnosticLab
+ABC6650016	PAH	5053	Hyperphenylalaninemia; Elevated serum phenylalanine; Abnormality of neonatal screening	DiagnosticLab
+ABC6650017	SLC22A5	6584	Decreased circulating carnitine level; Hypocarnitinemia	DiagnosticLab
+ABC6650081	PAH	5053	Hyperphenylalaninemia	DiagnosticLab
+ABC6660154	MMACHC	25974	Methylmalonic aciduria; Homocystinuria; Increased methylmalonic acid level; Hyperhomocysteinemia; Elevated propionylcarnitine levels	DiagnosticLab
+ABC6670010	PAH	5053	Hyperphenylalaninemia; phenylalanine level 18.2 mg/dL; phenylalanine level 28.4 mg/dL	DiagnosticLab
+ABC6670054	SLC22A5	6584	Hypocarnitinemia	DiagnosticLab
+ABC6670070	ACAD8	27034	The major phenotype described in the patient's electronic health record is **Increased C4 acylcarnitine**.	DiagnosticLab
+ABC6670120	ASS1	445	Premature birth; Low birth weight	DiagnosticLab
+ABC6680152	PAH	5053	Elevated phenylalanine levels; Phenylketonuria; Hyperphenylalaninemia	DiagnosticLab
+ABC6680207	MMACHC	25974	Elevated propionylcarnitine; methylmalonic aciduria; Elevated C3/C2 ratio; suspected Methylmalonic Acidemia; elevated C16; elevated C18; elevated C18:1	DiagnosticLab
+ABC6690037	MMACHC	25974	Elevated propionylcarnitine; Elevated C3/C2 ratio; Hyperhomocysteinemia; Elevated C3 acylcarnitine level	DiagnosticLab
+YABC6600195	ARG1	383	Argininemia; Hyperargininemia; Autosomal recessive inheritance; Family history of metabolic disorder; Prenatal diagnosis requested	DiagnosticLab
