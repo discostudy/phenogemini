@@ -25,5 +25,4 @@ numbers requires substituting full datasets (see package-specific notes).
 
 ## Contact
 
-For questions about individual modules or accessing additional data, please
-reach out to the corresponding author or the PhenoGemini data curation team.
+For questions about individual modules or accessing additional data, please email **dr.wunan@pumch.cn** or **jeffchenmed@gmail.com**.
