@@ -23,12 +23,6 @@ Each package includes its own README with installation instructions and example
 commands. Smoke tests rely on the bundled sample data; reproducing manuscript
 numbers requires substituting full datasets (see package-specific notes).
 
-## Controlled data
-
-All files currently shipped in `release/` are de-identified and suitable for
-public sharing. If additional restricted datasets are added in the future,
-update this document with access instructions.
-
 ## Contact
 
 For questions about individual modules or accessing additional data, please
