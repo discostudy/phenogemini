@@ -25,4 +25,4 @@ numbers requires substituting full datasets (see package-specific notes).
 
 ## Contact
 
-For questions about individual modules or accessing additional data, please email **dr.wunan@pumch.cn** or **jeffchenmed@gmail.com**.
+For questions about individual modules or accessing additional data, please email **dr.wunan@pumch.cn**, **jeffchenmed@gmail.com**, or **caijh09@gmail.com**.
