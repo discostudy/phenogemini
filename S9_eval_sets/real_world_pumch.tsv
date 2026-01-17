@@ -1,0 +1,579 @@
+patient_uid	gene_symbol	entrez_gene_id	phenotypes	cohort
+0033e3be-167b-4c16-8344-156b1fde386d	FBN1	2200	Tall stature; Pectus carinatum; Striae distensae; Mitral valve prolapse; Mitral regurgitation; Hallux valgus; Hiatus hernia; Aortic root aneurysm; Scoliosis; Cubitus valgus; Long toe; High myopia; Embryonal onset; Hodgkin lymphoma; Long fingers	PUMCH
+00d2ab40-e2f2-4ade-b4c8-efce72b23634	NISCH	11188	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+0186de07-ff7c-4da8-89a2-5cbafe622968	TBX6	6911	Renal dysplasia; Delayed speech and language development; Abnormality of the urethra; Premature birth; Scoliosis; Infantile onset; Renal hypoplasia/aplasia	PUMCH
+01bfb512-2617-47e5-a7f2-a92638426add	FBN1	2200	Mitral valve prolapse; Arachnodactyly; Scoliosis; Right atrial enlargement; Right ventricular dilatation; Abnormal tricuspid valve morphology; Secundum atrial septal defect	PUMCH
+02214429-b9ce-4934-b1f2-d28008c3679c	TBX6	6911	Scoliosis; Hyperextensibility at elbow; Caesarian section; Childhood onset	PUMCH
+047b3b6a-ce10-4a94-8012-04b38510b520	FBN1	2200	Caesarian section; Juvenile onset; Abnormality of the dentition; Scoliosis; Mitral regurgitation; Tricuspid regurgitation; Pes planus; Abnormal sternum morphology; High palate; Elbow flexion contracture; Mitral valve prolapse; Tricuspid valve prolapse; Left atrial enlargement	PUMCH
+05912730-1956-43c3-b387-9249e838768a	SLC25A21	89874	Childhood onset; Muscle weakness; Patellar dislocation; Pes planus; Abnormality of refraction	PUMCH
+05f1ef6b-129a-4054-a5ce-d2892c8755a4	COG5	10466	Facial asymmetry; Strabismus; Delayed speech and language development; Abnormality of the hand; Ataxia; Pes planus; Inability to walk; Scoliosis; Finger joint hypermobility; Caesarian section; Childhood onset; Abnormality of movement	PUMCH
+071dfe9b-5276-4bb0-ba25-b379e7889cea	TBX6	6911	Scoliosis; Spinal dysplasia	PUMCH
+07b23538-28ce-4c41-a003-a53b162be97f	TBX6	6911	Scoliosis; Diastomatomyelia	PUMCH
+07f26e81-8898-42ad-8b9b-6b254055af7a	TSHR	7253	Renal insufficiency; Renal cyst; Polycystic kidney dysplasia; Uterine leiomyoma; Cataract; Retinal detachment; Depression; Hypertension; Goiter; Mitral regurgitation; Anemia; Hyperuricemia; Sleep abnormality; Atherosclerosis; Hyperlipidemia; Left ventricular diastolic dysfunction; Thyroid nodule; Coronary sinus enlargement; Pulmonary nodule; Malaise; Hyperplasia of the endometrium; Graves disease	PUMCH
+087b3c8d-9f14-4bbd-b014-9b1cc45deed1	BMP2	650	Abnormality of the hand; Abnormal joint morphology; Flexion contracture; Abnormal foot morphology; Talipes equinovarus; Scoliosis; Butterfly vertebrae; Abnormal skeletal morphology; Abnormal upper limb bone morphology	PUMCH
+08f4aba8-c2e7-4be1-9c87-269510e19448	COL5A1	1289	Abnormality of the dentition; High palate; Hyperextensible skin; Soft skin; Abnormality of the hand; Hip dysplasia; Hallux valgus; Juvenile onset; Finger joint hypermobility; Piezogenic pedal papules; Kyphoscoliosis; Abnormal cartilage morphology	PUMCH
+0923d88e-0d27-4124-a55a-c1c62c517fed	LRP4	4038	Congenital hip dislocation; Scoliosis; Caesarian section; Fetal onset; Delayed gross motor development; Constipation; Muscle weakness	PUMCH
+09454a78-b9de-4ef5-af40-599e1124c6ff	ARSB	411	Hemivertebrae; Abnormality of mucopolysaccharide metabolism; Abnormal heart valve morphology; Mitral valve prolapse; Congenital kyphoscoliosis; Mitral regurgitation; Short neck	PUMCH
+098cca5a-1afb-47ac-b88f-3266d12309e7	AP2S1	1175	Infantile onset; Inguinal hernia; Polydactyly; Scoliosis	PUMCH
+0a9a4fbc-5b43-45aa-8f2b-f7cea0171aa7	GNAI3	2773	Infantile onset; Caesarian section; Scoliosis	PUMCH
+0ac80790-a6a3-447f-a411-2327917cc66b	FBN1	2200	Scoliosis	PUMCH
+0c316438-b1f4-42a3-90b7-27aefeae12d5	CCN6	8838	Limitation of joint mobility; Joint swelling; Premature birth; Abnormal vertebral morphology; Caesarian section; Childhood onset; Sacroiliac arthritis; Lower limb asymmetry	PUMCH
+0c37189a-65e2-4730-bd1f-21fe046bf883	FGFR3	2261	Infantile onset; Macrocephaly; Hyperpigmentation of the skin; Scoliosis; Hyperlordosis; Short stature; Limb undergrowth; Elbow flexion contracture; Hydrocephalus	PUMCH
+0cf6be76-8876-4ea4-b6a3-dda525f5516d	NTRK1	4914	Premature birth; Caesarian section; Congenital onset; Skin rash; Anhidrosis; Kyphosis; Recurrent fractures; Spondylolysis	PUMCH
+0d5fb927-cb6d-4185-b6a8-52580fdfe1cf	B3GALT6	126792	High palate; Clubbing; Hypoplastic fingernail; Arthralgia; Genu valgum; Congenital onset; Short stature; Bowing of the long bones; Caesarian section; Camptodactyly; Decreased circulating vitamin D concentration	PUMCH
+0e0cbfa5-2bb4-4e6b-bc67-3daae25a0223	COL5A1	1289	Hypertelorism; Torticollis; Strabismus; Hyperpigmentation of the skin; Hyperextensible skin; Soft skin; Bruising susceptibility; Atrophic scars; Joint hypermobility; Subcutaneous nodule; Premature birth; Pes planus; Scoliosis; Abnormality of connective tissue; Childhood onset	PUMCH
+0ecae095-af35-4d35-b604-6660957fa25e	HTT	3064	Thoracolumbar kyphoscoliosis; Abnormal dental morphology; Adult onset; Abnormality of the dentition; Scoliosis; Hypoglycemia; Anemia	PUMCH
+10552efa-3769-4e38-a71a-1033497d0671	EYS	346007	Retinal detachment; Delayed speech and language development; Joint hypermobility; Pes planus; Diarrhea; Constipation; Asthma; Delayed gross motor development; Scoliosis; Adult onset; Abnormality of the temporomandibular joint; Pain; Keratoconjunctivitis sicca; Tinnitus; Fatigue; High myopia; Periodontitis; Dysmenorrhea	PUMCH
+131f04bc-87c7-43a8-931d-c343b00bee13	MYBPC3	4607	Infantile onset; Scoliosis; Finger joint hypermobility	PUMCH
+1457849e-7e5b-4d39-9e4a-cd49bb02de78	PIEZO2	63895	Abnormality of prenatal development or birth; Multiple joint contractures	PUMCH
+14b092f4-721f-4d73-b04a-bf37355c102d	COL1A2	1278	Short fetal femur length; Short tibia; Fibular hypoplasia; Femoral bowing; Tibial bowing; Fibular bowing	PUMCH
+159399a4-a50e-4469-b028-b67a96a04512	EXT2	2132	Congenital onset	PUMCH
+15b54c6b-342e-45b5-bc9a-9d62e744cec3	TRPV4	59341	Abnormal joint morphology; Limitation of joint mobility; Scoliosis; Genu varum; Neonatal onset; Short stature; Metaphyseal chondrodysplasia; Abnormality of dental eruption; Limited shoulder movement	PUMCH
+168c066e-cab8-4907-a245-8e297f7f276f	TBX6	6911	Rib fusion; Restrictive ventilatory defect; Mitral valve prolapse; Scoliosis; Vertebral segmentation defect	PUMCH
+16931767-1eb4-4c77-9fd4-0dee4418608f	COL2A1	1280	Hearing abnormality; Low-set ears; Depression; Joint stiffness; Scoliosis; Cubitus valgus; Metaphyseal chondrodysplasia; Limitation of neck motion; Caesarian section; Childhood onset; Hip dislocation; Joint swelling	PUMCH
+16d40c33-2eee-40d3-8bd9-e5aca91c9446	COL1A1	1277	Femoral bowing	PUMCH
+1722d25b-0030-42f5-881c-a26d08578ff6	COL3A1	1281	Joint hypermobility; Talipes equinovarus; Pneumothorax; Spontaneous pneumothorax; Recurrent respiratory infections; Scoliosis; Generalized joint hypermobility; Adult onset; Localized hirsutism; obsolete Anaphylactoid purpura	PUMCH
+17bfd400-87b5-4fc4-86bb-c1522a4a15bb	COL3A1	1281	Adult onset; Chronic diarrhea; Gingival bleeding; Iliac artery aneurysm; Celiac artery dissection; Joint hypermobility; Finger joint hypermobility; Dermal translucency; Hallux valgus; Hypertension	PUMCH
+18b96ee1-8ae0-4cbf-9a79-5f8bf4e1766c	ACVR1	90	Mixed hearing impairment; Abnormality of connective tissue; Limitation of neck motion; Abnormal foot morphology; Abnormality of limbs; Scoliosis; Skeletal muscle atrophy; Congenital onset	PUMCH
+1a4ca289-9e09-41f8-a211-00b3f8cfe6b0	FGFR3	2261	Short stature; Tetraparesis; Kyphoscoliosis	PUMCH
+1b45ea52-654f-4f58-8920-cc361c83cf2a	MYH3	4621	Inguinal hernia; Abnormality of the dentition; Pursed lips; Trismus; Mandibular prognathia; Whistling appearance; Wide nasal bridge; Wide nose; Broad nasal tip; Syndactyly; Scoliosis; Congenital onset; Flexion contracture of finger	PUMCH
+1c072c8a-7dc0-49f9-a664-339f67e9d1fd	PLOD1	5351	Hydronephrosis; Motor delay; Abnormal hip joint morphology; Joint hypermobility; Redundant skin; Scoliosis; Kyphosis; Trapezoidal vertebral body; Spinal dysplasia; Abnormal spinal meningeal morphology; Abnormality of the maxillary sinus	PUMCH
+1c166ca0-5b88-46af-b404-6826adc3e9ff	COL1A1	1277	Skeletal dysplasia; Abnormality of the skeletal system	PUMCH
+1c4a616a-45f9-4a29-ad12-3d42fffc75cd	TNNT2	7139	Scoliosis	PUMCH
+1c77e1ed-3fd4-4e76-aa93-512655f3c745	ACVR1	90	Trismus; Vertebral fusion; Atlantoaxial dislocation; Decreased cervical spine mobility	PUMCH
+1d1700f0-8f5a-429b-893d-fd126739f0a8	NF1	4763	Juvenile onset; Cafe-au-lait spot; Pectus carinatum; Neoplasm of the skin; Short neck; Limitation of neck motion; Scoliosis; Kyphosis; Short stature	PUMCH
+1d74d902-9575-4730-b54d-dc6f24d43006	PTPN11	5781	Unilateral renal agenesis; Restrictive ventilatory defect; Scoliosis; Congenital onset; Hypoplastic sacrum	PUMCH
+1db736ac-692c-4a9c-a725-61524b773470	TBX6	6911	Hemivertebrae; Kyphosis; Scoliosis	PUMCH
+1dea4786-75c8-49e3-88b6-f2f0c6b424c9	ASXL2	55252	Aplasia/Hypoplasia of the ribs; Pectus excavatum	PUMCH
+1e11a568-6354-4f83-9bf7-7afabfd4fab5	FBN1	2200	Lens subluxation; Scoliosis; Arachnodactyly	PUMCH
+1e769538-0d4e-4d17-b65a-760855cb4a25	COL5A1	1289	Abnormality of the outer ear; Hypodontia; Anxiety; Hyperthyroidism; Joint hypermobility; Chronic diarrhea; Hemoptysis; Facial hypertrichosis; Scoliosis; Abnormality of connective tissue; Adult onset; Keratosis pilaris; Pulmonary nodule; Pulmonary cavity	PUMCH
+1f11a3b2-4b41-4882-808f-0b0b48aba526	TTN	7273	Scoliosis	PUMCH
+1f7088f9-bcef-4537-9b85-a39508facca7	KCNQ1	3784	Pleural effusion; Scoliosis; Kyphosis; Childhood onset; Abnormality on pulmonary function testing	PUMCH
+1fa7a7f3-06b7-4d79-8af5-2a50964359d4	NISCH	11188	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+204e6586-5da3-4221-92a3-20a3a9a4c69a	TTN	7273	Caesarian section; Infantile onset; Limitation of neck motion; Abnormal foot morphology; Scoliosis; Muscle weakness; Restrictive ventilatory defect; Fatty replacement of skeletal muscle; Muscular dystrophy	PUMCH
+206bc019-b526-484f-9f35-576476271141	FBN1	2200	Slender finger; Arachnodactyly; Scoliosis; Narrow palate; Abnormal mitral valve morphology	PUMCH
+20990c95-be69-4215-ad5f-2f52e93b8e53	RBBP5	5929	Scoliosis; Thoracolumbar scoliosis; Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+20e30eb7-43db-40d8-bfeb-b2f78f778f7b	CACNA1S	779	Hemivertebrae; Scoliosis	PUMCH
+2239e758-146a-4f01-a03f-ec89a72f9196	TTN	7273	Arachnodactyly; Joint hypermobility; Scoliosis; Childhood onset	PUMCH
+2330818e-b7df-48a9-87d5-73e502e78518	SMAD3	4088	Scoliosis	PUMCH
+236f3f32-b52d-4d59-8522-3226a4fb4786	SMS	6611	Inguinal hernia; Facial asymmetry; Ptosis; Abnormal sternum morphology; Intellectual disability; Slender build; Ventricular septal defect; Atrial septal defect; Developmental regression; Scoliosis; Thenar muscle atrophy; Infantile onset; Decreased body weight; Hyperextensibility at elbow; Delayed fine motor development; Abnormal ear morphology	PUMCH
+2384a140-a9d2-4900-b183-ab8a047be500	SQSTM1	8878	High palate; Soft skin; Pes planus; Scoliosis; Cubitus valgus; Juvenile onset; Pes valgus; High myopia; Caesarian section	PUMCH
+2650c448-e46f-44bf-be7e-c0c1ea7f3975	NF1	4763	Cafe-au-lait spot; Scoliosis; Caesarian section; Juvenile onset	PUMCH
+267b543a-795a-4aa9-ad5c-e9dd4d4e90d5	BRCA2	675	Syringomyelia	PUMCH
+2690ab03-1253-49bf-abb7-67aec1d0a547	PPP1R12A	4659	Scoliosis; Abnormal respiratory system physiology; Childhood onset; Kyphoscoliosis; Multiple joint contractures; Talipes equinovarus; Hypertonia; Muscle weakness; Abnormality of the wrist	PUMCH
+26f075c1-1bb3-46b3-b5fb-301da95495aa	TGFB3	7043	Scoliosis	PUMCH
+26ff32f2-bbbe-47e2-9f5e-b9a922820f04	MAP3K7	6885	Specific learning disability; Atrial septal defect; Abnormal nail morphology; Scoliosis; Abnormality of the dentition; Juvenile onset; Unilateral vocal cord paralysis; Ventricular septal defect; Caesarian section; Hypodontia	PUMCH
+2784038f-668a-407b-822d-0a1df1c52a11	FBN1	2200	Scoliosis; Pectus excavatum; Spondylolisthesis; Aortic root aneurysm; Mitral regurgitation	PUMCH
+279cc079-9e2c-4657-a28c-0914d9cf178f	FGFR3	2261	Short fetal femur length; Short fetal humerus length; Abnormal fetal skeletal morphology	PUMCH
+279d8ace-e224-43a1-a45c-f295f3f48176	TP53	7157	Scoliosis; Kyphosis; Rhabdomyosarcoma; Abnormal respiratory system physiology; Childhood onset	PUMCH
+28089dd7-4de6-40c4-b490-bd0200be898c	FBN1	2200	Scoliosis; Lens subluxation; Slender finger; Aortic aneurysm	PUMCH
+287f65e1-c56c-4fbc-8527-5f76a176e72c	TTN	7273	Hemivertebrae; Abnormal rib morphology; Vertebral wedging; Scoliosis; Platyspondyly; Thoracic hypoplasia	PUMCH
+28fc6711-5152-4d51-930f-ce9332efa40c	SCN5A	6331	Constipation; Abnormality of movement; Aplasia/Hypoplasia of the ribs; Scoliosis; Anemia	PUMCH
+296a0ef8-1309-4735-824f-183f4fa1b02e	FGFR3	2261	Tetraphocomelia; Fetal head anomaly; Abnormal fetal skeletal morphology	PUMCH
+2a590d4f-8a6a-45cb-942c-382cddef74a1	TBX6	6911	Congenital onset; Inguinal hernia; Scoliosis; Abnormal vertebral morphology; Renal hypoplasia/aplasia; Hemivertebrae; Bifid ribs; Rib fusion; Butterfly vertebrae; Aplasia/Hypoplasia of the ribs	PUMCH
+2abe30ab-390b-4a02-ac85-90521a3fefc1	RYR1	6261	Scoliosis; Pelvic kidney; Ectopic kidney	PUMCH
+2ad25646-1007-4aeb-aac6-5396e612aed0	PIEZO2	63895	Scoliosis; Congenital hip dislocation; Avascular necrosis of the capital femoral epiphysis; Caesarian section; Infantile onset; Kyphosis	PUMCH
+2b362f01-5e82-4afa-b9d8-9323d65680fb	FLNA	2316	Congenital hip dislocation; Scoliosis; Failure to thrive; Beaking of vertebral bodies	PUMCH
+2b4a2034-789b-4a23-8340-44c16aaf5197	ANKRD17	26057	Scoliosis; Diastomatomyelia; Juvenile onset; Unilateral renal agenesis; Aplasia/Hypoplasia of the ovary	PUMCH
+2b888cf8-277e-41cc-a4ae-ce21de292d9f	FGFR3	2261	Bowing of the long bones; Short fetal femur length; Thoracic hypoplasia; Fetal head anomaly; Abnormal fetal skeletal morphology	PUMCH
+2bcde176-1fe0-4c24-bff6-670c5bf1f640	TBX6	6911	Childhood onset; Delayed speech and language development; Scoliosis; Astigmatism; Hemivertebrae; Short stature; Aplasia/Hypoplasia of the ribs	PUMCH
+2c0490cd-c2d4-44ad-8b59-14d4f96a0f75	PALB2	79728	Caesarian section; Juvenile onset; Scoliosis	PUMCH
+2cf88910-3309-492b-987d-cb88951c0b5a	COL1A1	1277	Thoracic dysplasia; Tetraphocomelia; Bowing of the long bones; Narrow chest	PUMCH
+2e754dec-0202-47a8-ba13-e92c21dd2071	NF1	4763	Scoliosis	PUMCH
+2e79347f-cf6b-4623-8be6-d734b12e165c	CCN6	8838	Pectus carinatum; Limitation of neck motion; Cubitus valgus	PUMCH
+2f73eed4-ba96-4218-a825-6687bd9a8d2b	MLH1	4292	Scoliosis; Arachnodactyly	PUMCH
+312396f1-c6bb-4d0f-a08c-455a6a1863ec	NF1	4763	Cafe-au-lait spot; Abnormally slow thought process; Thoracic scoliosis	PUMCH
+31d240ee-24d4-419c-90fb-25a4ddab5f86	TBX6	6911	Hemivertebrae; Scoliosis; Vertebral segmentation defect; Restrictive ventilatory defect	PUMCH
+322676cb-5b4f-45e9-93f4-91d7723f04f8	IGFBP6	3489	Joint hypermobility; Juvenile onset; Spondylolysis; Micrognathia	PUMCH
+3308e025-5658-45b7-bd6f-5b77237bd80e	PTPN11	5781	Cafe-au-lait spot; Scoliosis	PUMCH
+333ffecc-0d6d-46c6-9e2a-782e1e3cb14a	TTN	7273	Restrictive ventilatory defect; Cleft palate; Scoliosis; Vertebral segmentation defect; Hernia of the abdominal wall; Syringomyelia	PUMCH
+33d71af1-3851-407c-8c81-11d5c04413a6	KMT2D	8085	Embryonal onset; Scoliosis; Hemivertebrae	PUMCH
+3636e832-9494-4eae-bcec-aac927145225	FGFR3	2261	Unsteady gait; Renal cyst; Macrocephaly; Trapezoidal vertebral body; Congenital kyphoscoliosis; Depressed nasal ridge; Scoliosis; Vertebral segmentation defect; Hydrocephalus; Abnormality of the gallbladder; Kyphoscoliosis; Disproportionate short-limb short stature	PUMCH
+38c45e1d-8450-4ddf-8e53-6d8c36c06734	FGFR3	2261	Increased nuchal translucency; Thoracic hypoplasia; Short long bone; Bent long bone; Abnormal fetal skeletal morphology	PUMCH
+3936f29f-c07a-41df-a48b-f0d485cf362f	TBX6	6911	Hearing abnormality; Delayed speech and language development; Specific learning disability; Delayed fine motor development; Embryonal onset; Fetal onset; Camptodactyly	PUMCH
+39a35548-ce47-4f5b-b161-84c2aec19ff3	NISCH	11188	Scoliosis; Hypoplasia of the vagina; Hypoplasia of the uterus; Abnormality of the hand	PUMCH
+39c37cf4-885c-4957-b06c-b00c4eccf819	RYR1	6261	Arthrogryposis multiplex congenita; Scoliosis; Vertebral segmentation defect; Hypertelorism; Ophthalmoplegia; Malignant hyperthermia; Ptosis; Aplasia/Hypoplasia of the scapulae; Abnormal sternum morphology; Hyperlordosis	PUMCH
+39db3c57-d62a-408f-a103-86f5256ea4ae	NRAS	4893	Hyperpigmentation of the skin; Neurofibroma; Limited elbow extension; Cerebral atrophy; Congenital onset; Arteriovenous fistula; Neoplasm of the skin; Cerebral artery stenosis; Nevus spilus	PUMCH
+3a23b615-a24c-442f-b654-644f92a12fd4	COL5A2	1290	Premature birth; Caesarian section; Childhood onset; Kyphosis; Joint hypermobility; Scoliosis	PUMCH
+3aa69932-9ffa-4f82-a271-8549ca8138cf	NF1	4763	Pectus excavatum; Neurofibroma; Scoliosis; Kyphosis; Childhood onset	PUMCH
+3b7234b3-be1b-4a7f-a430-e7767cb16655	SOS1	6654	Torticollis; Ptosis; Cafe-au-lait spot; Scoliosis; Infantile onset; Thoracic hemivertebrae	PUMCH
+3ba25b66-5a45-4c31-bf26-18f50394b541	MYO9A	4649	Hemivertebrae; Scoliosis; Vertebral segmentation defect; Inguinal hernia; Vertebral fusion	PUMCH
+3c4710b2-74dc-458d-aa7b-a0f8737559df	FGFR3	2261	Short humerus; Increased head circumference; Short long bone; Limb undergrowth; Tetraphocomelia; Abnormal fetal skeletal morphology	PUMCH
+3d6a3300-1360-442e-80ee-5eba7e534d58	KRAS	3845	Short stature	PUMCH
+3d865a95-579b-43f0-90a7-184b72dc145d	CACNA1S	779	Hemivertebrae; Kyphosis; Atrial septal defect; Hyperreflexia; Scoliosis; Vertebral segmentation defect; Narrow chest; Aplasia/Hypoplasia of the scapulae; Vertebral fusion	PUMCH
+3e18fe12-803c-41d9-9e48-3a900db31e02	FBN1	2200	Scoliosis; Childhood onset; Caesarian section; Tall stature	PUMCH
+3e6e4ebd-4c8e-4500-9db2-5b216bbba7de	CACNA2D2	9254	Aplasia of the vagina; Hypoplasia of the uterus	PUMCH
+3f0b1b1e-bc1f-41e1-ad4e-0247fc2e0fa5	SLCO2A1	6578	Caesarian section; Adult onset; Hyperostosis	PUMCH
+4090a888-bb98-4e15-af42-115b4bf493af	NF1	4763	Anemia; Torticollis; Scoliosis; Neonatal onset; Cafe-au-lait spot	PUMCH
+41383da8-fdd5-4e2e-aba2-297e692e0579	COL1A1	1277	Echogenic fetal bowel; Lateral ventricle dilatation; Talipes equinovarus; Ventricular septal defect; Abnormal fetal skeletal morphology; Short fetal humerus length; Short long bone	PUMCH
+42595df4-a41d-4164-8afa-007969855af2	FBN1	2200	Inguinal hernia; Scoliosis; Iron deficiency anemia; Strabismus; Mitral valve prolapse; Mitral regurgitation	PUMCH
+436c41a9-b557-4b4d-8140-75880f440a25	NPR2	4882	Scoliosis; Childhood onset; Abnormal vertebral morphology	PUMCH
+44f46ee9-95f5-41bf-be36-8eb09c2bf83f	NF1	4763	Scoliosis	PUMCH
+45405f89-f2ac-46e5-8980-48c6d83d4f83	LMNA	4000	Restrictive ventilatory defect; Mitral valve prolapse; Skeletal muscle atrophy; Scoliosis; Mitral regurgitation; Proximal muscle weakness	PUMCH
+456c884d-cc8f-40eb-bf61-1fe639e1d2f2	COL5A1	1289	Urinary hesitancy; Hypertelorism; Strabismus; Synophrys; Hyperextensible skin; Soft skin; Joint hypermobility; Premature birth; Scoliosis; Kyphosis; Juvenile onset; Recurrent pneumonia; Feeding difficulties; Stuttering; Chest tightness; Palmar hyperlinearity; Myopic astigmatism	PUMCH
+45e3c099-6742-4065-821e-dd6e0c211576	CACNA2D2	9254	Aplasia of the vagina; Hypoplasia of the uterus	PUMCH
+46ad116e-4c0e-4164-845a-843a440fbef9	COL5A1	1289	Premature birth; Childhood onset; Joint hypermobility; Anxiety; Striae distensae; Low back pain; Atlantoaxial instability; Abnormality of connective tissue; Finger joint hypermobility; Limb pain; Pain; Thyroid nodule; Neck pain; Raynaud phenomenon	PUMCH
+47124097-f5ed-43f9-be46-f8a22cd3e802	FBN1	2200	Thin upper lip vermilion; Long philtrum; Abnormality of the voice; Short palm; Short stature; Limited elbow flexion/extension; Depressed nasal bridge; Disproportionate short-limb short stature; Caesarian section; Childhood onset	PUMCH
+4789351b-5a98-4b9f-9789-9c3289f1ac7e	FBN1	2200	Scoliosis; Slender finger	PUMCH
+478941c3-fd6b-49f6-8675-c2658778ec61	ASPM	259266	Cleft soft palate; Craniosynostosis	PUMCH
+4802e698-ce20-47d4-aaa9-896fb7773dc4	TTN	7273	Scoliosis; Lumbar scoliosis	PUMCH
+48c2bad4-7d51-4a7b-bc55-4a28246fd786	COL2A1	1280	Hip dysplasia; Anemia; Constipation; Scoliosis; Hypokalemia; Hyponatremia; Hypoalbuminemia; Atlantoaxial dislocation; Limitation of neck motion; Childhood onset	PUMCH
+4926800c-b605-4985-bd30-053a92df01b7	BRCA1	672	Bifid ribs; Scoliosis	PUMCH
+4933dab3-93e6-4050-9694-27fa4fe6eafb	FLNC	2318	High palate; Hypertelorism; Tooth malposition; Abnormality of the hand; Muscle weakness; Anemia; Gait disturbance; Skeletal muscle atrophy; Thenar muscle atrophy; Adult onset; Finger joint hypermobility	PUMCH
+49b3fa0a-931a-4211-a6e4-168cd8728282	HNF1A	6927	Diabetes mellitus; Arthralgia/arthritis; Anxiety; Thyroid nodule; Visual loss; Ocular pain; Abnormal hair morphology; Generalized weakness of limb muscles; Headache; Abnormality of the skin; Fragile teeth; Decreased circulating complement C3 concentration; Decreased circulating complement C4 concentration; Alopecia; Genu varum	PUMCH
+4c151e6c-3eb4-48b5-9b91-eb54f51f4261	RYR2	6262	Adult onset	PUMCH
+4c49c3a1-f452-415a-8306-5321d95fd42d	TTN	7273	Hemivertebrae; Scoliosis; Congenital kyphoscoliosis	PUMCH
+4c79db0d-771b-44d2-a3f3-4beef4019ae3	TBX6	6911	Vertebral wedging; Scoliosis; Short stature; Anemia; Cafe-au-lait spot; Neurofibroma	PUMCH
+4cb07904-9008-44bb-a759-bcef4bb4e146	COG5	10466	Optic atrophy; Scoliosis; Global developmental delay; Intellectual disability; Nystagmus; Abnormal pupillary light reflex; Optic disc pallor; Macular atrophy	PUMCH
+4cbd518a-4b83-4d29-9486-3077e065831e	NISCH	11188	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+4d1136dd-5aed-4aae-adc5-58c7050709b7	TBX6	6911	Hemivertebrae; Aplasia/Hypoplasia of the ribs; Hyperpigmentation of the skin; Scoliosis; Situs inversus totalis; Missing ribs	PUMCH
+4d406180-613c-496b-bce6-dece52c6910a	FBN1	2200	Abnormality of the outer ear; Bruising susceptibility; Joint hypermobility; Mitral valve prolapse; Mitral regurgitation; Scoliosis; Back pain; Juvenile onset; High myopia; Arachnodactyly	PUMCH
+4d84ea90-6561-43be-817b-8d47fed731cb	TRPV4	59341	Short neck; Platyspondyly; Mitral regurgitation; Abnormal toe morphology; Scoliosis; Skeletal dysplasia; Delayed skeletal maturation; Kyphoscoliosis; Abnormal form of the vertebral bodies; Short stature; Metaphyseal chondrodysplasia; Abnormality of the hairline; Caesarian section; Childhood onset; Left atrial enlargement; Abnormality of the thoracic cavity; Short femoral neck	PUMCH
+4e427d32-900f-403d-9436-70f6aa09083f	KAT6B	23522	Congenital onset; Short digit; Strabismus; Low-set ears	PUMCH
+4f088093-238c-4163-9e38-1c0fe13e145f	NF1	4763	Polycystic ovaries; Hypothyroidism; Hyperpigmentation of the skin; Abnormal carpal morphology; Constipation; Genu valgum; Radial bowing; Congenital onset; Narrow joint spaces of wrist; Caesarian section; Abnormality of limbs	PUMCH
+504667ec-2de2-4fe5-b92f-a4d3367922ee	TBX6	6911	Hemivertebrae; Scoliosis; Spina bifida occulta	PUMCH
+504a43fa-9c59-4af3-a70c-b17c03ff1a91	APC	324	Adult onset; Strabismus	PUMCH
+50f3dc85-e7ad-42f6-846d-a22319f2de2b	FLNB	2317	Restrictive ventilatory defect; Mitral valve prolapse; Cervical C2/C3 vertebral fusion; Scoliosis; Vertebral segmentation defect; Abnormal thorax morphology	PUMCH
+516b1d84-18f6-4940-8458-b93310eec579	COL1A2	1278	Tetraphocomelia; Abnormal fetal skeletal morphology	PUMCH
+518d6edb-005e-42c4-9cf2-08ab8d09cd59	NF1	4763	Caesarian section; Childhood onset; Hyperpigmentation of the skin; Cafe-au-lait spot; Torticollis; Scoliosis; Neurofibroma; Finger joint hypermobility	PUMCH
+52e0c7d1-00fc-4dc1-8733-8cfb34b5119a	NF1	4763	Scoliosis; Neurofibroma; Caesarian section; Childhood onset	PUMCH
+538d6ddf-5ab3-466c-8193-8fbd6361f4c9	FBN1	2200	High palate; Constipation; Scoliosis; Juvenile onset	PUMCH
+53e17de6-ca18-435d-a469-c65cc83be4cc	TRPV4	59341	Kyphoscoliosis; Hemivertebrae	PUMCH
+5414db89-198d-458a-8118-7bd1daff9326	FBN1	2200	High palate; Pectus excavatum; Thin skin; Striae distensae; Premature birth; Scoliosis; Caesarian section; Childhood onset; Right bundle branch block; Increased arm span; Decreased body mass index	PUMCH
+542d3d47-e958-486e-bf9a-e9fcbfaa1cca	ANKRD11	29123	Dolichocephaly; Long philtrum; Bulbous nose; Thick eyebrow; Autistic behavior; Delayed speech and language development; Intellectual disability; Premature birth; Mitral regurgitation; Vomiting; Gastroesophageal reflux; Episodic vomiting; Scoliosis; Abnormal calvaria morphology; Coxa vara; Esophageal ulceration; Persistent left superior vena cava; Delayed fine motor development; Broad eyebrow; Caesarian section; Childhood onset; Coronary sinus enlargement	PUMCH
+55fa589f-7e65-494d-9c3f-09417423970a	DLL3	10683	Progressive congenital scoliosis; Fetal onset; Low posterior hairline; Short neck; Torticollis; Scoliosis; Abnormal vertebral morphology; Short stature; Pectus carinatum	PUMCH
+5610de34-accd-4aa2-8255-3e8903638a2f	ALPK3	57538	Scoliosis; Vertebral segmentation defect; Syringomyelia	PUMCH
+561a5628-6c6b-4789-a7d5-97845703df0d	APC	324	Diabetes mellitus; Hepatic steatosis; Hyperlipidemia; Middle age onset; Adenomatous colonic polyposis	PUMCH
+56822e52-ae06-4606-9752-8063e546033a	FBN1	2200	Lens subluxation; Scoliosis; Aortic root aneurysm; Mitral valve prolapse	PUMCH
+568a5233-871e-43e9-8825-06c82a8576b7	PTPN11	5781	Scoliosis	PUMCH
+5759808a-acfd-4bc2-9d29-a7c393e9a92d	COL2A1	1280	Juvenile onset; Recurrent respiratory infections; Patent foramen ovale; Scoliosis; Hydronephrosis; Hip subluxation; Avascular necrosis of the capital femoral epiphysis; High myopia	PUMCH
+57e09afd-b502-4f15-a13a-248f8e6e1b2e	B3GALT6	126792	Scoliosis; Aortic tortuosity; Short stature	PUMCH
+5a701527-fe2f-4946-b860-4bacb98ef8ac	SELENON	57190	High palate; Scoliosis; Juvenile onset; Deviation of finger; Decreased body weight; Finger joint hypermobility; Limitation of knee mobility	PUMCH
+5af08360-1c55-4697-aa42-b842c56c011b	FLNA	2316	Hypertelorism; Otitis media; Astigmatism; Pectus excavatum; Abnormal rib morphology; Trichiasis; Delayed closure of the anterior fontanelle; Kyphoscoliosis; Caesarian section; Childhood onset; Cafe-au-lait spot; Recurrent respiratory infections	PUMCH
+5b1883f5-7651-4adb-b52e-a16fa1705630	RYR1	6261	Scoliosis; Arachnodactyly; Micrognathia	PUMCH
+5b8d6f91-82dd-426e-8c3b-e5a28cea2998	FBN1	2200	Inguinal hernia; Abnormality of the dentition; Mitral valve prolapse; Mitral regurgitation; Aortic root aneurysm; Scoliosis; Abnormality of the ankle; High myopia; Caesarian section; Childhood onset; Knee pain	PUMCH
+5b9672e1-84e2-44cf-ba53-71b05505cafe	NF1	4763	Scoliosis	PUMCH
+5ba3d053-b15d-489a-bd2a-f8e492ed2803	CACNA2D2	9254	Ectopic kidney	PUMCH
+5c29c700-2168-42ea-8a14-a452970c6827	TGM6	343641	Juvenile onset; Delayed speech and language development; Strabismus; High palate; Scoliosis; Joint hypermobility; Tooth malposition; Finger joint hypermobility	PUMCH
+5c33ecd1-eb90-4892-9c66-ea7b255d89d6	NEK1	4750	Limb undergrowth	PUMCH
+5c6c86cc-2433-4c4e-b476-40c91d88fa17	B3GALT6	126792	Scoliosis; Abnormal respiratory system physiology; Juvenile onset	PUMCH
+5c6e27bf-ea4a-4b64-ba27-32794abab507	COL2A1	1280	Aplasia/Hypoplasia of the ribs; Scoliosis; Hemivertebrae; Short stature	PUMCH
+5d0a0473-af42-4bf4-a511-c55c31f678e9	FBN1	2200	Pectus carinatum; Mitral regurgitation; Scoliosis; Syringomyelia; Vertebral segmentation defect; Trapezoidal vertebral body; Spinal dysplasia	PUMCH
+5d245b05-df84-4f27-b9c6-be6505266b4e	TRPV4	59341	Scoliosis	PUMCH
+5dd52a68-c546-4d37-9ea8-6f6da6ae96db	COL3A1	1281	Adult onset; Hydronephrosis; Arterial dissection; Pseudoaneurysm; Hepatic steatosis; Atrophic scars; Finger joint hypermobility; Soft skin; Increased arm span	PUMCH
+5dd68dfc-ea12-441c-ae72-fc423fdece5e	COL1A2	1278	Femoral bowing; Abnormal fetal skeletal morphology	PUMCH
+5e70a98d-1ece-4b23-8e36-5747481d7482	FBN1	2200	Scoliosis	PUMCH
+5f5c1f79-42ab-401f-b5ee-90cbd7c63fc9	FGFR3	2261	Short long bone; Abnormal fetal skeletal morphology	PUMCH
+5fa50502-74ea-4f69-bb52-77d5acf1e741	COL1A1	1277	Bowed humerus; Short fetal humerus length; Short fetal femur length; Short long bone; Bent long bone; Bowing of the long bones	PUMCH
+6028e520-dd1f-447e-a111-905fbc083923	COL5A1	1289	Caesarian section; Childhood onset; Abnormality of the dentition; Joint hypermobility; Recurrent joint dislocation; Pain; Joint dislocation; Intussusception; Thyroiditis; Shoulder dislocation; Hip dislocation; Patellar dislocation; Recurrent patellar dislocation; Multiple joint dislocation; Recurrent shoulder dislocation; Subluxation of the small joints of the hand; Striae distensae; Low back pain; Persistence of primary teeth; Finger joint hypermobility	PUMCH
+6033f7ff-4790-408a-971f-59071f61164b	SOST	50964	Platybasia; Fused cervical vertebrae; Atlantoaxial abnormality; Atlantoaxial dislocation; Chiari type I malformation	PUMCH
+60443bb9-f898-4a8d-8280-fed34f33d979	LRRC40	55631	Thoracic hemivertebrae; Butterfly vertebrae; Scoliosis; Vertebral segmentation defect; Distal sensory impairment	PUMCH
+60757cb3-634d-4fe6-8573-4ebb5eb02f4a	FBN1	2200	Low-set ears; Tooth malposition; Abnormal sternum morphology; Pectus excavatum; Soft skin; Pes planus; Scoliosis; Juvenile onset; Decreased body weight; Finger joint hypermobility; Long toe; Caesarian section; Long fingers	PUMCH
+60e7c878-038d-406e-8329-30fdf5ce5bc7	FBN1	2200	Scoliosis	PUMCH
+60ee7995-7e28-4923-a6c1-3c5ecf253da9	TGFBR2	7048	Caesarian section; Childhood onset; Pectus excavatum; Torticollis; Scoliosis; Joint hypermobility; Retinal detachment; Thin skin; Atrophic scars; Dilatation of the sinus of Valsalva; Arachnodactyly	PUMCH
+61216173-cdd9-4523-bd4f-0d08d5077f80		Error	Scoliosis; Juvenile onset	PUMCH
+61413d6f-9f0c-490a-b40a-9db3014ee37a	COL5A2	1290	Joint hypermobility; Vertebral segmentation defect; Abnormally lax or hyperextensible skin; Vertebral wedging; Herniation of intervertebral nuclei; Congenital kyphoscoliosis; Upper extremity joint dislocation	PUMCH
+621fd070-8c9f-49b0-8cae-48898f790b7c	FLNB	2317	Caesarian section; Congenital onset; Scoliosis	PUMCH
+623b9a62-034e-487e-8e33-bc0d21fc093c	APOB	338	Scoliosis; Arachnodactyly; Abnormal thorax morphology; Mitral valve prolapse	PUMCH
+63394805-29c7-4e80-82fc-3450afee4a6d	FBN1	2200	Mitral valve prolapse; Hypertrophic cardiomyopathy; Tricuspid valve prolapse; Scoliosis; Caesarian section; Childhood onset; Dilatation of the sinus of Valsalva	PUMCH
+65c11620-6b76-461c-8ba1-63c428362cfe	TBX6	6911	Restrictive ventilatory defect; Mitral valve prolapse; Strabismus; Tricuspid valve prolapse; Vertebral wedging; Scoliosis; Vertebral segmentation defect; Mitral regurgitation	PUMCH
+65dbfe38-b0ba-44d0-8ebb-43f36a89722d	FGFR3	2261	Hemivertebrae; Aplasia/Hypoplasia of the ribs; Cervical ectropion; Scoliosis; Vertebral segmentation defect; Renal malrotation; Short neck; Cholelithiasis	PUMCH
+6622e476-c815-4553-a16e-a952651a80e2	TRPV4	59341	Caesarian section; Juvenile onset; Scoliosis; Increased arm span; Hyperextensible skin	PUMCH
+664af5f2-5fec-44ea-9f40-77097bdbd8ba	NF1	4763	Neurofibroma; Pleural effusion; Ileus; Scoliosis; Childhood onset; Abnormality of the maxillary sinus; Abnormality of ethmoid sinus	PUMCH
+6684305b-9437-4f4c-9dbf-48c8495d430e	FBN1	2200	Childhood onset; Airway obstruction; Scoliosis; Restrictive ventilatory defect; Finger joint hypermobility; Increased arm span; Dilatation of the sinus of Valsalva; Tricuspid regurgitation	PUMCH
+66bfb46a-aaeb-4244-9fed-8ef4b5ce3802	COL2A1	1280	Short fetal femur length; Short fetal humerus length; Micrognathia; Abnormal fetal skeletal morphology	PUMCH
+674f0646-a436-4cda-b7fe-a8d86919823e	NAGLU	4669	Skin rash; Joint hypermobility; Premature birth; Asthma; Cerebral calcification; Scoliosis; Juvenile onset; Peripheral neuropathy; Caesarian section; Pain	PUMCH
+6a10952f-a437-42b1-95b3-3a5017cc7e72	TSC2	7249	Congenital onset; Scoliosis	PUMCH
+6a47362d-1265-482d-9e8d-a756cdf7c809	NOTCH2	4853	Hemivertebrae; Renal cyst; Scoliosis; Vertebral segmentation defect; Congenital onset	PUMCH
+6aab33e3-d53b-49a1-9014-39e63bc78a3d	HPGD	3248	Congenital onset; Abnormality of limbs; Overgrowth	PUMCH
+6b2af121-495f-466e-a0ff-e172d5930e0b	TRPV4	59341	Childhood onset; Delayed fine motor development; Delayed gross motor development; Intellectual disability; Hearing impairment; Abnormality of movement; Scoliosis; Muscle weakness	PUMCH
+6bfdc231-5ba1-4867-922e-3f75edd6a30d	PIEZO2	63895	Caesarian section; Juvenile onset; Ptosis; Protruding ear; High palate; Pectus excavatum; Atrial septal defect; Webbed neck; Scoliosis; Micrognathia; Abnormal pinna morphology; Facial asymmetry; Jaw ankylosis; Upper eyelid entropion; Soft skin; Arachnodactyly	PUMCH
+6c0c43cb-3471-4e69-85cc-b33275eb3220	RYR1	6261	Caesarian section; Scoliosis; Childhood onset	PUMCH
+6cb44c81-4408-4eb8-a1c0-fbe07a528e5c	LMNA	4000	Scoliosis; Vertebral segmentation defect	PUMCH
+6cdb80a0-eb8d-454d-8d37-9204fefb909c	FGFR3	2261	Clinodactyly of the 5th finger; Kyphosis; Limb undergrowth; High forehead; Brachydactyly; Abnormality of bone mineral density; Nephrolithiasis; Severe short stature; Genu valgum; Sacral segmentation defect; Deviation of finger; Clinodactyly of the 4th finger; Motor delay; Depressed nasal bridge; Hydrocephalus; Metaphyseal chondrodysplasia; Joint hypermobility; Skeletal dysplasia; Gait disturbance	PUMCH
+6d2e6962-0d01-4c9b-b31b-eb7901e16e51	BRCA2	675	Scoliosis; Vertebral segmentation defect; Reduced vital capacity; Mitral valve prolapse	PUMCH
+6e5fd57a-cbcc-4551-9879-745a3a71a52d	PTPN11	5781	Scoliosis; Syringomyelia; Juvenile onset; Kyphosis; Chiari malformation	PUMCH
+6f36f136-6f4f-40f3-b653-86011575d8eb	NF1	4763	Childhood onset; Scoliosis; Anemia; Cafe-au-lait spot; Short neck; Caesarian section; Neurofibroma; Delayed fine motor development	PUMCH
+6f388d65-a07e-42ba-8424-e2dd2c5230d8	FGFR3	2261	Lethal skeletal dysplasia; Abnormality of limb bone; Thoracic hypoplasia; Hypoplastic heart; Abnormal fetal skeletal morphology	PUMCH
+70436cd9-7d22-4c0e-9c67-1edca6b8d752	ALPK3	57538	Abnormality of the neck; Oligodontia; Tooth malposition; Interphalangeal joint contracture of finger; Ventricular hypertrophy; Scoliosis; Syringomyelia; Thoracolumbar kyphoscoliosis; Decreased body weight; Limited elbow flexion/extension; Childhood onset; Widened atrophic scar	PUMCH
+70a88713-05a2-490f-9b9f-f46402a6ecac	PHLPP2	23035	Aplasia/Hypoplasia of the ribs; Scoliosis; Congenital onset; Caesarian section; Hemivertebrae	PUMCH
+714cb4c8-9e5d-45a0-9509-12639d57edf2	FGFR3	2261	Abnormal fetal skeletal morphology; Short long bone	PUMCH
+7183e2b7-13c9-4467-b6e5-0e76a69f880c	FBN1	2200	Mitral valve prolapse; Anemia; Respiratory alkalosis; Pleural effusion; Scoliosis; Hypokalemia; Dysplastic aortic valve; Childhood onset; Hypoplastic tricuspid valve	PUMCH
+72150012-a78f-4cfb-9843-c48ad94fa83c	TBX6	6911	Infantile onset	PUMCH
+72256c82-5ffd-4881-99a4-abd851d6e73b	FLNB	2317	Vertebral fusion; Scoliosis; Short stature; Beaking of vertebral bodies	PUMCH
+722d228b-b936-4de7-8020-827c3693e373	FBN1	2200	Low-set ears; Pectus excavatum; Soft skin; Joint hypermobility; Kyphoscoliosis; Neonatal onset; Decreased body weight; Finger joint hypermobility; Long toe; Caesarian section; Right ventricular dilatation; Tricuspid regurgitation; Abnormal mitral valve morphology; Mitral regurgitation; Right ventricular regional akinesia	PUMCH
+72a05b8a-15b8-48cc-a60b-7007ab7cd7ed	ECEL1	9427	Scoliosis; Childhood onset	PUMCH
+72ce0240-3c36-4754-8d31-c3b44e5a13ac	TTN	7273	Overlapping toe; Scoliosis; Juvenile onset; Caesarian section	PUMCH
+7494019c-7be7-4cc3-8fcf-98fd8f636531	FBN1	2200	Deformed rib cage; Congestive heart failure; Anemia; Constipation; Pleural effusion; Scoliosis; Hypoalbuminemia; Juvenile onset; Interstitial pneumonitis; Atelectasis	PUMCH
+74a4a0b5-443e-4459-a4ee-0938bcbcbc6a	HIVEP2	3097	Delayed speech and language development; Abnormality of the dentition; Chronic diarrhea; Scoliosis; Anal atresia	PUMCH
+74ce5e36-f620-4487-b4eb-aad42dc1e29f	COL2A1	1280	Slender nose; Tooth malposition; Pectus carinatum; Deformed rib cage; Pes planus; Delayed gross motor development; Neonatal onset; Short stature; Finger joint hypermobility; Caesarian section	PUMCH
+75ae5fcf-a5f2-4c98-9830-af6809f26af8	FBN1	2200	Scoliosis; Paroxysmal supraventricular tachycardia; Aortic root aneurysm	PUMCH
+75b95e83-0a13-4f21-b76d-93ea415fd46f	FLG	2312	Lumbar hyperlordosis; Scoliosis; Vertebral segmentation defect; Hyperlordosis	PUMCH
+7629d3b6-d12e-4bac-a4c0-457f448e65c5	FBN1	2200	Abnormal mitral valve morphology; Mitral valve prolapse; Mitral regurgitation; Scoliosis; Dilatation of the sinus of Valsalva	PUMCH
+76426b3a-7cfb-45a5-a8f9-3ba39fd27ae5	NF1	4763	Cafe-au-lait spot; Neurofibroma; Scoliosis; Finger joint hypermobility; Childhood onset	PUMCH
+772d5f57-16af-4ee3-b56c-cbec6390efdf	RUNX2	860	Abnormal skull morphology; Calvarial skull defect; Polyhydramnios; Decreased skull ossification; Thin calvarium; Aplasia of the nasal bone; Hypoplasia of fetal nasal bone; Tetraphocomelia	PUMCH
+77d2ba42-2919-4beb-9dec-d9ccd3013b33	LARS2	23395	Juvenile onset; Hearing impairment; Scoliosis; Joint hypermobility; Finger joint hypermobility	PUMCH
+78345f4e-1e65-4b9d-913b-5c901b7b6610	TRPV4	59341	Scoliosis; Abnormal form of the vertebral bodies	PUMCH
+79a1fe79-c9de-4e2e-b3f6-bc1a28e856fb	CELSR2	1952	Scoliosis; Pectus excavatum; Myopia; Premature birth; Juvenile onset	PUMCH
+7b3568ac-dbf3-409e-8bf6-cf6cc36f57e0	TBX6	6911	Caesarian section; Scoliosis; Childhood onset	PUMCH
+7c0c6564-ab1a-4620-bf20-56b8da3a4e0a	SELENON	57190	Abnormality of the dentition; High palate; Strabismus; Abnormal thorax morphology; Motor delay; Muscle weakness; Limited elbow extension; Asthma; Scoliosis; Genu valgum; Lumbar hyperlordosis; Finger joint hypermobility; Abnormal dental morphology; Sleep apnea; Caesarian section; Childhood onset; Abnormality on pulmonary function testing; Decreased DLCO	PUMCH
+7d56e41c-3e13-4bea-b4ed-078786c8ece4	FBN1	2200	Hydronephrosis; Abnormality of the dentition; Microcephaly; Low-set ears; Torticollis; Slender finger; Joint hypermobility; Mitral valve prolapse; Tricuspid valve prolapse; Left ventricular hypertrophy; Pes planus; Hallux valgus; Restrictive ventilatory defect; Scoliosis; Finger joint hypermobility; Childhood onset	PUMCH
+7d5fd27f-a88d-4cd2-a5c0-0f871b665ebb	COL1A1	1277	Osteoporosis; Recurrent fractures; Blue sclerae; Hypoplasia of teeth; Short stature	PUMCH
+7e2864bf-fe3d-4816-9451-f9be988a6df7	CCN6	8838	Platyspondyly; Osteopenia; Gait disturbance; Hip dysplasia; Abnormal toe morphology; Tetraparesis; Kyphoscoliosis; Genu valgum; Elbow flexion contracture; Skeletal muscle atrophy; Abnormal form of the vertebral bodies; Arthralgia of the hip; Low back pain; Juvenile onset; Trident hand; Short stature; Lumbar spinal canal stenosis; Metaphyseal chondrodysplasia; Enlarged interphalangeal joints; Lower limb hypertonia; Cervical spinal canal stenosis; Camptodactyly; Left atrial enlargement	PUMCH
+7e597174-4315-470f-8e53-7a8f3ffc21a2	FBN1	2200	Tall stature; Premature birth; Scoliosis; Caesarian section; Childhood onset	PUMCH
+7f6f9407-bbd6-4e2e-b1bb-f7ad1cc168ec	KMT2A	4297	Abnormality of the dentition; Hypertelorism; Apnea; Delayed gross motor development; Chiari malformation; Scoliosis; Vertebral fusion; Syringomyelia; Childhood onset; Basilar invagination; Short finger; Pes planus	PUMCH
+7fc8292d-599a-45b8-b89c-f21c52f0af26	AHDC1	27245	Kyphoscoliosis; Caesarian section; Childhood onset; Scoliosis; Limited elbow extension; Vertebral fusion; Abnormally slow thought process; Micrognathia; Abnormality of eye movement; Drooling; Tooth malposition; Short neck; Webbed neck; Camptodactyly of finger; Camptodactyly of toe; Decreased Achilles reflex; Hypotonia; Babinski sign	PUMCH
+802bfd92-59dd-4d3c-ac46-5193149e2e7b	TPM3	7170	Slurred speech; Drooling; Kyphosis; Infantile onset; Poor appetite; Caesarian section; Chest tightness; Chronic diarrhea; Decreased body mass index; Abnormal blood carbon dioxide level; Neck muscle weakness; Abnormal form of the vertebral bodies	PUMCH
+807ebc6c-e1b3-435c-898f-36df90fe1334	COL3A1	1281	Restrictive ventilatory defect; Trapezoidal vertebral body; Hydronephrosis; Scoliosis; Vertebral segmentation defect; Spinal dysplasia	PUMCH
+80bed42d-ac7e-43a6-b4f6-3389adc44c2d	COL1A1	1277	Femoral bowing	PUMCH
+80df966c-5654-48b7-9a51-6b91c524dff7	CUL3	8452	Rod-cone dystrophy; Optic atrophy; Nystagmus	PUMCH
+822a23b2-691e-480a-b107-046c0de0a4e1	COL1A1	1277	Short fetal femur length; Femoral bowing	PUMCH
+8233f4be-5931-4052-9db7-6cbbfc66c5d5	FBN1	2200	Scoliosis; Ascending tubular aorta aneurysm; Abnormal aortic valve morphology; Aortic root aneurysm; Abnormal mitral valve morphology; Pectus excavatum	PUMCH
+83bc2f37-84e8-475d-a98f-be553053d323	TRAPPC2	6399	High palate; Otitis media; Bulbous nose; Skin rash; Neonatal respiratory distress; Scoliosis; Juvenile onset; Finger joint hypermobility; Abnormal hair quantity; Feeding difficulties; Widened atrophic scar	PUMCH
+83cd24f7-05de-4c18-ac32-ff71412d7ba7	MYH3	4621	Congenital kyphoscoliosis; Sprengel anomaly; Arthrogryposis multiplex congenita; Vertebral wedging; Orofacial cleft; Vertebral segmentation defect; Hernia of the abdominal wall; Scoliosis	PUMCH
+83e0e7f8-b81c-490b-88fb-fe5cfff2c464	COL6A1	1291	Congenital onset; Delayed fine motor development; Delayed gross motor development; Torticollis; Congenital hip dislocation; Recurrent fractures; Osteoporosis; Kyphoscoliosis	PUMCH
+84b70637-cd84-4f14-b2fc-bef3d4ce3fc8	AGPS	8540	Caesarian section; Juvenile onset; Scoliosis; Abnormal cartilage morphology; Asthma	PUMCH
+84bc3505-d733-4775-b63b-8b703719f988	NF1	4763	Cafe-au-lait spot; Scoliosis; Childhood onset; Strabismus	PUMCH
+8603bc6b-da50-4c2a-9adb-14c9803ce342	LRP5	4041	Premature birth; Scoliosis; Caesarian section; Infantile onset	PUMCH
+86528620-8608-4040-8803-0f0f8476f53f	TRPV4	59341	Sacral dimple; Congenital hip dislocation; Paraparesis; Spondylometaphyseal dysplasia; Kyphoscoliosis; Congenital onset; Caesarian section	PUMCH
+88a6df02-ef39-403f-abb2-523212ea294b	RUNX2	860	High palate; Abnormal anterior fontanelle morphology; Brachycephaly; Macrocephaly; Hypertelorism; Abnormal rib morphology; Abnormal rib cage morphology; Scoliosis; Kyphosis; Abnormal shoulder morphology; Wide pubic symphysis; Spondylolysis; Short stature; Abnormality of dental eruption; Failure of eruption of permanent teeth; Abnormal dental morphology; Midclavicular aplasia; Aplasia/Hypoplasia of the clavicles; Lower limb asymmetry	PUMCH
+88b10d7c-b165-49aa-8aea-847f5591f5b0	FBN1	2200	High palate; Slender finger; Mitral valve prolapse; Mitral regurgitation; Spontaneous pneumothorax; Aortic root aneurysm; Scoliosis	PUMCH
+88ba06e4-5cd9-444d-9ebf-1be0a30ec5dd	TGFBR1	7046	Delayed gross motor development; Hypertelorism; Scoliosis; Joint hypermobility; Oral ulcer; Thin skin; Soft skin; Bruising susceptibility; Acne; Mitral regurgitation; Migraine; Asthma; Hyperlipidemia; Abdominal aortic aneurysm; Teratoma; Dilatation of the sinus of Valsalva; Descending aortic dissection; Vertebral artery tortuosity	PUMCH
+89f6f6a3-9c5f-4bd8-afaa-2dfdb1a19b38	COL2A1	1280	Delayed speech and language development; Cleft palate	PUMCH
+8a01ce15-e672-411d-9b99-2c5f2a201775	SMAD3	4088	Joint hypermobility; Scoliosis; Spondylolysis; Juvenile onset; Finger joint hypermobility; Spondylolisthesis at L5-S1; Caesarian section	PUMCH
+8a37663f-98ac-4005-ac34-ab80ea27cd6e	TRPV4	59341	Scoliosis; Kyphosis; Atlantoaxial dislocation; Infantile onset; Caesarian section; Cervical spinal canal stenosis; Platyspondyly; Hyperactive patellar reflex	PUMCH
+8ad66ea4-3104-498f-afb5-430226d6ece0	IDUA	3425	Limitation of neck motion; Kyphosis; Pectus carinatum; Umbilical hernia; Inguinal hernia; Abnormality of the dentition; Splenomegaly; Congenital onset; Camptodactyly; Short neck; Delayed fine motor development; Short stature	PUMCH
+8b29442f-3056-447e-814e-a0714664b266	PIK3CA	5290	Neonatal onset; Hyperpigmentation of the skin; Abnormality of limbs; Facial asymmetry; Asymmetric growth; Lower limb asymmetry; Upper limb asymmetry; Widely spaced toes	PUMCH
+8b774601-d936-4576-9543-2a5751f34972	PRX	57716	Scoliosis	PUMCH
+8cdf5793-7c6b-4167-b493-4a41ef2fd094	COL1A1	1277	Torticollis; Scoliosis; Recurrent fractures; Hypoplastic sacral vertebrae; Lower limb asymmetry; Blue sclerae; Skeletal dysplasia	PUMCH
+8d23d855-3b08-4834-9ba2-602852d017a2	FGFR3	2261	High palate; Platyspondyly; Abnormality of the skin; Poor wound healing; Brachydactyly; Abnormal finger morphology; Abnormal fingernail morphology; Hypertonia; Abnormal foot morphology; Kyphosis; Bowing of the legs; Congenital onset; Short stature; Lumbar spinal canal stenosis; Limited elbow flexion/extension; Trapezoidal vertebral body; Finger joint hypermobility; Abnormal toenail morphology; Disproportionate short-limb short stature; Caesarian section; Clinodactyly; Gallbladder perforation	PUMCH
+8deca232-33d1-41d4-a43d-8a060d736892	COL1A1	1277	Short fetal femur length; Femoral bowing; Short long bone; Tetraphocomelia	PUMCH
+8e477cc6-5078-4fb3-a1d1-dac8a75b9996	COL1A2	1278	Bent long bone	PUMCH
+8ec047d2-62a2-46b7-9d00-e498f5a46ebd	TRPV4	59341	Scoliosis; Seizure; Kyphoscoliosis; Short stature; Childhood onset	PUMCH
+8ee437af-b11d-4c89-b6e8-53d131d8892f	NF1	4763	Webbed neck; Pectus carinatum; Cafe-au-lait spot; Pes planus; Anemia; Scoliosis; Congenital onset; Caesarian section; Childhood onset	PUMCH
+8ef564e5-6b53-4d8b-af2d-048b02f3a7c6	KDM6A	7403	Scoliosis; Juvenile onset; Spondylolisthesis at L5-S1; Caesarian section	PUMCH
+8f78278c-e2f9-418d-b817-1f4ba55ab1f0	COL1A1	1277	Femur fracture; Fractured humerus; Decreased head circumference; Abnormal thorax morphology; Recurrent long bone fractures	PUMCH
+8f97a982-8b80-4565-8d31-ebeee27eda3b	FBN1	2200	Scoliosis	PUMCH
+906255c9-197c-48da-95d3-c7d9994b7762	NISCH	11188	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+90c71a16-03c5-4ec2-ab27-c0409c0c0635	FGFR3	2261	Thoracic hypoplasia; Tetraphocomelia; Bowing of the long bones; Abnormal fetal skeletal morphology; Short long bone	PUMCH
+9236e19b-e841-432a-b5d9-07a78ba4448d	TBX6	6911	Congenital onset; Abnormality of the dentition; Scoliosis; Pes planus	PUMCH
+9246c293-bb99-45da-8b81-58e484ed3de4	HDAC6	10013	Abnormality of the dentition; Limited elbow extension; Hip dysplasia; Scoliosis; Elbow dislocation; Short stature; Caesarian section; Childhood onset; Cubitus varus	PUMCH
+925d2b49-15fb-424a-99c1-f55a32d7b390	ANKRD11	29123	Juvenile onset; Caesarian section; Scoliosis	PUMCH
+94062d8f-7ef5-4f56-a3e9-49aece2e87eb	COL1A1	1277	Femoral bowing; Short fetal femur length	PUMCH
+94167075-fc0d-4b1e-b39a-381833448770	TBX6	6911	Hemivertebrae; Scoliosis	PUMCH
+9425483a-08db-4170-a0e7-6bd7ad47e4e9	COL5A1	1289	Juvenile onset; Scoliosis; Absent vertebra	PUMCH
+9427f2c9-86dd-4e53-b4b8-eeb1f01f432b	COL1A2	1278	Short long bone; Lethal skeletal dysplasia; Abnormal fetal skeletal morphology	PUMCH
+951d19ba-3d46-4a13-b280-1a70ae827b10	COL1A2	1278	Aortic regurgitation; Scoliosis; Caesarian section	PUMCH
+95b28e11-4bf1-413a-a8fd-150b4fc8aa6c	COL6A2	1292	Urinary urgency; High palate; Autistic behavior; Thin skin; Hyperextensible skin; Bruising susceptibility; Orthostatic hypotension; Joint dislocation; Joint hypermobility; Chronic diarrhea; Migraine; Decreased body weight; Finger joint hypermobility; Attention deficit hyperactivity disorder; Dermal translucency; Abnormality of the temporomandibular joint; Childhood onset; Pain; Anisometropia; Raynaud phenomenon; Ecchymosis	PUMCH
+96b62c29-7004-4afe-ab9b-cd4d7c06405a	SLCO2A1	6578	Myopia; Hyperhidrosis; Purpura; Skin rash; Joint swelling; Sinus bradycardia; Diarrhea; Juvenile onset; Abnormal hair pattern; Palmar edema; Abnormal meniscus morphology; Bipedal edema; Malaise; Synovitis; Palmoplantar hyperkeratosis; Cutis gyrata of scalp; Hypokalemia; Anemia; Hypoproteinemia; Arthralgia	PUMCH
+971b40cf-a436-4fce-8386-3b5d767bcf0b	BRCA2	675	Renal insufficiency; Aplasia of the uterus; Anemia; Pleural effusion; Scoliosis; Hypokalemia; Childhood onset	PUMCH
+97a1a029-9546-4a06-87ec-2ce1868c9042	NF1	4763	Pectus excavatum; Neurofibroma; Pleural effusion; Scoliosis; Hypoalbuminemia; Abnormal respiratory system physiology; Childhood onset	PUMCH
+97d90cb2-8ea1-4b25-b57c-2c90ce443e60	TBX6	6911	Juvenile onset; Scoliosis	PUMCH
+97f70c2e-80ea-4c4f-888c-01aacca60103	FBN1	2200	Blepharophimosis; Mitral valve prolapse; Hip dislocation; Epicanthus; Split hand; Scoliosis; Mitral regurgitation; Joint dislocation; Myopia; Interosseus muscle atrophy; Arachnodactyly	PUMCH
+981889a9-8672-4b29-b92e-510958bb6dd6	FBN1	2200	Scoliosis; Joint hypermobility; Mild myopia	PUMCH
+997032a2-bc83-4f54-aae4-1a26a74aabdb	TRPV4	59341	Childhood onset; Abnormality of movement; Scoliosis; Hemidystonia; Abnormality of connective tissue	PUMCH
+9979a3fe-8a8d-4ce0-9e78-6a2d94d3a129	TBX6	6911	Hemivertebrae; Scoliosis; Vertebral segmentation defect	PUMCH
+9987e645-a1e1-4971-9876-af2b645567c3	FLNA	2316	Congenital onset; Ventricular septal defect; Scoliosis	PUMCH
+99ae7792-614a-4ad3-a2b9-1a08e83f51c2	LDLR	3949	Caesarian section; Juvenile onset; Scoliosis	PUMCH
+9a15678f-6828-45d2-8d0c-779fad0c5695	TBX6	6911	Hemivertebrae; Scoliosis	PUMCH
+9bb69c81-9e06-4e7b-a0e0-70b0ebc08418	COL2A1	1280	Short fetal femur length; Abnormal fetal skeletal morphology	PUMCH
+9be0c763-8546-43e8-9189-bc07713c7464	PLOD1	5351	Delayed gross motor development; Genu varum; Scoliosis; Short stature; Dilated fourth ventricle; Soft skin; Cryptorchidism; Bruising susceptibility; Joint hypermobility	PUMCH
+9c714ef5-594e-49ce-8995-7243e751089e	SMN1	6606	Scoliosis; Juvenile onset; Abnormal respiratory system physiology; Spinal muscular atrophy	PUMCH
+9ceb4ac8-e7f3-4e6f-bc1c-5fbdf3ca34c7	MYH7	4625	Hemivertebrae; Scoliosis; Vertebral segmentation defect; Hypertrophic cardiomyopathy; Absent vertebral body mineralization; Short neck; Kyphoscoliosis	PUMCH
+9e0da79c-f27e-46d9-a9f6-4e897b5e8a20	TGFBR1	7046	Hemangioma; Hemangiomatosis; Thoracic aortic aneurysm	PUMCH
+9ee412a8-2412-43a0-bbd5-9889d56fe81f	NISCH	11188	Scoliosis; Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+9f7e63ca-c3a9-4569-a6fb-ddd2f40c79a3	TRPV4	59341	Juvenile onset; High palate; Scoliosis; Hyperparathyroidism	PUMCH
+9fd2833b-c42c-42e8-9d2b-417e15e3a77f	FGFR3	2261	Short long bone; Bent long bone; Increased nuchal translucency; Abnormal fetal skeletal morphology	PUMCH
+ABD2302P0002	PHEX	5251	Adult onset; High palate	PUMCH
+ALS2205P0002	FUS	2521	Cough; Limb muscle weakness; Dysphagia; Amyotrophic lateral sclerosis	PUMCH
+COS2111P0002	TSC2	7249	Abnormal toe morphology; Schizophrenia; Abnormality of refraction	PUMCH
+COS2304P0004	CCN6	8838	Kyphoscoliosis; Spinal canal stenosis; Abnormal cartilage morphology; Caesarian section; Juvenile onset; Delayed gross motor development; Chronic diarrhea	PUMCH
+COS2306P0001	TRPS1	7227	High palate; Abnormality of the philtrum; Abnormality of the outer ear; Low-set ears; Hyperpigmentation of the skin; Gait disturbance; Intrauterine growth retardation; Pes planus; Broad foot; Delayed gross motor development; Multiple epiphyseal dysplasia; Short stature; Finger joint hypermobility; Hyperextensibility at elbow; Caesarian section; Childhood onset	PUMCH
+COS2308P0001	GNPTAB	79158	Childhood onset; Scoliosis	PUMCH
+COS2308P0005	APOB	338	High palate; Gait disturbance; Abnormal hip joint morphology; Genu valgum; Childhood onset	PUMCH
+JTH2303P0009	SMN1	6606	Torticollis; Scoliosis; Juvenile onset; Spinal muscular atrophy	PUMCH
+LIV2008P0002	SLC25A13	10165	Jaundice; Increased circulating lactate concentration; Hyperbilirubinemia; Elevated circulating hepatic transaminase concentration; Elevated circulating alkaline phosphatase concentration; Elevated circulating alpha-fetoprotein concentration; Elevated gamma-glutamyltransferase level; Increased hepatic echogenicity	PUMCH
+LIV2008P0020	PHKA2	5256	Global developmental delay; Decreased liver function; Hepatomegaly; Elevated circulating hepatic transaminase concentration; Increased total bilirubin	PUMCH
+LIV2008P0031	ATP7B	540	Decreased liver function; Increased hepatocellular lipid droplets; Increased hepatic echogenicity	PUMCH
+LIV2008P0035	MTHFR	4524	Global developmental delay; Cirrhosis; Splenomegaly	PUMCH
+LIV2008P0036	JAG1	182	Jaundice; Fever; Conjugated hyperbilirubinemia; Elevated circulating hepatic transaminase concentration; Abnormal form of the vertebral bodies; Acholic stools; Elevated gamma-glutamyltransferase level; Increased hepatic echogenicity	PUMCH
+LIV2008P0050	SBDS	51119	Motor delay; Decreased liver function; Neutropenia; Elevated circulating hepatic transaminase concentration; Increased circulating creatine kinase MB isoform	PUMCH
+LIV2008P0060	GPD1	2819	Hepatomegaly; Polyphagia; Elevated gamma-glutamyltransferase level	PUMCH
+LIV2008P0074	EXT2	2132	Jaundice; Hepatosplenomegaly; Nausea and vomiting; Hyperbilirubinemia; Osteochondroma; Abnormal ductus choledochus morphology	PUMCH
+LIV2008P0083	ATP7B	540	Decreased liver function; Fever; Abdominal pain; Elevated circulating hepatic transaminase concentration; Decreased circulating ceruloplasmin concentration; Increased circulating beta-2-microglobulin level; Erythematous papule	PUMCH
+LIV2008P0085	G6PC1	2538	Jaundice; Unconjugated hyperbilirubinemia	PUMCH
+LIV2008P0093	OTC	5009	Agitation; Vomiting; Increased circulating lactate concentration; Elevated circulating hepatic transaminase concentration; Oroticaciduria; Uraciluria; Increased hepatic echogenicity	PUMCH
+LIV2008P0096	CFTR	1080	Cirrhosis; Hepatic fibrosis; Decreased liver function; Hepatosplenomegaly; Fever; Abdominal pain; Congenital hepatic fibrosis; Elevated circulating hepatic transaminase concentration; Abdominal distention; Decreased circulating ceruloplasmin concentration; Increased circulating beta-2-microglobulin level; Cholangitis; Erythematous papule	PUMCH
+LIV2008P0097	G6PC1	2538	Decreased liver function; Hypertriglyceridemia; Elevated circulating hepatic transaminase concentration; Fasting hypoglycemia; Increased circulating creatine kinase MB isoform	PUMCH
+LIV2008P0132	ABCB11	8647	Jaundice; Hepatomegaly; Hyperbilirubinemia; Conjugated hyperbilirubinemia; Elevated circulating hepatic transaminase concentration; Elevated circulating alkaline phosphatase concentration; Elevated gamma-glutamyltransferase level; Family history; History of congenital CMV infection	PUMCH
+LIV2008P0145	JAG1	182	Intrahepatic biliary dysgenesis; Decreased liver function; Elevated circulating hepatic transaminase concentration; Hypercholesterolemia; Elevated gamma-glutamyltransferase level; Increased hepatic echogenicity	PUMCH
+NHJ2307P0025	NF1	4763	Scoliosis; Neurofibroma; Juvenile onset; High palate; Abnormality of the dentition; Cafe-au-lait spot; Torticollis	PUMCH
+NHJ2407P0006	PTPN11	5781	Atrial septal defect; Chronic diarrhea; Scoliosis; Finger joint hypermobility; Cubitus valgus; Decreased body weight; Juvenile onset; Tooth malposition; Arachnodactyly; Moderate myopia; Triangular face; Slender build; Low-set ears	PUMCH
+PSS2103P0002	ACAN	176	Short stature; Short middle phalanx of finger	PUMCH
+PSS2108P0002	ACAN	176	Short stature	PUMCH
+PSS2108P0003	FBN1	2200	Short stature	PUMCH
+PSS2108P0004	COMP	1311	Short stature; Atrial septal defect	PUMCH
+PSS2112P0002	NTN4	59277	Short stature	PUMCH
+PSS2205P0001	ACAN	176	Short stature	PUMCH
+QST2201P0007	FGFR2	2263	Feeding difficulties; Congenital onset; Proptosis; Macrocephaly; Scoliosis	PUMCH
+QST2202P0001	CLCN5	1184	Congenital onset; Scoliosis; Progressive congenital scoliosis	PUMCH
+QST2202P0007	FBN2	2201	Juvenile onset; Scoliosis	PUMCH
+QST2207P0037	NF1	4763	Juvenile onset; Cafe-au-lait spot; Scoliosis	PUMCH
+QST2208P0014	GDAP1	54332	Juvenile onset; Scoliosis	PUMCH
+QST2208P0026	ATP7B	540	Juvenile onset; Scoliosis	PUMCH
+QST2208P0054	MSH6	2956	Juvenile onset; Scoliosis	PUMCH
+QST2208P0056	TTN	7273	Childhood onset; Scoliosis	PUMCH
+QST2208P0062	CSGALNACT1	55790	Juvenile onset; Scoliosis	PUMCH
+QST2209P0001	SCN5A	6331	Childhood onset; Scoliosis	PUMCH
+RDD1906P0001	CCN6	8838	Congenital onset; Abnormality of movement; Limitation of neck motion	PUMCH
+RDD2003P0339	IFITM5	387733	Pectus carinatum; Congenital onset	PUMCH
+RDD2003P0364	FBN2	2201	Scoliosis; Congenital onset; Kyphosis	PUMCH
+RDD2008P0022	FBN2	2201	Multiple joint contractures	PUMCH
+RDD2105P0001	TRPV4	59341	Scoliosis; Spondyloepiphyseal dysplasia; Childhood onset; Short stature; Abnormal vertebral morphology	PUMCH
+RDD2107P0001	MFN2	9927	Scoliosis; Muscle weakness	PUMCH
+RDD2201P0008	TBX3	6926	Pancreatic endocrine tumor; Vanishing testis	PUMCH
+RDD2203P0011	NF1	4763	Cafe-au-lait spot	PUMCH
+RDD2207P0006	AKT1	207	Caesarian section; Neonatal onset; Delayed speech and language development; Abnormality of the outer ear; Abnormality of the dentition; Hyperpigmentation of the skin; Scoliosis; Facial asymmetry; Craniofacial asymmetry; Skull asymmetry; Asymmetric growth; Stenosis of the external auditory canal; Astigmatism; Hypermelanotic macule; Lipomatous tumor; Premature loss of teeth; Abnormality of dental color; Genu varum; Pes planus; Convex contour of sole	PUMCH
+RDD2210P0001	GALNS	2588	Childhood onset; Abnormality of the dentition; Kyphosis; Cubitus varus; Genu valgum; Limited elbow flexion/extension; Hip osteoarthritis; Hypoplasia of teeth; Finger joint hypermobility	PUMCH
+RDD2210P0004	ANKH	56172	Narrow mouth; Abnormality of the dentition; Thick lower lip vermilion; Thick upper lip vermilion; High palate; Thin upper lip vermilion; Everted lower lip vermilion; Hypertelorism; Short philtrum; Abnormal maxilla morphology; Otitis media; Narrow nose; Telecanthus; Hallux valgus; Abnormal facial shape; Exaggerated cupid's bow; Downturned corners of mouth; Neonatal onset; Deviated nasal septum; Disturbance of facial expression; Finger joint hypermobility; Persistence of primary teeth; Bilateral conductive hearing impairment; Everted upper lip vermilion; Midface retrusion; Abnormal facial skeleton morphology; Delayed menarche; Wide nasal base; Fullness of paranasal tissue; Abnormality of the maxillary sinus	PUMCH
+RDD2301P0002	GNPTAB	79158	Osteoporosis; Abnormal hip joint morphology; Cardiomyopathy; Kyphosis; Vertebral wedging; Spondylolisthesis at L5-S1; Hip subluxation	PUMCH
+RDD2302P0010	GALNS	2588	Limitation of joint mobility; Arthralgia; Adult onset	PUMCH
+RDD2302P0014	CYP27B1	1594	Osteoporosis; Joint hypermobility; Renal Fanconi syndrome; Scoliosis; Rickets; Finger joint hypermobility; Childhood onset; Overweight	PUMCH
+RDD2302P0018	CCN6	8838	Abnormality of the vertebral column; Platyspondyly; Flexion contracture; Anemia; Constipation; Gait disturbance; Osteoarthritis; Hypokalemia; Hypocalcemia; Enlarged joints; Adult onset; Limited elbow flexion/extension; Limited knee flexion/extension; Limitation of neck motion; Hip osteoarthritis; Hip pain; Lower limb asymmetry	PUMCH
+RDD2302P0020	FGFR3	2261	High palate; Low-set ears; Kyphosis; Congenital onset; Short stature; Finger joint hypermobility; Limb undergrowth; Caesarian section; Clinodactyly; Clinodactyly of the 3rd finger; Abnormality of limbs	PUMCH
+RDD2304P0016	PKD1	5310	Polycystic kidney dysplasia	PUMCH
+RDD2307P0010	FGFR3	2261	High palate; Delayed eruption of teeth; Delayed eruption of permanent teeth; Delayed speech and language development; Pectus carinatum; Premature birth; Patent foramen ovale; Scoliosis; Finger joint hypermobility; Caesarian section; Childhood onset; Fetal distress	PUMCH
+RDD2307P0020	ACVRL1	94	Epistaxis; Edema; Hemangioma; Portal hypertension; Congestive heart failure; Cardiomegaly; Iron deficiency anemia; Pulmonary arterial hypertension; Vascular tortuosity; Tricuspid regurgitation; Abnormal cardiovascular system physiology; Thyroid nodule; Abnormal portal venous system morphology	PUMCH
+RDD2307P0021	LMX1B	4010	High palate; Keratoconjunctivitis sicca; Limitation of joint mobility; Hypoplastic fingernail; Gastroesophageal reflux; Scoliosis; Cubitus valgus; Elbow dislocation; Decreased body weight; Limited elbow flexion/extension; Finger joint hypermobility; Childhood onset; Recurrent joint dislocation	PUMCH
+RDD2307P0025	TTN	7273	Caesarian section; Juvenile onset; Limitation of neck motion; Scoliosis	PUMCH
+RDD2307P0036	GALNS	2588	Caesarian section; Childhood onset; Scoliosis	PUMCH
+RDD2308P0017	GJB1	2705	Adult onset; Myopia; Nephrolithiasis; Bilateral talipes equinovarus; Multiple joint contractures	PUMCH
+RDD2309P0013	NEB	4703	Neonatal onset; Scoliosis; High palate	PUMCH
+RDD2310P0013	PLOD2	5352	Increased susceptibility to fractures	PUMCH
+RDD2409P0002	H3-3A	3020	Caesarian section; Feeding difficulties; Infantile onset; Delayed gross motor development; Delayed speech and language development; Delayed fine motor development; Conductive hearing impairment; Hearing impairment; Low-set ears; Abnormality of the dentition; Macrocephaly; Prominent forehead; Recurrent respiratory infections; Abnormality of movement; Gastroesophageal reflux; Constipation; Umbilical hernia; Short stature; Muscle weakness; Motor stereotypy; Microphthalmia; Autistic behavior	PUMCH
+SCO1907P0079	NF1	4763	Childhood onset; Kyphosis; Caesarian section	PUMCH
+SCO1907P0124	LDLR	3949	Juvenile onset	PUMCH
+SCO1907P0190	WT1	7490	Childhood onset; Scoliosis	PUMCH
+SCO1907P0207		Error	Juvenile onset; Scoliosis	PUMCH
+SCO1907P0218	TBX6	6911	Scoliosis	PUMCH
+SCO1908P0123	TBX6	6911	Scoliosis; Childhood onset	PUMCH
+SCO1908P0139	PALB2	79728	Scoliosis	PUMCH
+SCO1911P0051	GNPTAB	79158	Short neck; Flexion contracture; Hip dysplasia; Scoliosis; Arthrogryposis multiplex congenita; Infantile onset; Abnormality of movement; Abnormal form of the vertebral bodies	PUMCH
+SCO1912P0033	NF1	4763	Childhood onset; Scoliosis	PUMCH
+SCO2001P0034	TBX6	6911	Scoliosis; Hemivertebrae; Juvenile onset; Caesarian section	PUMCH
+SCO2003P2231	NF1	4763	Premature birth; Congenital onset	PUMCH
+SCO2003P2603	FBN1	2200	Juvenile onset; High palate; Scoliosis; Tooth malposition; Anisometropia	PUMCH
+SCO2003P2628	NF1	4763	Congenital onset; Cafe-au-lait spot; Scoliosis	PUMCH
+SCO2003P2629	DMD	1756	Caesarian section; Neonatal onset; Delayed fine motor development; Delayed gross motor development; Delayed speech and language development; Intellectual disability; Scoliosis	PUMCH
+SCO2003P2694	NF1	4763	Juvenile onset; Cafe-au-lait spot	PUMCH
+SCO2003P2881	UPF3B	65109	Caesarian section; Juvenile onset; Sensorineural hearing impairment	PUMCH
+SCO2003P2987	FN1	2335	Caesarian section; Juvenile onset	PUMCH
+SCO2003P3353	NF1	4763	Congenital onset; Cafe-au-lait spot; Pectus excavatum; Airway obstruction; Scoliosis	PUMCH
+SCO2008P0016	TTN	7273	Neonatal hypotonia; Neonatal onset; Scoliosis; Skeletal muscle atrophy; Myopia	PUMCH
+SCO2008P0156	NF1	4763	Hyperpigmentation of the skin; Cafe-au-lait spot; Scoliosis; Hyperlordosis; Kyphosis	PUMCH
+SCO2008P0164	NF1	4763	Juvenile onset; Hyperpigmentation of the skin; Cafe-au-lait spot; Scoliosis	PUMCH
+SCO2009P0038	TBX6	6911	Congenital onset; Scoliosis	PUMCH
+SCO2101P0024	TBX6	6911	Caesarian section; Juvenile onset; Hyperlordosis	PUMCH
+SCO2103P0049	PTPN11	5781	Scoliosis; Caesarian section; Childhood onset	PUMCH
+SCO2107P0051	NF1	4763	Neonatal onset; Cafe-au-lait spot; Scoliosis	PUMCH
+SCO2112P0004	NF1	4763	Cafe-au-lait spot; Scoliosis; Gait imbalance	PUMCH
+SCO2205P0003	TBX6	6911	Scoliosis; Kyphosis; Juvenile onset; Abnormal lymphatic vessel morphology	PUMCH
+SCO2207P0024	TBX6	6911	Caesarian section; Childhood onset; Scoliosis	PUMCH
+SCO2208P0101	NF1	4763	Congenital onset; Abnormality of the dentition; Scoliosis; Abnormality on pulmonary function testing	PUMCH
+SCO2209P0035	NF1	4763	Cafe-au-lait spot; Neurofibroma; Joint hypermobility; Anemia; Scoliosis; Kyphosis; Juvenile onset; Neonatal onset; Finger joint hypermobility; Lumbosacral meningocele	PUMCH
+SCO2210P0038	RYR1	6261	Scoliosis; Syringomyelia; Equinus calcaneus; Caesarian section; Childhood onset; Abnormality on pulmonary function testing; Cerebral palsy	PUMCH
+SCO2301P0046	OPA1	4976	Caesarian section; Childhood onset; Optic atrophy; Scoliosis	PUMCH
+SCO2302P0080	NF1	4763	Pectus carinatum; Superior pectus carinatum; Hyperpigmentation of the skin; Cafe-au-lait spot; Neurofibroma; Abnormal finger morphology; Joint hypermobility; Pes planus; Scoliosis; Congenital onset; Finger joint hypermobility	PUMCH
+SCO2303P0049	LRP5	4041	Scoliosis; Middle age onset	PUMCH
+SCO2303P0052	MYBPC3	4607	Cryptorchidism; Soft skin; Abnormal foot morphology; Scoliosis; Caesarian section; Fetal onset	PUMCH
+SCO2304P0044	CNOT1	23019	Pectus excavatum; Scoliosis; Spondylolisthesis; Spinal canal stenosis; Aplasia/Hypoplasia of the sacrum	PUMCH
+SCO2305P0006	ECEL1	9427	High palate; Low-set ears; Interphalangeal joint contracture of finger; Abnormal foot morphology; Abnormal toe morphology; Scoliosis; Abdominal distention; Juvenile onset; Hyperextensible thumb; Limitation of knee mobility	PUMCH
+SCO2306P0123	MORC2	22880	Muscle weakness; Delayed gross motor development; Inability to walk; Scoliosis; Kyphosis; Skeletal muscle atrophy; Decreased body weight; Hyperextensibility at elbow; Caesarian section	PUMCH
+SCO2306P0135	FBXO28	23219	Abnormality of the dentition; High palate; Strabismus; Delayed speech and language development; Dystonia; Constipation; Gastroesophageal reflux; Delayed gross motor development; Gait disturbance; Scoliosis; Knee flexion contracture; Delayed fine motor development; Caesarian section; Childhood onset	PUMCH
+SCO2307P0018	TTN	7273	Joint hypermobility; Constipation; Febrile seizure (within the age range of 3 months to 6 years); Scoliosis; Hemivertebrae; Abnormal vertebral morphology; Neonatal onset; Finger joint hypermobility; Hyperextensibility at elbow; Caesarian section	PUMCH
+SCO2308P0006	TBX6	6911	Scoliosis; Hemivertebrae; Block vertebrae; Juvenile onset	PUMCH
+SCO2308P0047	NF1	4763	Cafe-au-lait spot; Scoliosis; Myopia; Neurofibroma; Pes planus; Bowing of the arm; Upper limb asymmetry; Abnormality of limbs	PUMCH
+SCO2308P0050	NF1	4763	Pectus carinatum; Cafe-au-lait spot; Scoliosis; Juvenile onset; Caesarian section	PUMCH
+SCO2308P0125	SMN1	6606	Muscle weakness; Abnormal foot morphology; Hallux valgus; Delayed gross motor development; Inability to walk; Scoliosis; Pes valgus	PUMCH
+SCO2309P0041	NF1	4763	Scoliosis; Neonatal respiratory distress; Caesarian section; Infantile onset; Cafe-au-lait spot; Constipation; Anemia	PUMCH
+SCO2311P0001	TRPV4	59341	Tinnitus; Hypertension; Scoliosis; Kyphosis; Genu valgum	PUMCH
+SCO2406P0014	ANKRD11	29123	Caesarian section; Delayed fine motor development; Limitation of neck motion; Scoliosis; Kyphosis; Short stature; Childhood onset	PUMCH
+SCO2406P0041	CELF2	10659	Juvenile onset; Abnormality of the dentition; Caesarian section; Delayed speech and language development; Delayed gross motor development; Delayed fine motor development	PUMCH
+a0132c12-d465-4715-8f9f-11e8b9c53c64	EXT2	2132	Neonatal onset; Esophageal atresia; Scoliosis; Renal hypoplasia; High palate	PUMCH
+a06cd279-5227-4e98-97a9-499a917260c3	MYH3	4621	Aplasia/Hypoplasia of the ribs; Scoliosis; Vertebral segmentation defect; Abnormal thorax morphology; Gait disturbance	PUMCH
+a1c024d2-2998-4125-8b9e-b80e921d4248	COL1A1	1277	Short fetal femur length; Femoral bowing; Short fetal humerus length; Tricuspid regurgitation; Abnormal fetal skeletal morphology	PUMCH
+a1d0dae5-cb5d-4f81-8727-298d5a344f77	TRPV4	59341	Severe short stature; Barrel-shaped chest; Coxa vara; Hip dysplasia; Intermittent claudication; Scoliosis	PUMCH
+a2246342-2312-4cfb-91d1-595394432f53	TBX6	6911	Hemivertebrae; Rib fusion; Butterfly vertebrae; Scoliosis; Vertebral segmentation defect; Childhood onset	PUMCH
+a29797e6-183f-4661-842b-523ecf49bebd	TGFB3	7043	Scoliosis; Thoracolumbar scoliosis; Arachnodactyly; Tall stature	PUMCH
+a2b4f82a-54b7-4eb5-b94f-115cc6ec4ec0	SH3TC2	79628	High palate; Tooth malposition; Pectus carinatum; Atrial septal defect; Abnormal foot morphology; Pes cavus; Abnormal toe morphology; Scoliosis; Finger joint hypermobility; Equinus calcaneus; Dermal translucency; Childhood onset	PUMCH
+a2cd0c56-9672-46a4-9e49-82c5c58c492a	NF1	4763	Low-set ears; Tooth malposition; Hyperpigmentation of the skin; Cafe-au-lait spot; Neurofibroma; Premature birth; Scoliosis; Congenital onset; Finger joint hypermobility; Caesarian section	PUMCH
+a304b6d6-0bb2-4c05-8a95-b92692ce4654	COL2A1	1280	Talipes equinovarus; Short fetal femur length; Short fetal humerus length; Abnormal fetal skeletal morphology	PUMCH
+a371c0e6-3ceb-4a4f-bb8b-d07ffd3390a0	LMX1B	4010	Patellar dislocation; Abnormal fingernail morphology; Juvenile onset; Ulnar deviation of the hand or of fingers of the hand	PUMCH
+a3805f92-ab26-41e5-ba8d-1b63f543249f	RPL13	6137	Scoliosis; Hypoplastic 5th lumbar vertebrae; Diastomatomyelia	PUMCH
+a3d1a4cf-2872-4922-af9b-55aeec855494	FLNC	2318	Bifid ribs; Rib fusion; Abnormality of the nervous system; Butterfly vertebrae; Scoliosis; Vertebral segmentation defect; Meningocele; Aplasia/Hypoplasia of the scapulae	PUMCH
+a4306751-b8ed-4b90-a321-2d28c3484d7a	TBX6	6911	Spinal dysplasia; Congenital kyphoscoliosis; Scoliosis	PUMCH
+a43f5b3e-e94c-4e72-bd07-b261d79cb380	CACNA2D2	9254	Aplasia of the vagina; Hypoplasia of the uterus	PUMCH
+a47cf97e-fc57-4582-b2bb-a5bffa3553fc	TBX6	6911	Juvenile onset; High palate; Scoliosis; Scarring; Striae distensae; Abnormality of connective tissue	PUMCH
+a4960d7e-ff87-4b37-ab80-1d87c1d2b9ab	COL1A1	1277	Femoral bowing; Tibial bowing; Fibular bowing	PUMCH
+a4a9d518-4389-4ae5-83f7-a4385c51c4a5	MYH3	4621	Retrognathia; Downslanted palpebral fissures; Constipation; Delayed gross motor development; Scoliosis; Infantile onset; Short stature; Finger joint hypermobility; Thoracic hypertrichosis	PUMCH
+a5230bc9-dd97-4428-a24b-5fdfbc4258a3	MYL11	29895	Abnormality of the dentition; High palate; Low-set ears; Webbed neck; Ptosis; Tooth malposition; Pectus excavatum; Thin skin; Soft skin; Bruising susceptibility; Poor wound healing; Flexion contracture; Bilateral ptosis; Mitral valve prolapse; Mitral regurgitation; Abnormal foot morphology; Pes planus; Overlapping toe; Constipation; Scoliosis; Multiple joint contractures; Thenar muscle atrophy; Neonatal onset; Curved fingers; Decreased body weight; Finger joint hypermobility; Recurrent pneumonia; Abnormality of the palmar creases; Dermal translucency; Caesarian section; Temporomandibular joint ankylosis; Tip-toe gait; Camptodactyly of finger	PUMCH
+a5bf7dde-e6d7-464c-80fe-a57575254c0c	TRPV4	59341	Dyspnea; Scoliosis; Abnormal form of the vertebral bodies; Syringomyelia; Childhood onset; Lower limb pain	PUMCH
+a631c62b-938d-4812-8080-cb212a1610e9	COL2A1	1280	Avascular necrosis of the capital femoral epiphysis; Arthralgia	PUMCH
+a64e0c0e-ef04-49a0-be4a-36bc417a48b4	NF1	4763	Scoliosis; Cafe-au-lait spot	PUMCH
+a68f629b-9f41-48ad-afb8-10c24aace046	B3GALT6	126792	Congenital onset; Pectus carinatum; Scoliosis; Abnormal vertebral morphology; Short stature; Renal cyst; Limited elbow extension; Hip dysplasia; Mitral valve prolapse; Mitral regurgitation; Limited knee extension; Vertebral segmentation defect; Finger joint hypermobility	PUMCH
+a7aeafbc-6976-4e2f-8e21-cdbc85734992	NF1	4763	Caesarian section; Neonatal onset; Cafe-au-lait spot	PUMCH
+a7f63bdf-2f30-405d-b54f-156049c864ff	FBN1	2200	Lens subluxation; Scoliosis; Abnormal dura mater morphology; Dilatation of the sinus of Valsalva; Abnormal mitral valve morphology	PUMCH
+a8416944-1b81-4223-b8bc-fb6468581b97	MPZL2	10205	Anemia; Pleural effusion; Scoliosis; Juvenile onset; Abnormal respiratory system physiology; Hearing impairment	PUMCH
+a85acb71-ff7e-45d9-8233-2a23f5bd5f8d	COL1A2	1278	Short long bone; Bent long bone; Abnormal fetal skeletal morphology	PUMCH
+a89d68eb-f05e-47fd-8dad-0cc54b5a893f	APC	324	Scoliosis; Accessory spleen; Childhood onset	PUMCH
+a8eaa48d-269d-4a28-9ca2-b9da963b3468	ANKRD11	29123	Hemivertebrae; Congenital kyphoscoliosis; Vertebral segmentation defect; Cafe-au-lait spot; Atypical scarring of skin; Scoliosis	PUMCH
+a91d3164-a5c4-47fc-bfa3-c78a92d61b2d	NF1	4763	Cafe-au-lait spot; Genu varum	PUMCH
+aa2f9f3c-c322-4852-9790-676ef7af1e1f	MYH7	4625	Scoliosis	PUMCH
+aa31a668-e67c-4f19-9f11-4118e640f5f5	FLNB	2317	Juvenile onset; Decreased response to growth hormone stimulation test; Scoliosis; Short stature	PUMCH
+aa8138a9-02e3-4978-bcb9-296f3dc38e8b	HBB	3043	Juvenile onset; Abnormality of the outer ear; Scoliosis; Thoracic kyphoscoliosis	PUMCH
+aabe15f4-04af-4da5-93d7-62193584383b	COL1A1	1277	Short fetal femur length; Femoral bowing	PUMCH
+aace4f22-31c0-47de-9f5e-13406d4fbf95	COL5A1	1289	Adult onset; High palate; Abnormality of the dentition; Abnormality of connective tissue; Anemia; Lumbar spinal canal stenosis; Cerebral artery stenosis; Atherosclerosis; Atrophic scars; Widened atrophic scar; Increased arm span; Prolonged bleeding time; Spontaneous, recurrent epistaxis; Hyperlipidemia; Diastema; Poor wound healing; Alopecia; Varicose veins	PUMCH
+ab0acdc8-0e93-49a5-b5e0-b4099be95c82	FBN1	2200	Tricuspid valve prolapse; Slender finger; Scoliosis; Aortic root aneurysm; Strabismus; Ocular hypertension; Hepatic hemangioma	PUMCH
+ab763dda-0378-4afd-afa8-f8224790780c	SOX9	6662	Spinal dysplasia; Vertebral segmentation defect; Congenital kyphoscoliosis; Scoliosis; Short stature	PUMCH
+ab80cd1b-f176-4849-b2e9-a43b6ba16bd3	CCN6	8838	Flexion contracture; Joint swelling; Premature birth; Ileus; Multiple joint contractures; Cubitus valgus; Enlarged joints; Abnormal vertebral morphology; Neonatal intestinal obstruction; Caesarian section; Childhood onset; Sacroiliac arthritis	PUMCH
+abb5c391-e96e-4e21-afae-0df2fb9b5f01	FBN1	2200	Pectus excavatum; Kyphoscoliosis; Arachnodactyly; Increased arm span	PUMCH
+ac04b2fc-9eba-4fd4-9f02-5c39c229bf17	TBX6	6911	Hemivertebrae; 11 pairs of ribs; Atrial septal defect; Scoliosis; Jaundice; Aplasia/Hypoplasia of the scapulae	PUMCH
+ac42a3da-1dda-4d8c-98d7-859d136558be	CYP27A1	1593	Xanthomatosis; Ataxia; Unsteady gait	PUMCH
+ace98577-5eb8-4b56-8824-7eec55cbe04e	MSH6	2956	Scoliosis; Renal agenesis	PUMCH
+ad58be01-19ff-4c15-a7d2-c411057403b9	ACVRL1	94	Anemia; Glomerulonephritis; Renal insufficiency; Hyperuricemia; Abnormal electrophysiology of sinoatrial node origin; Paroxysmal atrial fibrillation; Hypertension; Gastroesophageal reflux; Allergic rhinitis; Capillary malformation; Renal cyst; Spontaneous, recurrent epistaxis; Localized skin lesion; Tongue telangiectasia; Hemangioma	PUMCH
+add39abb-69c6-4367-a429-bc49a9cd3cbc	TBX6	6911	Hemivertebrae; Scoliosis; Missing ribs	PUMCH
+add4a195-ccdf-4236-a9ce-99ee0e897456	FBN1	2200	Low-set ears; Downslanted palpebral fissures; Tooth malposition; Striae distensae; Joint hypermobility; Pes planus; Scoliosis; Respiratory distress; Finger joint hypermobility; Recurrent tonsillitis; Childhood onset; Enlarged tonsils; Widened atrophic scar	PUMCH
+adff7895-d483-48f9-aad3-9f4b0186f1fa	NF1	4763	Congenital kyphoscoliosis; Spinal dysplasia; Abnormal rib morphology; Scoliosis; Congenital onset; Cafe-au-lait spot; Caesarian section; Neurofibroma; Multiple cafe-au-lait spots	PUMCH
+aeb526da-9b47-4005-9e6d-f7960db94ef4	RYR1	6261	Scoliosis; Vertebral segmentation defect; Motor delay; Failure to thrive; Gait disturbance	PUMCH
+af4f4a6c-5416-468b-bc03-d132c1822a76	COL1A2	1278	Infantile onset; Scoliosis; Hemivertebrae	PUMCH
+afa7cc01-9566-4891-92ea-3aaf4f763e33	IGHMBP2	3508	Abnormal calf musculature morphology; Scoliosis; Thenar muscle atrophy; Distal amyotrophy; Finger joint hypermobility; Caesarian section; Childhood onset; Peroneal muscle weakness	PUMCH
+b10e4bd2-a89f-4366-98fc-d3b6e0e444e1	COL2A1	1280	Avascular necrosis of the capital femoral epiphysis; Knee flexion contracture	PUMCH
+b1f0e6d7-aafe-4876-b89a-9179d878a21a	FGFR3	2261	Short long bone; Bowing of the long bones; Recurrent long bone fractures; Abnormal fetal skeletal morphology	PUMCH
+b2f6e8c9-9bab-48ce-897a-00d47e06747f	TRPV4	59341	Scoliosis; Spinal dysplasia; Trapezoidal vertebral body	PUMCH
+b30d1f47-a829-4ae4-87f6-ce849509e339	COG5	10466	Optic atrophy; Scoliosis; Global developmental delay; Intellectual disability; Nystagmus; Reduced visual acuity; Macular atrophy; Optic disc pallor; Abnormal pupillary light reflex	PUMCH
+b421df86-5aeb-4cc8-b485-e8cddc4721c1	FBN1	2200	Scoliosis; Cubitus valgus; Tall stature; Aortic root aneurysm; Hallux valgus; Mitral valve prolapse; Mitral regurgitation; Pes planus; Arachnodactyly; Joint hypermobility	PUMCH
+b43818d2-f644-4d08-9904-0e42daafdea2	NF1	4763	Scoliosis	PUMCH
+b467dfb0-7778-485b-ad9c-754ac31595d8	HPGD	3248	Premature birth; Caesarian section; Congenital onset; Overgrowth	PUMCH
+b477b24b-8381-4ab9-b51d-874a99d9b2dc	NF1	4763	Neurofibroma; Scoliosis; Childhood onset	PUMCH
+b4a2d092-264d-4c48-8f85-b4fad0588b9b	COL5A1	1289	Inguinal hernia; Cryptorchidism; Hydronephrosis; High palate; Hypertelorism; Downslanted palpebral fissures; Pectus carinatum; Hyperextensible skin; Bruising susceptibility; Fragile skin; Atrophic scars; Congenital hip dislocation; Joint hypermobility; Hip dysplasia; Premature birth; Abnormal foot morphology; Pes planus; Sandal gap; Subcutaneous hemorrhage; Kyphosis; Finger joint hypermobility; Childhood onset; Capillary fragility; Lower limb asymmetry	PUMCH
+b4db0600-90cf-4f2f-9a3f-3c2f651e0f93	ATP6V1A	523	Congenital onset; Abnormality of the dentition; Ichthyosis; Abnormal foot morphology; Scoliosis; Aortic root aneurysm	PUMCH
+b4e5c54c-badb-41a0-b88d-fe963ed772ad	FBN1	2200	Scoliosis; Juvenile onset	PUMCH
+b4fc78b1-75c8-4c80-8445-85f7e886c42e	MESP2	145873	Congenital onset; Scoliosis; Vertebral segmentation defect; Butterfly vertebrae	PUMCH
+b590601c-8287-4f1a-b0c1-5b2a8c4cf0d5	LMNA	4000	Tetralogy of Fallot; Vertebral segmentation defect	PUMCH
+b5edd4a0-7eb1-4a50-9ffb-f7c3825f255e	NISCH	11188	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+b65dec7e-a02a-4cff-ab05-1c982dcb7af4	FKBP14	55033	Pectus excavatum; Kyphosis; Caesarian section; Fetal distress; Neonatal hypotonia; Neonatal respiratory distress; Feeding difficulties; Neonatal onset; Delayed gross motor development; Scoliosis; Abnormality of connective tissue; Polydactyly; Joint hypermobility; Muscle weakness	PUMCH
+b664bc98-d1fd-41ef-b0cc-3e3c2390c69b	CACNA2D2	9254	Aplasia of the vagina; Hypoplasia of the uterus	PUMCH
+b6846bdb-b110-49a2-881d-392a2e18e335	NTRK1	4914	Anhidrotic ectodermal dysplasia; Congenital onset; Intellectual disability; Strabismus; Abnormality of pain sensation; Anhidrosis	PUMCH
+b6981be7-386d-46bc-b909-36f950d93438	TBX6	6911	Hemivertebrae; Kyphosis; Spina bifida; Aplasia/Hypoplasia of the ribs; Scoliosis; Missing ribs; Abnormal vertebral morphology	PUMCH
+b6b84287-92bb-4b8f-87eb-b77f57543e85	APOB	338	Atypical behavior; Scoliosis; Vertebral segmentation defect; Syringomyelia	PUMCH
+b75c9097-ea9f-4ff5-b8ef-c32b33366099	FBN1	2200	Juvenile onset; Scoliosis; Tall stature; Tricuspid regurgitation; Finger joint hypermobility	PUMCH
+b7b295de-c6ef-4b89-bd41-85ba99336b3e	TBX6	6911	Inguinal hernia; Soft skin; Short toe; Scoliosis; Hemivertebrae; Butterfly vertebrae; Infantile onset	PUMCH
+b850d98c-3278-4e97-99d7-a58c22e0550d	MSH6	2956	Caesarian section; Neonatal onset; Delayed speech and language development; Intellectual disability; Hypertelorism; Abnormality of the dentition; Seizure; Scoliosis; Kyphosis; Cubitus varus; Thin skin; Limited elbow extension; Tooth malposition; Abnormality of dental color; Overlapping toe; Long fingers; Long toe; Abnormal oral frenulum morphology; Hypospadias	PUMCH
+b95fb5e4-37e6-40aa-8f27-3b81e0698f7e	G6PC1	2538	Proteinuria; Epistaxis; Hyperparathyroidism; Growth delay; Abnormal aortic valve morphology; Aortic regurgitation; Anemia; Hyperuricemia; Hepatomegaly; Increased CSF lactate; Hyperlipidemia; Lactic acidosis; Elevated circulating creatinine concentration; Abdominal distention; Short stature; Hepatocellular adenoma	PUMCH
+b9e906dd-0466-42da-b04c-a59cad91c6c7	COL1A1	1277	Femoral bowing	PUMCH
+ba650b68-7826-4453-beee-d0e79ca82630	FBN1	2200	Hernia; Scoliosis; Juvenile onset; Caesarian section; Tall stature; Joint hypermobility	PUMCH
+ba674cc6-a7ac-4c64-b7b6-66f3cac33f6a	NF1	4763	Scoliosis; Kyphosis; Cafe-au-lait spot; Neoplasm of the skin	PUMCH
+bacdecd7-0ba5-404d-a059-d781e25cb1f9	COL2A1	1280	Kyphosis; Vertebral hypoplasia	PUMCH
+bacfa1ee-2693-4127-94a8-50bff216a126	TBX6	6911	Infantile onset; Caesarian section; Scoliosis	PUMCH
+bcc024de-ac69-4de6-aa6d-3e9ef6eb3731	RUNX2	860	Midclavicular aplasia; Kyphosis; Trapezoidal vertebral body; Abnormal clavicle morphology; Renal hypoplasia/aplasia; Abnormal rib morphology; Scoliosis; Short stature; Thin ribs; Ectopic kidney; Abnormal shoulder morphology	PUMCH
+bd06009b-9548-4788-9afa-febfe0e70e97	RPS6KA3	6197	Hypertelorism; Single transverse palmar crease; Large hands; Tapered finger; Gait disturbance; Abnormal mitral valve morphology; Scoliosis; Atlantoaxial instability; Short stature; Long toe; Childhood onset; Delayed early-childhood social milestone development	PUMCH
+bd99411e-803b-4e7b-b72d-a20f124ceb80	TTN	7273	Hemivertebrae; Anal stenosis; Scoliosis; Supernumerary ribs; Hypospadias	PUMCH
+becbdc1e-682b-4f40-b9b7-e9b4611c233a	FBN1	2200	Mitral valve prolapse; Anemia; Constipation; Scoliosis; Hypoalbuminemia; Juvenile onset; Mitral regurgitation; Tricuspid regurgitation	PUMCH
+bf6d2725-7035-45e9-aad8-0cfac227d3ef	RYR1	6261	Delayed gross motor development; Distal muscle weakness; Inability to walk; Scoliosis; Congenital onset; Finger joint hypermobility; Delayed fine motor development; Caesarian section	PUMCH
+c01a236d-474c-4fa9-91b4-c62f8b9d71c0	SOX9	6662	Scoliosis; Vertebral segmentation defect; Short stature; Juvenile onset; Spinal dysplasia	PUMCH
+c10ff3ff-69f9-4ecb-8659-4597251b4e29	FBN1	2200	Juvenile onset; Scoliosis; Tall stature; Slender finger; Mitral valve prolapse; Pectus carinatum; Aortic root aneurysm	PUMCH
+c1a32c56-873e-478e-845e-e3e197d90aed	RBBP5	5929	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+c27c7df3-fc65-49f2-88a9-a0e07b3b9996	TRPV4	59341	Caesarian section; Childhood onset; Scoliosis; Abnormal cartilage morphology; Vertebral hypoplasia	PUMCH
+c375eeae-39e2-49d9-9d61-e192703a180c	TTN	7273	Hemivertebrae; Scoliosis; Vertebral segmentation defect	PUMCH
+c39476be-403f-49b0-85b3-96e212a4c174	EXT1	2131	Congenital onset; Childhood onset; Multiple enchondromatosis; Osteochondroma	PUMCH
+c55d16a7-3d1c-44d1-9efd-053df4f4b82c	MYH3	4621	Diastomatomyelia; Childhood onset; Scoliosis	PUMCH
+c595a808-4eef-4b10-b79e-57f5f701eb1b	COL1A1	1277	Blue sclerae; Splenomegaly; Scoliosis; Recurrent fractures	PUMCH
+c6a51743-025a-4bb7-a762-e51b179a045c	TTN	7273	Scoliosis	PUMCH
+c6a54b63-a7b2-4cdf-af84-e5a0030c0fa4	CACNA2D2	9254	Nephrolithiasis	PUMCH
+c87778cb-c713-465c-8b6c-1b8f8801329a	TBX6	6911	Adult onset; Scoliosis	PUMCH
+c8dd05ae-c0a5-4a5c-88c7-9d09745b2c2e	CHRND	1144	Thickened nuchal skin fold; Ventricular septal defect; Scoliosis; Bilateral talipes equinovarus; Micrognathia	PUMCH
+c930522b-4c2e-4ee7-b446-ff332f5ce384	FLNC	2318	Hemivertebrae; Scoliosis; Aortic regurgitation	PUMCH
+cae6436e-b36c-477e-a6d5-468da8e36ff1	PTEN	5728	Constipation; Scoliosis; Kyphosis; Abnormal respiratory system physiology; Childhood onset; Dyspepsia	PUMCH
+cbb93be1-ba7f-457e-8da7-782191a4eff6	TTN	7273	Hemivertebrae; Restrictive ventilatory defect; Aplasia/Hypoplasia of the ribs; Scoliosis; Vertebral segmentation defect	PUMCH
+cc2626d2-4595-4a85-a777-f274c8ec5160	TTN	7273	Scoliosis; Vertebral segmentation defect	PUMCH
+cc39df78-6ba2-441c-85fe-c46fa226546d	FBN1	2200	Strabismus; Aortic regurgitation; Scoliosis; Juvenile onset; Caesarian section	PUMCH
+cc65e769-fad3-484b-80b4-26f62f098b01	COL6A1	1291	Abnormality of the dentition; Facial asymmetry; Torticollis; Strabismus; Pericardial effusion; Talipes equinovarus; Restrictive ventilatory defect; Pulmonary arterial hypertension; Delayed gross motor development; Pleural effusion; Scoliosis; Abnormal EKG; Congenital onset; Decreased body weight; Limited elbow flexion/extension; Tricuspid regurgitation; Thoracic hypoplasia; Finger joint hypermobility; Viral hepatitis; Generalized limb muscle atrophy; Limitation of knee mobility; Pedal edema; Abnormal urine protein level	PUMCH
+cca75fbe-40b6-4e10-97a2-c92322947c3b	PTPN11	5781	Horseshoe kidney; Abnormality of the dentition; Strabismus; Delayed eruption of teeth; Pectus excavatum; Bruising susceptibility; Joint hypermobility; Mitral regurgitation; Patent foramen ovale; Scoliosis; Abnormality of connective tissue; Short stature; Finger joint hypermobility; Childhood onset; Abnormality on pulmonary function testing	PUMCH
+ccc95b5c-4f51-44af-acac-597f183f112f	COL1A2	1278	Abnormal fetal skeletal morphology; Short fetal femur length; Femoral bowing	PUMCH
+ce208c6f-53e9-4c75-a27e-d98c96d1106b	TBX6	6911	Hemivertebrae; Scoliosis; Vertebral segmentation defect; Butterfly vertebrae	PUMCH
+ce5cadb9-f6fd-4873-b42f-5f5c0aa9979b	FBN1	2200	Scoliosis; Juvenile onset; Pectus excavatum; Muscle weakness	PUMCH
+ce665f73-fefe-407b-960d-f2e52137bc4e	TGFB3	7043	Arachnodactyly; Mitral regurgitation; Scoliosis; Increased arm span	PUMCH
+d0b67158-6b84-49f6-8b5f-bf84dbe24915	COL3A1	1281	Scoliosis; Vertebral segmentation defect	PUMCH
+d0b673fa-ee98-4d2a-a88f-b3dc6184e9e5	FBN1	2200	High palate; Scoliosis; Finger joint hypermobility; Caesarian section; Childhood onset	PUMCH
+d1c5a88e-e905-4ec3-80e8-40cb92fb4e01	TRPV4	59341	Macrocephaly; Mandibular prognathia; Abnormality of the nose; Short neck; Platyspondyly; Talipes equinovarus; Broad-based gait; Scoliosis; Abnormal cartilage morphology; Kyphosis; Genu valgum; Hyperlordosis; Vertebral segmentation defect; Abnormal vertebral morphology; Babinski sign; Trident hand; Finger joint hypermobility; Clinodactyly	PUMCH
+d2fd523e-6492-4ee1-a870-9e89d1b30dbf	FGFR2	2263	Caesarian section; Scoliosis; Mandibular prognathia; Tooth malposition; Cubitus valgus; Proptosis; Chiari malformation; Strabismus; Eczematoid dermatitis; Hypertelorism; Abnormality of vision; Deviation of the 2nd toe; Hydrocephalus; Arachnoid cyst; Sinusitis; Increased size of nasopharyngeal adenoids; 2-3 toe syndactyly; Pes planus; Low-set ears; Broad toe	PUMCH
+d34f79ae-a0e6-4142-af1a-f3abb1fe29f6	FBN1	2200	Scoliosis; Abnormal respiratory system physiology; Childhood onset	PUMCH
+d3927db1-bf6b-44a1-8645-57095121f76b	COL9A1	1297	Kyphosis; Hypoplastic vertebral bodies; Ovoid vertebral bodies; Epiphyseal dysplasia; Acetabular dysplasia	PUMCH
+d421f9c3-4c96-4ae1-abb7-b78d854e3eb0	TBX6	6911	Hemivertebrae; Scoliosis	PUMCH
+d4ebb131-e67c-4778-9eca-900f34992ce1	TBX6	6911	Atypical behavior; Scoliosis; Vertebral segmentation defect	PUMCH
+d54f31e4-27e8-4e64-bc33-6d7a2a3e157e	COL1A1	1277	Congenital onset; Gastroesophageal reflux; Scoliosis; Recurrent fractures	PUMCH
+d6b1ffa6-2325-4440-aca7-55fa8e4f491f	PIEZO2	63895	Anemia; Tethered cord; Scoliosis; Multiple joint contractures; Abnormal respiratory system physiology; Childhood onset	PUMCH
+d6ecf601-d1c5-4567-9d1e-7898c2790734	COL2A1	1280	Retinal detachment; Abnormal midface morphology; Micrognathia; Soft tissue swelling of interphalangeal joints	PUMCH
+d770c33c-dc8d-4163-9fd8-c47ccc2c4562	OCRL	4952	Abnormality of the dentition; Nephrolithiasis; Abnormal metaphysis morphology; Gait disturbance; Delayed gross motor development; Genu valgum; Short stature; Caesarian section; Neonatal sepsis; Cyst of the ductus choledochus; Intrauterine growth retardation	PUMCH
+d7b7e1e6-5ad1-4c5e-b846-9c037ec0bbc8	B3GAT3	26229	Anemia; Scoliosis; Kyphosis; Abnormal respiratory system physiology; Childhood onset; Hip dysplasia; Cerebral hemorrhage	PUMCH
+d7c5769b-9270-40a0-a44e-4c38278b9090	PLS3	5358	Hearing abnormality; Delayed speech and language development; Pectus excavatum; Platyspondyly; Osteoporosis; Recurrent fractures; Kyphosis; Abnormal form of the vertebral bodies; Vertebral wedging; Caesarian section; Childhood onset	PUMCH
+d8b2651c-d32e-4aa8-859e-bb9d6664d398	LDLR	3949	Scoliosis	PUMCH
+d932d7db-9a37-4d51-a3ff-e98ac280b30a	FGFR3	2261	Short stature	PUMCH
+d9cf5c47-ffc7-46aa-8305-fef3059acb59	COL6A3	1293	Scoliosis; Recurrent respiratory infections; Juvenile onset	PUMCH
+db4aca6f-6f74-49b4-ab2d-803c32e9e3ce	G6PD	2539	Tall stature; High palate; Webbed neck; Tooth malposition; Soft skin; Arachnodactyly; Pes planus; Scoliosis; Juvenile onset; Finger joint hypermobility; Long toe; Caesarian section	PUMCH
+db8f94c8-cc46-45c9-b31e-be308a887f71	LFNG	3955	Facial asymmetry; Abnormality of the neck; Torticollis; Delayed eruption of teeth; Delayed speech and language development; Neonatal respiratory distress; Scoliosis; Hemivertebrae; Abnormal vertebral morphology; Neonatal onset; Limitation of neck motion	PUMCH
+dc398d61-1216-4847-9731-a7a0592e030e	EBP	10682	Cataract; Scoliosis; Ichthyosis; Hypoplastic 5th lumbar vertebrae; Congenital hip dislocation	PUMCH
+dc4149c9-e958-4cd4-a44a-46071885772d	COL1A1	1277	Congenital onset; Blue sclerae; Joint hypermobility; Intestinal polyp; Multiple gastric polyps; Recurrent fractures; Hearing abnormality; Subcutaneous hemorrhage; Atrophic gastritis; Reduced bone mineral density; Uterine leiomyoma	PUMCH
+dd17e82d-643f-448f-b16e-57f5c4e58b4a	COL1A1	1277	Tetraphocomelia; Bowing of the long bones; Limb undergrowth	PUMCH
+dd970f2a-a2f6-40bb-bb68-fa2421d0f2fb	FBN1	2200	Scoliosis; Myopia; Slender finger; Mitral valve prolapse; Camptodactyly of toe	PUMCH
+ddb24cf3-1ec0-4c4c-b9f0-85026b15ed62	LMX1B	4010	Ovarian cyst; Acute sinusitis; Tinnitus; Abnormality of refraction; Punctate corneal epithelial erosions; Irregular menstruation; Eczematoid dermatitis; Diarrhea; Abdominal pain; Scoliosis; Microscopic hematuria; Allergic rhinitis; Malnutrition; Intervertebral disk degeneration; Cervical spondylosis; Abnormality of the temporomandibular joint; Folliculitis; Thyroid nodule; Dysmenorrhea; Childhood onset; Hyperpigmentation of the skin; Abnormal foot morphology	PUMCH
+de9187b6-0526-4691-aa6b-c7cca0698e56	FBN2	2201	Scoliosis	PUMCH
+df5132bc-a432-4c9f-9db1-e57db0d059fa	NF1	4763	Scoliosis	PUMCH
+dfd7e920-df43-4e5a-9c24-6ee5c5b086b3	TRPV4	59341	Scoliosis; Arthralgia; Genu valgum; Abnormal form of the vertebral bodies; Limited elbow flexion/extension; Childhood onset	PUMCH
+e0860b96-82c4-4bed-a319-870c99455936	USP9X	8239	Abnormality of the dentition; Cleft palate; Abnormal mandible morphology; Smooth philtrum; Facial asymmetry; Abnormality of the outer ear; Hearing impairment; Posteriorly rotated ears; Abnormal pinna morphology; Webbed neck; Carious teeth; Irritability; Delayed speech and language development; Pectus excavatum; Hypopigmented skin patches; Tapered finger; Intellectual disability; Hypotonia; Hip dysplasia; Premature birth; Atrial septal defect; Patent foramen ovale; Delayed gross motor development; Scoliosis; Tricuspid regurgitation; Abnormality of the hairline; Delayed fine motor development; Caesarian section; Feeding difficulties; Short palpebral fissure	PUMCH
+e0e0e00a-23d0-47fc-b7b0-916f3d1d121c	TRAPPC2	6399	Pectus carinatum; Childhood onset; Delayed speech and language development; Caesarian section	PUMCH
+e16203cf-3bd7-4b5e-aa67-815a37ed6748	NISCH	11188	Hypoplasia of the vagina; Hypoplasia of the uterus	PUMCH
+e198c0ba-7988-4302-ad52-274476f2fab2	COL2A1	1280	Caesarian section; Congenital onset; Pectus carinatum; Inguinal hernia; Scoliosis; Short stature; Amblyopia; Dysplasia of the femoral head	PUMCH
+e1a187dd-7849-4fac-b693-9edcca454a99	COL1A1	1277	Decreased head circumference; Short fetal femur length; Short tibia; Fibular bowing; Tibial bowing; Fibular hypoplasia; Fractured tibia; Short foot; Short fetal humerus length; Hypoplasia of the radius; Hypoplasia of the ulna; Intrauterine growth retardation; Thoracic hypoplasia; Abnormal fetal skeletal morphology; Abnormal skull morphology	PUMCH
+e1aae4e1-595b-4410-9618-302b357f7e9a	COL1A2	1278	Tetraphocomelia; Abnormal fetal skeletal morphology	PUMCH
+e289b332-8a47-4e26-9ecb-f71d21519fa7	TRPV4	59341	Scoliosis	PUMCH
+e2d052e0-b4ee-4fc0-8fe7-eb8278823329	FGFR3	2261	Kyphosis; Trident hand; Abnormal cartilage morphology; Rhizomelia; Hyperreflexia; Vertebral wedging; Scoliosis; Short stature; Broad forehead; Hypotonia; Hydrocephalus; Mandibular prognathia; Abnormal rib cage morphology; Disproportionate short-limb short stature; Macrocephaly	PUMCH
+e381f14b-e0ea-4434-aa54-2f5e3c851e1c	LRSAM1	90678	Arachnodactyly; Toe clinodactyly; Scoliosis; Syringomyelia; Hyperextensibility of the finger joints	PUMCH
+e40a41ec-a655-4900-a59a-221f51ee1e6d	PALB2	79728	Bifid ribs; Atypical behavior; Rib fusion; Scoliosis; Vertebral segmentation defect	PUMCH
+e51d12c7-a388-4436-982c-2f6d34943cba	EXT2	2132	Childhood onset; Multiple exostoses	PUMCH
+e60933ea-80f5-49a6-9fdc-77a299631d4a	COL6A1	1291	Scoliosis; Distal joint hypermobility	PUMCH
+e83381dd-3592-477a-8913-7e631d8c5456	SPTAN1	6709	Hemivertebrae; Rib fusion; Butterfly vertebrae; Aplasia/Hypoplasia of the ribs; Scoliosis; Vertebral segmentation defect	PUMCH
+e8c46324-bcd1-45c1-b61a-8c8359f29a48	FBN1	2200	High palate; Low-set ears; Scoliosis; Aortic aneurysm; Aortic regurgitation; Left atrial enlargement; Mitral regurgitation; Left ventricular diastolic dysfunction	PUMCH
+e934d4bc-b6a5-47a0-bf2b-b0c2765ab367	EXT1	2131	Congenital onset; Osteochondroma	PUMCH
+e9942ba5-ca20-4274-b038-c9cba7b628e6	PTEN	5728	Caesarian section; Infantile onset; Delayed speech and language development; Abnormality of the gingiva; Diarrhea; Abdominal pain; Colitis; Multiple gastric polyps; Hamartomatous stomach polyps; Intestinal polyp; Bloody diarrhea; Penile freckling	PUMCH
+eb604353-f04d-4a38-a14b-70a15982785d	FBN1	2200	Caesarian section; Childhood onset; Abnormality of connective tissue; Cafe-au-lait spot; Pectus carinatum; Abnormal foot morphology; Scoliosis; Joint hypermobility; Genu valgum; Elevated circulating creatine kinase concentration; Abnormal heart morphology; Pes valgus; Hallux valgus; Long toe; Thin skin; Striae distensae; Mitral regurgitation; Camptodactyly of toe; Tricuspid regurgitation; Pes planus	PUMCH
+eb7439ca-1a3a-4c2c-bed3-12eb96ae0a70	JAG1	182	Butterfly vertebrae; Scoliosis; Motor delay; Aplasia/Hypoplasia affecting the eye; Hernia of the abdominal wall; Patent foramen ovale	PUMCH
+ec20af2e-bca7-4026-b74e-3495805fb7fb	TTN	7273	Hemivertebrae; Congenital kyphoscoliosis; Aplasia/Hypoplasia of the ribs; Vertebral segmentation defect; Low back pain	PUMCH
+eca0260d-e1d1-4beb-b6b6-c457101acbef	SDHC	6391	Abnormal oral frenulum morphology; High palate; Tooth malposition; Striae distensae; Scoliosis; Syringomyelia; Finger joint hypermobility; Childhood onset; Widened atrophic scar	PUMCH
+ed0140c1-550f-4216-84ab-9b838cf0b8d5	FBN1	2200	Scoliosis	PUMCH
+ed9808f5-3039-4c1a-a101-0dfaa3edd0d8	NF1	4763	Scoliosis; Mitral regurgitation; Mitral valve prolapse; Cafe-au-lait spot; Finger joint hypermobility	PUMCH
+ed9b8382-a8a9-4633-b79c-d90da54bc0a2	COL7A1	1294	Aortic dissection	PUMCH
+ee69fdda-8a7e-4a52-8212-883a1c6cb408	TBX4	9496	Progressive congenital scoliosis; Sensorineural hearing impairment; Pulmonary hypoplasia; Abnormal rib morphology; Laryngomalacia; Hemivertebrae; Cutaneous cyst; Scoliosis	PUMCH
+eedd2f77-2861-45f0-a53b-d90e153781da	FGFR3	2261	Short long bone; Bowing of the long bones; Thoracic dysplasia; Abnormal fetal skeletal morphology	PUMCH
+efd5a57f-e55e-4ea6-914c-9d0a42516a4b	COL1A1	1277	Recurrent fractures; Tetraphocomelia; Cubitus valgus	PUMCH
+f22b1368-081b-4f20-b3e5-8de97c19c24f	TBX6	6911	Hemivertebrae; Scoliosis	PUMCH
+f2fd37cd-ec49-4ee2-b2ef-6f008d267b84	NF1	4763	Abnormal thorax morphology; Neurofibroma; Anemia; Constipation; Pleural effusion; Scoliosis; Hypoalbuminemia; Childhood onset; Atelectasis	PUMCH
+f438654f-2506-4f83-acb7-18d75855f806	COL1A2	1278	Abnormal fetal skeletal morphology	PUMCH
+f44cd199-c22c-4662-92ce-54928bf03ee3	APOB	338	Abnormality of the nervous system; Restrictive ventilatory defect; Congenital kyphoscoliosis; Scoliosis; Vertebral segmentation defect; Tethered cord; Syringomyelia	PUMCH
+f4c0080b-1791-4a92-be83-ed6b0a7e9a66	BMP2	650	Spina bifida occulta; Atrial septal defect; Scoliosis; Vertebral segmentation defect; High myopia; Abnormal sternum morphology	PUMCH
+f559c451-8a29-4ffe-bd97-33bbe411dd90	EXT2	2132	Osteochondroma	PUMCH
+f67f1e8b-33f8-4f65-9c95-b2c795992d8b	FBN1	2200	Scoliosis; Abnormal respiratory system physiology; Childhood onset; Vertebral fusion; Abnormal thorax morphology; Asymmetry of the thorax; Kyphoscoliosis	PUMCH
+f6b4294b-9658-45f8-9acc-75a48e608479	B3GALT6	126792	Abnormality of the dentition; Hydrocephalus; Low-set ears; Otitis media; Tooth malposition; Abnormal sternum morphology; Pectus carinatum; Platyspondyly; Hyperpigmentation of the skin; Abnormal foot morphology; Scoliosis; Kyphoscoliosis; Kyphosis; Infantile onset; Short stature; Limited elbow flexion/extension; Finger joint hypermobility; Abnormal dental morphology; Large elbow; Abnormal cartilage morphology; Pes planus	PUMCH
+f6ced778-2a22-437a-8692-53a341499fff	ECEL1	9427	Scoliosis; Hip dysplasia; Caesarian section; Childhood onset	PUMCH
+f74636f7-e57b-4d72-a1d6-66fe8a820d87	MAFB	9935	Joint swelling; Limitation of joint mobility; Synovitis	PUMCH
+f80ab9e8-1c40-4595-9195-cce610f5886d	PALB2	79728	Webbed neck; Short clavicles; Abnormality of skin pigmentation; Scoliosis; Infantile onset; Aplasia/Hypoplasia of the clavicles	PUMCH
+f94dd019-c6ac-4a35-ad5f-532de9682c51	FGFR3	2261	Tetraphocomelia; Abnormal fetal skeletal morphology	PUMCH
+f9de520b-1c28-47a5-8db6-0aba8574ca83	TBX6	6911	Hemivertebrae; Scoliosis; Aplasia/Hypoplasia of the ribs	PUMCH
+f9e01a3f-c1d5-41d2-85f3-3a4e6eff7f27	COL3A1	1281	Aortic dissection	PUMCH
+fa1edc94-6eeb-4f73-9d6a-44098d2ee191	TRPV4	59341	Gait disturbance; Scoliosis; Skeletal dysplasia; Kyphosis; Genu valgum; Juvenile onset; Lumbar spinal canal stenosis; Limited elbow flexion/extension; Increased size of nasopharyngeal adenoids; Overweight; Hip dysplasia	PUMCH
+fa360af6-5a6d-4d22-ba99-2597e8ede42b	TBX6	6911	Scoliosis; Hemivertebrae	PUMCH
+fb699d78-2475-4683-a10d-10bc2d1871f1	EXT1	2131	Childhood onset; Multiple enchondromatosis; Osteochondroma	PUMCH
+fc6da795-8d02-4c63-888f-a7a0087bf62e	BTK	695	Keratitis; Edema; Urticaria; Portal hypertension; Ascites; Cardiomegaly; Patent foramen ovale; Splenomegaly; Thrombocytopenia; Leukopenia; Anemia; Hypersplenism; Esophageal varix; Pleural effusion; Recurrent respiratory infections; Recurrent infections; Immunodeficiency; Septic arthritis; Pulmonary artery dilatation; Recurrent pneumonia; Childhood onset	PUMCH
+fe70e2bc-718f-45a5-b734-dce2fc7c6a00	FGFR3	2261	Short long bone; Abnormal skull morphology; Abnormal rib morphology; Thoracic hypoplasia; Bent long bone; Abnormal fetal skeletal morphology; Fetal head anomaly	PUMCH
+ffea593c-950b-4751-9a8a-e7ed719272a9	MAPRE2	10982	Congenital onset; Syndactyly; Genu varum; Urinary hesitancy	PUMCH
+ffff3676-f752-42d6-b753-230f488fd9bc	GLDN	342035	Caesarian section; Fetal distress; Neonatal hypotonia; Neonatal respiratory distress; Feeding difficulties; Congenital onset; Delayed fine motor development; High palate; Scoliosis; Cryptorchidism; Abnormal rib cage morphology; Interphalangeal joint contracture of finger; Pes planus; Fused cervical vertebrae	PUMCH

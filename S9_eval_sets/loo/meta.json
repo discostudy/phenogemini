@@ -1,0 +1,23 @@
+{
+  "description": "Leave-one-out benchmark covering 34,705 patients from 1960\u20132025. Each case omits the source publication from the retrieval pool.",
+  "fields": {
+    "queries_loo.tsv": {
+      "columns": [
+        "query_id",
+        "text"
+      ],
+      "notes": "Phenotype narratives assembled from PhenoGemini Atlas entries."
+    },
+    "labels_loo.tsv": {
+      "columns": [
+        "query_id",
+        "entrez_gene_id",
+        "gene_symbol_norm"
+      ],
+      "notes": "Gold gene labels aligned to Entrez/OMIM."
+    }
+  },
+  "source": "version_3/6.evaluation/data",
+  "license": "CC-BY 4.0",
+  "last_updated": "2025-03-01"
+}

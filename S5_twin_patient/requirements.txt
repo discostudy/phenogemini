@@ -1,0 +1,4 @@
+numpy>=1.21
+pandas>=1.5
+tqdm>=4.64
+sentence-transformers>=2.3
