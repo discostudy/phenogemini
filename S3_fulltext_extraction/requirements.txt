@@ -1,0 +1,6 @@
+openai>=1.30
+httpx>=0.27
+pandas>=1.5
+tqdm>=4.64
+python-dotenv>=1.0
+numpy>=1.23

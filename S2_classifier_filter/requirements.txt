@@ -1,0 +1,8 @@
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.1
+joblib>=1.2
+tqdm>=4.64
+huggingface-hub>=0.12
+transformers>=4.28
+torch>=1.12

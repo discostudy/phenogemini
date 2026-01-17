@@ -1,0 +1,23 @@
+{
+  "description": "Time-split evaluation queries (13,356 cases published 2024\u20132025) with gold gene labels for PhenoGemini benchmarking.",
+  "fields": {
+    "queries_time.tsv": {
+      "columns": [
+        "query_id",
+        "text"
+      ],
+      "notes": "Phenotype descriptions derived from LLM-extracted case summaries."
+    },
+    "labels_time.tsv": {
+      "columns": [
+        "query_id",
+        "entrez_gene_id",
+        "gene_symbol_norm"
+      ],
+      "notes": "Gold gene annotations validated against OMIM/HGMD."
+    }
+  },
+  "source": "version_3/6.evaluation/data",
+  "license": "CC-BY 4.0",
+  "last_updated": "2025-03-01"
+}
