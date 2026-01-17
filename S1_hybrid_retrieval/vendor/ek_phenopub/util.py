@@ -1,6 +1,3 @@
-#  Copyright (c) 2018-2023 Beijing Ekitech Co., Ltd.
-#  All rights reserved.
-
 import logging
 import logging.config
 import os

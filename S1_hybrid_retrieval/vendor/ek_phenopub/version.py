@@ -1,6 +1,3 @@
-#  Copyright (c) 2018-2023 Beijing Ekitech Co., Ltd.
-#  All rights reserved.
-
 BUSINESS_VERSION = '1.0.0'
 
 # -- BEGIN: AUTOMATED VERSIONING -- #
