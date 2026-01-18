@@ -1,4 +1,4 @@
-# PhenoGemini: A LLM for Rare Disease Diagnosis Using Twin Patients' Data
+# PhenoGemini-LLM Inference Code
 ## Quick Start
 ### Step 1: Install dependencies
 - transformers==4.56.2
