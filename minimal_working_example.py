@@ -107,7 +107,8 @@ A patient presents with Pallor, Jaundice, Hepatomegaly, Splenomegaly. This patie
 A patient presents with Pallor, Jaundice, Hepatomegaly, Splenomegaly. This patient has a mutation in <|PhenoGemini-Special-Token-Entrez-ID-85344|>.
 Based on all the information above, and my own general knowledge, this patient is likely to have a mutation in""", 
         tokenizer
-    )
+    )  # IMPORTANT: make sure the prompt passed to the LLM does NOT contain any trailing spaces, newline characters, or other extraneous whitespace AT THE END
+    
     inputs = tokenizer([text], return_tensors="pt")
     inputs = {k: v.to(next(model.parameters()).device) for k, v in inputs.items()}
     outputs = model(**inputs)
