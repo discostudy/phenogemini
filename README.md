@@ -1,6 +1,10 @@
 # PhenoGemini-LLM Inference Code
+![Static Badge](https://img.shields.io/badge/DISCOStudy%2FPhenoGemini-1?style=plastic&logo=huggingface&label=HuggingFace&labelColor=grey&color=green)
+![Static Badge](https://img.shields.io/badge/python-3.12.11-blue?style=plastic&logo=python&logoColor=white&label=Python&labelColor=grey)
+
 ## Quick Start
 ### Step 1: Install dependencies
+- python==3.12.11
 - transformers==4.56.2
 - torch==2.8.0
 - pandas==2.3.2
